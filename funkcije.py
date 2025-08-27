@@ -19,6 +19,14 @@ def izlusci_naslov(vrstica):
     oznaka_naslova = vrstica.find("h3", class_="anime_ranking_h3").find("a")
     return oznaka_naslova.text.strip()
 
+def izlusci_id(url):
+    # Izlušči anime id iz povezave
+    match = re.search(r"/anime/(\d+)/", url)
+    if match:
+        return int(match.group(1))
+    else:
+        return None
+
 def izlusci_link(vrstica):
     # Iz vrstice izlušči link do strani s podrobnejšimi podatki o animeju 
     oznaka_naslova = vrstica.find("h3", class_="anime_ranking_h3").find("a")

@@ -5,9 +5,14 @@ import pandas as pd
 # Glavna zanka 
 # Uporabimo funckije iz funkcije.py da zberemo vse potrebne podatke in jih nato shranimo v csv
 
-vsi_animeji = []
+anime_osnovno = []
+anime_studii = []
+anime_zvrsti = []
 
-for limit in range(0, 1000, 50): # 20 strani (0 do 950) kar nam da 1000 animejev
+for limit in range(0, 1300, 50): # 26 strani (0 do 1250) kar nam da 1300 animejev
+    # 1300 namesto 1000 zaradi opažene težave s pridobivanjem podatkov o zvrsteh,
+    # tiste animeje pri katerih vrne prazen seznam zvrsti bomo ignorirali
+    # tako bo skupaj pribljižno 1000 animejev
     print(f"pridobivam stran od mesta {limit + 1}...")
     url = f"https://myanimelist.net/topanime.php?limit={limit}"
     soup = url_v_soup(url)
@@ -19,12 +24,36 @@ for limit in range(0, 1000, 50): # 20 strani (0 do 950) kar nam da 1000 animejev
     for anime in animeji:
         podrobnosti = preberi_podrobnosti(anime["povezava"])
         anime.update(podrobnosti) # Združi oba slovarja
-        vsi_animeji.append(anime)
+        
+        # Izlušči id
+        anime_id = izlusci_id(anime["povezava"])
+        anime["anime_id"] = anime_id
+
+        # Shranimo osnovne podatke
+        anime_osnovno.append({
+            "anime id": anime_id,
+            "naslov": anime["naslov"],
+            "ocena": anime["ocena"],
+            "tip": anime["tip"],
+            "število epizod": anime["epizode"],
+            "leto izdaje": anime["leto izdaje"],
+        })
+
+        # Shrani zvrsti
+        if anime["zvrsti"]: # Samo če seznam ni prazen (popravek napake)
+            for z in anime["zvrsti"]:
+                anime_zvrsti.append({"anime_id": anime_id, "zvrst": z})
+
+        # Shrani studie
+        for s in anime["studii"]:
+            anime_studii.append({"anime_id": anime_id, "studio": s})
+
 
         time.sleep(1) # Majhna pavza da ne obremenjujemo strežnika
 
 
 # Shranimo podatke
-df = pd.DataFrame(vsi_animeji)
-df.to_csv("mal_top_1000.csv", index=False, encoding="utf-8-sig")
+pd.DataFrame(anime_osnovno).to_csv("anime.csv", index=False, encoding="utf-8-sig")
+pd.DataFrame(anime_zvrsti).to_csv("anime_zvrsti.csv", index=False, encoding="utf-8-sig")
+pd.DataFrame(anime_studii).to_csv("anime_studii.csv", index=False, encoding="utf-8-sig")
 print("Podatki shranjeni!")
