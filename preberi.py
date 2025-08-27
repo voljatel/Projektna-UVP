@@ -90,7 +90,7 @@ def izlusci_leto(soup):
         # Poiščemo prvo 4 mestno število (leto)
         match = re.search(r"\b(\d{4})\b", text)
         if match:
-            return match.group(1)
+            return int(match.group(1))
         else:
             return None
 
