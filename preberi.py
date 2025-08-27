@@ -94,6 +94,21 @@ def izlusci_leto(soup):
         else:
             return None
 
+def preberi_podrobnosti(url):
+    # Iz strani posameznega animeja vrne slovar podrobnejših podatkov
+    soup = Url_v_soup(url)
+    return {
+        "studii": izlusci_studie(soup),
+        "tip": izlusci_tip(soup),
+        "epizode": izlusci_epizode(soup),
+        "zvrsti": izlusci_zvrsti(soup),
+        "leto izdaje": izlusci_leto(soup),
+    }
+
+
+
+
+
 
 
 
