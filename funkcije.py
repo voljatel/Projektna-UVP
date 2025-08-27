@@ -1,11 +1,10 @@
 import re
 import requests
 from bs4 import BeautifulSoup
-import time
 
 
 
-def Url_v_soup(url):
+def url_v_soup(url):
     # Iz URL-ja vrne Beautifulsoup 
     headers = {"User-Agent": "Mozilla/5.0"} # Se pretvarja da je brskalnik da prepreči blokiranje 
     html = requests.get(url, headers=headers)
@@ -23,7 +22,7 @@ def izlusci_naslov(vrstica):
 def izlusci_link(vrstica):
     # Iz vrstice izlušči link do strani s podrobnejšimi podatki o animeju 
     oznaka_naslova = vrstica.find("h3", class_="anime_ranking_h3").find("a")
-    return oznaka_naslova["herf"]
+    return oznaka_naslova["href"]
 
 def izlusci_oceno(vrstica):
     # Iz vrstice izlušči oceno animeja 
@@ -40,7 +39,7 @@ def Razcleni_stran(soup):
     for vrstica in vrstice:
         animeji.append({
             "naslov": izlusci_naslov(vrstica),
-            "link": izlusci_link(vrstica),
+            "povezava": izlusci_link(vrstica),
             "ocena": izlusci_oceno(vrstica),
         })
     return animeji
@@ -96,7 +95,7 @@ def izlusci_leto(soup):
 
 def preberi_podrobnosti(url):
     # Iz strani posameznega animeja vrne slovar podrobnejših podatkov
-    soup = Url_v_soup(url)
+    soup = url_v_soup(url)
     return {
         "studii": izlusci_studie(soup),
         "tip": izlusci_tip(soup),
