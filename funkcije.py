@@ -101,15 +101,31 @@ def izlusci_leto(soup):
         else:
             return None
 
+def izlusci_stevilo(text):
+    # Pretvori string s številkami v int 
+    if not text:
+        return None
+    return int(re.sub(r"[^\d]", "", text)) # Odstrani vse razen številk
+
+def izlusci_clane(soup):
+    # Izlušči število članov (members) iz strani animeja
+    oznaka_clanov = soup.find("span", string="Members:")
+    for oznaka_clanov in oznaka_clanov.parent:
+        return izlusci_stevilo(oznaka_clanov.parent.text)
+    else:
+        return None
+
+
 def preberi_podrobnosti(url):
     # Iz strani posameznega animeja vrne slovar podrobnejših podatkov
     soup = url_v_soup(url)
     return {
         "studii": izlusci_studie(soup),
         "tip": izlusci_tip(soup),
-        "epizode": izlusci_epizode(soup),
+        "število epizod": izlusci_epizode(soup),
         "zvrsti": izlusci_zvrsti(soup),
         "leto izdaje": izlusci_leto(soup),
+        "število članov": izlusci_clane(soup),
     }
 
 

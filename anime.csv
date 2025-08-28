@@ -1,1301 +1,1001 @@
-﻿anime id,naslov,ocena,tip,število epizod,leto izdaje
-52991,Sousou no Frieren,9.29,TV,28,2023
-5114,Fullmetal Alchemist: Brotherhood,9.10,TV,64,2009
-9253,Steins;Gate,9.07,TV,24,2011
-38524,Shingeki no Kyojin Season 3 Part 2,9.05,TV,10,2019
-39486,Gintama: The Final,9.05,Movie,1,2021
-28977,Gintama°,9.05,TV,51,2015
-11061,Hunter x Hunter (2011),9.03,TV,148,2011
-60022,One Piece Fan Letter,9.03,TV Special,1,2024
-820,Ginga Eiyuu Densetsu,9.02,OVA,110,1988
-9969,Gintama',9.02,TV,51,2011
-15417,Gintama': Enchousen,9.02,TV,13,2012
-41467,Bleach: Sennen Kessen-hen,8.99,TV,13,2022
-34096,Gintama.,8.98,TV,12,2017
-43608,Kaguya-sama wa Kokurasetai: Ultra Romantic,8.97,TV,13,2022
-42938,Fruits Basket: The Final,8.95,TV,13,2021
-4181,Clannad: After Story,8.93,TV,24,2008
-918,Gintama,8.93,TV,201,2006
-28851,Koe no Katachi,8.93,Movie,1,2016
-58514,Kusuriya no Hitorigoto 2nd Season,8.91,TV,24,2025
-2904,Code Geass: Hangyaku no Lelouch R2,8.91,TV,25,2008
-35180,3-gatsu no Lion 2nd Season,8.90,TV,22,2017
-15335,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.90,Movie,1,2013
-19,Monster,8.89,TV,74,2004
-37491,Gintama. Shirogane no Tamashii-hen - Kouhan-sen,8.88,TV,14,2018
-60489,Takopii no Genzai,8.88,ONA,6,2025
-51535,Shingeki no Kyojin: The Final Season - Kanketsu-hen,8.86,TV Special,2,2023
-54492,Kusuriya no Hitorigoto,8.86,TV,24,2023
-35247,Owarimonogatari 2nd Season,8.86,TV Special,7,2017
-37987,Violet Evergarden Movie,8.84,Movie,1,2020
-59571,Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack,8.83,Movie,1,2024
-32281,Kimi no Na wa.,8.83,Movie,1,2016
-40682,Kingdom 3rd Season,8.83,TV,26,2020
-49387,Vinland Saga Season 2,8.82,TV,24,2023
-36838,Gintama. Shirogane no Tamashii-hen,8.81,TV,12,2018
-263,Hajime no Ippo,8.78,TV,75,2000
-59192,Kimetsu no Yaiba Movie: Mugen Jou-hen,8.78,Movie,3,2025
-31758,Kizumonogatari III: Reiketsu-hen,8.78,Movie,1,2017
-37510,Mob Psycho 100 II,8.78,TV,13,2019
-40028,Shingeki no Kyojin: The Final Season,8.78,TV,16,2020
-199,Sen to Chihiro no Kamikakushi,8.77,Movie,1,2001
-48583,Shingeki no Kyojin: The Final Season Part 2,8.77,TV,12,2022
-37521,Vinland Saga,8.77,TV,24,2019
-32935,Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8.77,TV,10,2016
-2921,Ashita no Joe 2,8.76,TV,47,1980
-17074,Monogatari Series: Second Season,8.76,TV,26,2013
-47917,Bocchi the Rock!,8.75,TV,12,2022
-1,Cowboy Bebop,8.75,TV,26,1998
-55690,Boku no Kokoro no Yabai Yatsu 2nd Season,8.73,TV,13,2024
-51009,Jujutsu Kaisen 2nd Season,8.73,TV,23,2023
-52198,Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai,8.73,Movie,1,2022
-50160,Kingdom 4th Season,8.73,TV,26,2022
-21,One Piece,8.73,TV,Unknown,1999
-53223,Kingdom 5th Season,8.72,TV,13,2024
-24701,Mushishi Zoku Shou 2nd Season,8.72,TV,10,2014
-44074,Shiguang Dailiren,8.72,ONA,11,2021
-45649,The First Slam Dunk,8.72,Movie,1,2022
-48569,86 Part 2,8.72,TV,12,2021
-39894,Hibike! Euphonium 3,8.72,TV,13,2024
-59845,Kaoru Hana wa Rin to Saku,8.71,TV,13,2025
-47778,Kimetsu no Yaiba: Yuukaku-hen,8.71,TV,11,2021
-50172,Mob Psycho 100 III,8.71,TV,12,2022
-53998,Bleach: Sennen Kessen-hen - Ketsubetsu-tan,8.70,TV,13,2023
-52215,Chi. Chikyuu no Undou ni Tsuite,8.70,TV,25,2024
-1575,Code Geass: Hangyaku no Lelouch,8.70,TV,25,2006
-33095,Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,8.70,TV,12,2017
-44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,8.69,OVA,4,1999
-33352,Violet Evergarden,8.69,TV,13,2018
-40434,Mo Dao Zu Shi: Wanjie Pian,8.68,ONA,12,2021
-21939,Mushishi Zoku Shou,8.68,TV,10,2014
-245,Great Teacher Onizuka,8.68,TV,43,1999
-56784,Bleach: Sennen Kessen-hen - Soukoku-tan,8.67,TV,14,2024
-59986,Grand Blue Season 2,8.67,TV,12,2025
-5258,Hajime no Ippo: New Challenger,8.67,TV,26,2009
-431,Howl no Ugoku Shiro,8.67,Movie,1,2004
-164,Mononoke Hime,8.67,Movie,1,1997
-57864,Monogatari Series: Off & Monster Season,8.66,ONA,14,2024
-58567,Ore dake Level Up na Ken Season 2: Arise from the Shadow,8.66,TV,13,2025
-457,Mushishi,8.65,TV,26,2005
-49413,Shiguang Dailiren II,8.65,ONA,12,2023
-50399,Tian Guan Cifu Er,8.65,ONA,12,2023
-23273,Shigatsu wa Kimi no Uso,8.64,TV,22,2014
-35760,Shingeki no Kyojin Season 3,8.64,TV,12,2018
-2001,Tengen Toppa Gurren Lagann,8.64,TV,27,2007
-46102,Odd Taxi,8.64,TV,13,2021
-33050,Fate/stay night Movie: Heaven's Feel - III. Spring Song,8.64,Movie,1,2020
-58125,Look Back,8.63,Movie,1,2024
-34599,Made in Abyss,8.63,TV,13,2017
-45576,Mushoku Tensei: Isekai Ittara Honki Dasu Part 2,8.63,TV,12,2021
-11665,Natsume Yuujinchou Shi,8.63,TV,13,2012
-40591,Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen,8.62,TV,12,2020
-22135,Ping Pong the Animation,8.62,TV,11,2014
-57647,Uma Musume: Pretty Derby - Shin Jidai no Tobira,8.62,Movie,1,2024
-54898,Bungou Stray Dogs 5th Season,8.62,TV,11,2023
-1535,Death Note,8.62,TV,37,2006
-49818,Guimi Zhi Zhu: Xiaochou Pian,8.62,ONA,13,2025
-28891,Haikyuu!! Second Season,8.62,TV,25,2015
-42310,Cyberpunk: Edgerunners,8.61,ONA,10,2022
-52742,Haikyuu!! Movie: Gomisuteba no Kessen,8.61,Movie,1,2024
-19647,Hajime no Ippo: Rising,8.61,TV,25,2013
-36862,Made in Abyss Movie 3: Fukaki Tamashii no Reimei,8.61,Movie,1,2020
-41084,Made in Abyss: Retsujitsu no Ougonkyou,8.61,TV,12,2022
-34591,Natsume Yuujinchou Roku,8.61,TV,11,2017
-33,Kenpuu Denki Berserk,8.60,TV,25,1997
-52701,Dungeon Meshi,8.60,TV,24,2024
-4565,Tengen Toppa Gurren Lagann Movie 2: Lagann-hen,8.60,Movie,1,2009
-38329,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,8.59,Movie,1,2019
-7311,Suzumiya Haruhi no Shoushitsu,8.59,Movie,1,2010
-3786,Shin Evangelion Movie:||,8.58,Movie,1,2021
-37991,JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8.58,TV,39,2018
-28957,Mushishi Zoku Shou: Suzu no Shizuku,8.58,Movie,1,2015
-877,Nana,8.57,TV,47,2006
-55823,Natsume Yuujinchou Shichi,8.57,TV,12,2024
-31757,Kizumonogatari II: Nekketsu-hen,8.56,Movie,1,2016
-32983,Natsume Yuujinchou Go,8.56,TV,11,2016
-10379,Natsume Yuujinchou San,8.56,TV,13,2011
-12355,Ookami Kodomo no Ame to Yuki,8.56,Movie,1,2012
-16498,Shingeki no Kyojin,8.56,TV,25,2013
-32,"Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",8.56,Movie,1,1997
-52034,[Oshi no Ko],8.56,TV,11,2023
-49701,Doupo Cangqiong: San Nian Zhi Yue,8.56,ONA,13,2021
-40776,Haikyuu!! To the Top Part 2,8.56,TV,12,2020
-40456,Kimetsu no Yaiba Movie: Mugen Ressha-hen,8.55,Movie,1,2020
-36098,Kimi no Suizou wo Tabetai,8.55,Movie,1,2018
-437,Perfect Blue,8.55,Movie,1,1998
-28735,Shouwa Genroku Rakugo Shinjuu,8.55,TV,13,2016
-170,Slam Dunk,8.55,TV,101,1993
-59636,Uma Musume: Cinderella Gray,8.55,TV,13,2025
-7785,Yojouhan Shinwa Taikei,8.55,TV,11,2010
-55791,[Oshi no Ko] 2nd Season,8.55,TV,13,2024
-30484,Steins;Gate 0,8.54,TV,23,2018
-60543,Dandadan 2nd Season,8.54,TV,12,2025
-11741,Fate/Zero 2nd Season,8.54,TV,12,2012
-40748,Jujutsu Kaisen,8.54,TV,24,2020
-25777,Shingeki no Kyojin Season 2,8.53,TV,12,2017
-5300,Zoku Natsume Yuujinchou,8.53,TV,13,2009
-40417,Fruits Basket 2nd Season,8.53,TV,25,2020
-578,Hotaru no Haka,8.53,Movie,1,1988
-12365,Bakuman. 3rd Season,8.52,TV,25,2012
-7472,Gintama Movie 1: Shinyaku Benizakura-hen,8.52,Movie,1,2010
-53273,JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3,8.52,ONA,14,2022
-21329,Mushishi: Hihamukage,8.52,TV Special,1,2014
-205,Samurai Champloo,8.52,TV,26,2004
-40664,Shoujo☆Kageki Revue Starlight Movie,8.51,Movie,1,2021
-35843,Gintama. Porori-hen,8.51,TV,13,2017
-4282,Kara no Kyoukai Movie 5: Mujun Rasen,8.51,Movie,1,2008
-801,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,8.51,TV,26,2004
-60544,Nezha Zhi Mo Tong Nao Hai,8.51,Movie,1,2025
-31933,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8.50,TV,39,2016
-35839,Sora yori mo Tooi Basho,8.50,TV,13,2018
-38474,Yuru Camp△ Season 2,8.50,TV,13,2021
-44070,Tian Guan Cifu Special,8.49,ONA,1,2021
-11981,Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari,8.49,Movie,1,2013
-32182,Mob Psycho 100,8.49,TV,12,2016
-40834,Ousama Ranking,8.49,TV,23,2021
-30276,One Punch Man,8.48,TV,12,2015
-12431,Uchuu Kyoudai,8.48,TV,99,2012
-37779,Yakusoku no Neverland,8.48,TV,12,2019
-47194,Summertime Render,8.47,TV,25,2022
-38450,Mo Dao Zu Shi: Xian Yun Pian,8.47,ONA,8,2019
-10165,Nichijou,8.47,TV,26,2011
-30654,Ansatsu Kyoushitsu 2nd Season,8.47,TV,25,2016
-3297,Aria the Origination,8.47,TV,13,2008
-57334,Dandadan,8.47,TV,12,2024
-33049,Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly,8.47,Movie,1,2019
-37379,Chihayafuru 3,8.46,TV,24,2019
-44087,Gintama: The Semi-Final,8.46,Special,2,2021
-60988,Tian Guan Cifu Short Film,8.46,ONA,Unknown,2025
-392,Yuu☆Yuu☆Hakusho,8.46,TV,112,1992
-56538,Kimi ni Todoke 3rd Season,8.46,ONA,5,2024
-37208,Mo Dao Zu Shi,8.46,ONA,15,2018
-6114,Rainbow: Nisha Rokubou no Shichinin,8.46,TV,26,2010
-31181,Owarimonogatari,8.45,TV,12,2015
-35737,Pluto,8.45,ONA,8,2023
-36649,Banana Fish,8.45,TV,24,2018
-58222,Given Movie 3: Umi e,8.45,Movie,1,2024
-50265,Spy x Family,8.45,TV,12,2022
-11577,Steins;Gate Movie: Fuka Ryouiki no Déjà vu,8.45,Movie,1,2013
-53447,Tu Bian Yingxiong X,8.45,ONA,24,2025
-26055,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen,8.44,TV,24,2015
-54857,Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season,8.44,TV,16,2024
-44511,Chainsaw Man,8.44,TV,12,2022
-51039,Doupo Cangqiong: Nian Fan,8.44,ONA,209,2022
-37105,Grand Blue,8.44,TV,12,2018
-40059,Golden Kamuy 3rd Season,8.43,TV,12,2020
-20583,Haikyuu!!,8.43,TV,25,2014
-136,Hunter x Hunter,8.43,TV,62,1999
-36999,Zoku Owarimonogatari,8.43,TV,6,2019
-38000,Kimetsu no Yaiba,8.43,TV,26,2019
-49722,Karakai Jouzu no Takagi-san Movie,8.42,Movie,1,2022
-38889,Kono Oto Tomare! Part 2,8.42,TV,13,2019
-467,Koukaku Kidoutai: Stand Alone Complex,8.42,TV,26,2002
-24687,Mushishi Zoku Shou: Odoro no Michi,8.42,TV Special,1,2014
-42203,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2,8.42,TV,12,2021
-50330,Bungou Stray Dogs 4th Season,8.42,TV,13,2023
-21899,Gintama: Yorinuki Gintama-san on Theater 2D,8.42,Movie,2,2012
-39741,Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou,8.42,Movie,1,2019
-45556,Wu Liuqi: Xuanwu Guo Pian,8.42,ONA,10,2021
-36885,Saenai Heroine no Sodatekata Fine,8.41,Movie,1,2019
-33255,Saiki Kusuo no Ψ-nan,8.41,TV,120,2016
-34612,Saiki Kusuo no Ψ-nan 2,8.41,TV,24,2018
-25781,Shingeki no Kyojin: Kuinaki Sentaku,8.41,OVA,2,2014
-40730,Tian Guan Cifu,8.41,ONA,11,2020
-38040,Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu,8.41,Movie,1,2019
-2246,Mononoke,8.41,TV,12,2007
-55888,Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2,8.41,TV,12,2024
-36538,Natsume Yuujinchou Movie: Utsusemi ni Musubu,8.41,Movie,1,2018
-48561,Jujutsu Kaisen 0 Movie,8.40,Movie,1,2021
-37999,Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8.40,TV,12,2019
-30709,Kamisama Hajimemashita: Kako-hen,8.40,OVA,4,2015
-36275,Natsume Yuujinchou Roku Specials,8.40,Special,2,2017
-5028,Major S5,8.39,TV,25,2009
-4921,Ramayana: The Legend of Prince Rama,8.39,Movie,1,1993
-35851,Sayonara no Asa ni Yakusoku no Hana wo Kazarou,8.39,Movie,1,2018
-50183,Blue Giant,8.39,Movie,1,2023
-35557,Houseki no Kuni,8.39,TV,12,2017
-5,Cowboy Bebop: Tengoku no Tobira,8.38,Movie,1,2001
-32366,Gintama°: Aizome Kaori-hen,8.38,OVA,2,2016
-40787,Josee to Tora to Sakana-tachi,8.38,Movie,1,2020
-37965,Kaze ga Tsuyoku Fuiteiru,8.38,TV,23,2018
-37515,Made in Abyss Movie 2: Hourou Suru Tasogare,8.38,Movie,1,2019
-9756,Mahou Shoujo Madoka★Magica,8.38,TV,12,2011
-56523,Tunshi Xingkong 3rd Season,8.38,ONA,33,2022
-53672,Violet Evergarden: Recollections,8.38,Special,1,2021
-46095,Vivy: Fluorite Eye's Song,8.38,TV,13,2021
-55809,Xian Ni,8.38,ONA,128,2023
-38475,Yuru Camp△ Movie,8.38,Movie,1,2022
-31646,3-gatsu no Lion,8.37,TV,22,2016
-22789,Barakamon,8.37,TV,12,2014
-14397,Chihayafuru 2,8.37,TV,25,2013
-5941,Cross Game,8.37,TV,50,2009
-49310,Fruits Basket: Prelude,8.37,Movie,1,2022
-55102,Girls Band Cry,8.37,TV,13,2024
-38883,Haikyuu!! To the Top,8.37,TV,13,2020
-5205,Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go),8.37,Movie,1,2009
-49721,Karakai Jouzu no Takagi-san 3,8.37,TV,12,2022
-11979,Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari,8.37,Movie,1,2012
-55318,Medalist,8.37,TV,13,2025
-185,Initial D First Stage,8.36,TV,26,1998
-9617,K-On! Movie,8.36,Movie,1,2011
-9260,Kizumonogatari I: Tekketsu-hen,8.36,Movie,1,2016
-30,Shinseiki Evangelion,8.36,TV,26,1995
-53065,Sono Bisque Doll wa Koi wo Suru Season 2,8.36,TV,12,2025
-6945,Gintama: Shiroyasha Koutan,8.36,Special,1,2008
-39167,Girls & Panzer: Saishuushou Part 4,8.36,Movie,1,2023
-2251,Baccano!,8.35,TV,13,2007
-50250,Chiikawa,8.35,TV,Unknown,2022
-37822,Douluo Dalu 2nd Season,8.35,ONA,237,2018
-572,Kaze no Tani no Nausicaä,8.35,Movie,1,1984
-49926,Kimetsu no Yaiba: Mugen Ressha-hen,8.35,TV,7,2021
-49458,Kono Subarashii Sekai ni Shukufuku wo! 3,8.35,TV,11,2024
-53540,Meitantei Conan Movie 26: Kurogane no Submarine,8.35,Movie,1,2023
-39535,Mushoku Tensei: Isekai Ittara Honki Dasu,8.35,TV,11,2021
-39808,Non Non Biyori Nonstop,8.35,TV,12,2021
-39551,Tensei shitara Slime Datta Ken 2nd Season,8.35,TV,12,2021
-56524,Tunshi Xingkong 4th Season,8.35,ONA,123,2023
-338,Versailles no Bara,8.35,TV,40,1979
-37095,"Violet Evergarden: Kitto ""Ai"" wo Shiru Hi ga Kuru no Darou",8.35,Special,1,2018
-39547,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan,8.35,TV,12,2020
-2402,Ashita no Joe,8.34,TV,79,1970
-41025,Fumetsu no Anata e,8.34,TV,20,2021
-777,Hellsing Ultimate,8.34,OVA,10,2006
-31988,Hibike! Euphonium 2,8.34,TV,13,2016
-46654,IDOLiSH7 Third Beat! Part 2,8.34,TV,17,2022
-41457,86,8.33,TV,11,2021
-10030,Bakuman. 2nd Season,8.33,TV,25,2011
-55357,Bocchi the Rock! Movie,8.33,Movie,2,2024
-50407,Wu Shan Wu Xing: Xichuan Huan Zi Lin,8.33,ONA,4,2023
-20651,Natsume Yuujinchou: Itsuka Yuki no Hi ni,8.33,OVA,1,2014
-13601,Psycho-Pass,8.33,TV,22,2012
-39587,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season,8.33,TV,13,2020
-10937,Kidou Senshi Gundam: The Origin,8.32,OVA,6,2015
-22535,Kiseijuu: Sei no Kakuritsu,8.32,TV,24,2014
-5040,One Outs,8.32,TV,25,2008
-5081,Bakemonogatari,8.32,TV,15,2009
-28701,Fate/stay night: Unlimited Blade Works 2nd Season,8.32,TV,13,2015
-42886,Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu,8.32,Movie,12,2022
-51805,Ginga Eiyuu Densetsu: Die Neue These - Sakubou,8.32,Movie,12,2022
-10162,Usagi Drop,8.32,TV,11,2011
-2559,Romeo no Aoi Sora,8.31,TV,33,1995
-54870,Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai,8.31,Movie,1,2023
-56752,Shiguang Dailiren: Yingdu Pian,8.31,ONA,6,2024
-49571,Tunshi Xingkong 2nd Season,8.31,ONA,26,2021
-12029,Uchuu Senkan Yamato 2199,8.31,OVA,26,2012
-7655,Major S6,8.31,TV,25,2010
-34534,Natsume Yuujinchou Go Specials,8.31,Special,2,2017
-1210,NHK ni Youkoso!,8.31,TV,24,2006
-55644,Dr. Stone: New World Part 2,8.31,TV,11,2023
-137,Hunter x Hunter: Original Video Animation,8.31,OVA,8,2002
-31043,Boku dake ga Inai Machi,8.30,TV,12,2016
-30230,Diamond no Ace: Second Season,8.30,TV,51,2015
-10534,Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi,8.30,Movie,1,2011
-3784,Evangelion Movie 2: Ha,8.30,Movie,1,2009
-51440,Sasaki to Miyano Movie: Sotsugyou-hen,8.30,Movie,1,2023
-41487,Tensei shitara Slime Datta Ken 2nd Season Part 2,8.30,TV,12,2021
-17389,Kingdom 2nd Season,8.30,TV,39,2013
-40211,Luo Xiao Hei Zhan Ji (Movie),8.30,Movie,1,2019
-4081,Natsume Yuujinchou,8.30,TV,13,2008
-5341,Ookami to Koushinryou II,8.30,TV,12,2009
-22507,Initial D Final Stage,8.29,TV,4,2014
-6594,Katanagatari,8.29,TV,12,2010
-5420,Kemono no Souja Erin,8.29,TV,50,2009
-24415,Kuroko no Basket 3rd Season,8.29,TV,25,2015
-1365,Meitantei Conan Movie 06: Baker Street no Bourei,8.29,Movie,1,2002
-6675,Redline,8.29,Movie,1,2009
-9989,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8.29,TV,11,2011
-57,Beck,8.29,TV,26,2004
-39533,Given,8.29,TV,11,2019
-12531,Sakamichi no Apollon,8.29,TV,12,2012
-10863,Steins;Gate: Oukoubakko no Poriomania,8.29,Special,1,2012
-43325,Yuukoku no Moriarty Part 2,8.29,TV,13,2021
-45,Rurouni Kenshin: Meiji Kenkaku Romantan,8.28,TV,94,1996
-2150,Tanoshii Muumin Ikka,8.28,TV,78,1990
-759,Tokyo Godfathers,8.28,Movie,1,2003
-58390,Yofukashi no Uta Season 2,8.29,TV,12,2025
-54595,Kage no Jitsuryokusha ni Naritakute! 2nd Season,8.28,TV,12,2023
-486,Kino no Tabi: The Beautiful World,8.28,TV,13,2003
-11917,Major: World Series,8.28,OVA,2,2011
-1735,Naruto: Shippuuden,8.28,TV,500,2007
-36371,Ginga Eiyuu Densetsu: Die Neue These - Seiran 3,8.28,Movie,4,2019
-38731,Diamond no Ace: Act II,8.27,TV,52,2019
-30346,Doukyuusei,8.27,Movie,1,2016
-10087,Fate/Zero,8.27,TV,13,2011
-19363,Gin no Saji 2nd Season,8.27,TV,11,2014
-9735,Gintama: Shinyaku Benizakura-hen,8.27,Special,1,2010
-10408,Hotarubi no Mori e,8.27,Movie,1,2011
-58572,"Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",8.27,TV,25,2024
-25835,Shirobako,8.27,TV,24,2014
-38826,Tenki no Ko,8.27,Movie,1,2019
-34798,Yuru Camp△,8.27,TV,12,2018
-52588,Kaijuu 8-gou,8.27,TV,12,2024
-43,Koukaku Kidoutai,8.27,Movie,1,1995
-37520,Dororo,8.26,TV,24,2019
-44412,Doupo Cangqiong 4th Season,8.26,ONA,24,2021
-38691,Dr. Stone,8.26,TV,24,2019
-3002,Gyakkyou Burai Kaiji: Ultimate Survivor,8.26,TV,26,2007
-57433,Seishun Buta Yarou wa Santa Claus no Yume wo Minai,8.26,TV,13,2025
-23327,Space☆Dandy 2nd Season,8.26,TV,13,2014
-32188,Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero,8.26,TV Special,1,2015
-50594,Suzume no Tojimari,8.26,Movie,1,2022
-513,Tenkuu no Shiro Laputa,8.26,Movie,1,1986
-2685,Tsubasa: Tokyo Revelations,8.26,OVA,3,2007
-13125,Shinsekai yori,8.25,TV,25,2012
-2418,Stranger: Mukou Hadan,8.25,Movie,1,2007
-523,Tonari no Totoro,8.25,Movie,1,1988
-31812,Kuroshitsuji Movie: Book of the Atlantic,8.25,Movie,1,2017
-1698,Nodame Cantabile,8.25,TV,23,2007
-53111,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen,8.25,TV,11,2023
-57067,Fanren Xiu Xian Chuan: Xinghai Feichi,8.25,ONA,48,2023
-35111,Haikyuu!! Movie 4: Concept no Tatakai,8.25,Movie,1,2017
-264,Hajime no Ippo: Champion Road,8.25,TV Special,1,2003
-265,Hajime no Ippo: Mashiba vs. Kimura,8.25,OVA,1,2003
-139,Hunter x Hunter: Greed Island Final,8.25,OVA,14,2004
-57592,Dr. Stone: Science Future,8.24,TV,12,2025
-37989,Golden Kamuy 2nd Season,8.24,TV,12,2018
-10271,Gyakkyou Burai Kaiji: Hakairoku-hen,8.24,TV,26,2011
-1033,Sennen Joyuu,8.24,Movie,1,2002
-44940,World Trigger 3rd Season,8.24,TV,14,2021
-48316,Kage no Jitsuryokusha ni Naritakute!,8.24,TV,20,2022
-32937,Kono Subarashii Sekai ni Shukufuku wo! 2,8.24,TV,10,2017
-34036,Meitantei Conan: Episode One - Chiisaku Natta Meitantei,8.24,TV Special,1,2016
-36990,Non Non Biyori Movie: Vacation,8.24,Movie,1,2018
-329,Planetes,8.24,TV,26,2003
-31240,Re:Zero kara Hajimeru Isekai Seikatsu,8.24,TV,25,2016
-25681,Kamisama Hajimemashita◎,8.23,TV,12,2015
-33051,Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season,8.23,TV,25,2016
-512,Majo no Takkyuubin,8.23,Movie,1,1989
-52299,Ore dake Level Up na Ken,8.23,TV,12,2024
-28805,Bakemono no Ko,8.23,Movie,1,2015
-54959,BanG Dream! It's MyGO!!!!!,8.23,TV,13,2023
-11843,Danshi Koukousei no Nichijou,8.23,TV,12,2012
-45577,IDOLiSH7 Third Beat!,8.23,TV,13,2021
-37450,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8.23,TV,13,2018
-52684,Shen Yin Wangzuo 2nd Season,8.23,ONA,182,2022
-35838,Shoujo Shuumatsu Ryokou,8.23,TV,12,2017
-42941,Uma Musume: Pretty Derby Season 2,8.23,TV,13,2021
-54029,Wu Liuqi: Anying Suming,8.23,ONA,10,2023
-37055,Youjo Senki Movie,8.23,Movie,1,2019
-440,Shoujo Kakumei Utena,8.22,TV,39,1997
-6,Trigun,8.22,TV,26,1998
-40784,Wu Liuqi: Zui Qiang Fa Xing Shi,8.22,ONA,10,2019
-39247,Kobayashi-san Chi no Maid Dragon S,8.22,TV,12,2021
-15227,Kono Sekai no Katasumi ni,8.22,Movie,1,2016
-35677,Liz to Aoi Tori,8.22,Movie,1,2018
-11977,Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari,8.22,Movie,1,2012
-585,Mimi wo Sumaseba,8.22,Movie,1,1995
-5690,Nodame Cantabile Finale,8.22,TV,11,2010
-49918,Boku no Hero Academia 6th Season,8.22,TV,25,2022
-52578,Boku no Kokoro no Yabai Yatsu,8.22,TV,12,2023
-12115,Berserk: Ougon Jidai-hen III - Kourin,8.21,Movie,1,2013
-372,Cardcaptor Sakura Movie 2: Fuuin Sareta Card,8.21,Movie,1,2000
-61322,Dr. Stone: Science Future Part 2,8.21,TV,12,2025
-38680,Fruits Basket 1st Season,8.21,TV,25,2019
-38249,Saiki Kusuo no Ψ-nan: Kanketsu-hen,8.21,TV Special,1,2018
-50602,Spy x Family Part 2,8.21,TV,13,2022
-53393,Tengoku Daimakyou,8.21,TV,13,2023
-16664,Kaguya-hime no Monogatari,8.21,Movie,1,2013
-1842,Major S3,8.21,TV,26,2007
-51179,Mushoku Tensei II: Isekai Ittara Honki Dasu,8.21,TV,12,2023
-2966,Ookami to Koushinryou,8.21,TV,13,2008
-35466,ReLIFE: Kanketsu-hen,8.21,Special,4,2018
-6811,InuYasha: Kanketsu-hen,8.20,TV,26,2009
-16894,Kuroko no Basket 2nd Season,8.20,TV,25,2013
-18115,Magi: The Kingdom of Magic,8.20,TV,25,2013
-627,Major S1,8.20,TV,26,2004
-5460,Meitantei Conan Movie 13: Shikkoku no Chaser,8.20,Movie,1,2009
-37078,Quanzhi Gaoshou Specials,8.20,ONA,3,2018
-38003,Bungou Stray Dogs 3rd Season,8.20,TV,12,2019
-36946,Dragon Ball Super: Broly,8.20,Movie,1,2018
-813,Dragon Ball Z,8.20,TV,291,1989
-40052,Great Pretender,8.20,TV,23,2020
-35110,Haikyuu!! Movie 3: Sainou to Sense,8.20,Movie,1,2017
-9863,SKET Dance,8.20,TV,77,2011
-59150,Wu Liuqi: Jiyi Suipian,8.20,ONA,10,2024
-3091,xxxHOLiC◆Kei,8.20,TV,13,2008
-23847,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8.20,TV,13,2015
-55866,Yubisaki to Renren,8.20,TV,12,2024
-44055,Sasaki to Miyano,8.19,TV,12,2022
-32843,Senki Zesshou Symphogear XV,8.19,TV,13,2019
-40853,Stand By Me Doraemon 2,8.19,Movie,1,2020
-49114,Vanitas no Karte Part 2,8.19,TV,12,2022
-186,Initial D Second Stage,8.19,TV,13,1999
-1453,Maison Ikkoku,8.19,TV,96,1986
-40435,Mo Dao Zu Shi Q,8.19,ONA,30,2020
-59408,Mononoke Movie: Dai-2 Shou - Hinezumi,8.19,Movie,1,2025
-57181,Ao no Hako,8.19,TV,25,2024
-37171,Asobi Asobase,8.19,TV,12,2018
-18617,Girls & Panzer Movie,8.19,Movie,1,2015
-42897,Horimiya,8.19,TV,13,2021
-34636,Ballroom e Youkoso,8.18,TV,24,2017
-232,Cardcaptor Sakura,8.18,TV,70,1998
-10800,Chihayafuru,8.18,TV,25,2011
-22297,Fate/stay night: Unlimited Blade Works,8.18,TV,12,2014
-53127,Fate/strange Fake: Whispers of Dawn,8.18,TV Special,1,2023
-36370,Ginga Eiyuu Densetsu: Die Neue These - Seiran 2,8.18,Movie,4,2019
-1142,Hachimitsu to Clover II,8.18,TV,12,2006
-138,Hunter x Hunter: Greed Island,8.18,OVA,8,2003
-6864,xxxHOLiC Rou,8.18,OVA,2,2010
-49574,Yi Nian Yong Heng: Chuan Cheng Pian,8.18,ONA,54,2022
-49590,Yojouhan Time Machine Blues,8.18,ONA,6,2022
-7791,K-On!!,8.18,TV,26,2010
-51019,Kimetsu no Yaiba: Katanakaji no Sato-hen,8.18,TV,11,2023
-37514,Made in Abyss Movie 1: Tabidachi no Yoake,8.18,Movie,1,2019
-3226,Major S4,8.18,TV,26,2008
-235,Meitantei Conan,8.18,TV,Unknown,1996
-32005,Meitantei Conan Movie 20: Junkoku no Nightmare,8.18,Movie,1,2016
-40729,Nomad: Megalo Box 2,8.18,TV,13,2021
-23623,Non Non Biyori Repeat,8.18,TV,12,2015
-38234,One Piece Movie 14: Stampede,8.18,Movie,1,2019
-19123,One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari,8.18,TV Special,1,2013
-18,Initial D Fourth Stage,8.17,TV,24,2004
-33323,"Kamisama Hajimemashita: Kamisama, Shiawase ni Naru",8.17,OVA,1,2016
-59833,Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage,8.17,OVA,2,2025
-59228,Kuroshitsuji: Midori no Majo-hen,8.17,TV,13,2025
-18195,Little Busters! Refrain,8.17,TV,13,2013
-558,Major S2,8.17,TV,26,2005
-42894,Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha,8.17,Movie,1,2021
-33674,No Game No Life: Zero,8.17,Movie,1,2017
-7674,Bakuman.,8.17,TV,25,2010
-1519,Black Lagoon: The Second Barrage,8.17,TV,12,2006
-32867,Bungou Stray Dogs 2nd Season,8.17,TV,12,2016
-55655,Cang Yuan Tu,8.17,ONA,26,2023
-38088,Digimon Adventure: Last Evolution Kizuna,8.17,Movie,1,2020
-60557,Fanren Xiu Xian Chuan: Waihai Fengyun,8.17,ONA,52,2025
-39166,Girls & Panzer: Saishuushou Part 3,8.17,Movie,1,2021
-4107,Tengen Toppa Gurren Lagann Movie 1: Gurren-hen,8.17,Movie,1,2008
-34537,Yoru wa Mijikashi Arukeyo Otome,8.17,Movie,1,2017
-40911,Yuukoku no Moriarty,8.17,TV,11,2020
-56215,Yi Nian Yong Heng 3rd Season,8.16,ONA,59,2024
-49909,Kotarou wa Hitorigurashi,8.16,ONA,10,2022
-853,Ouran Koukou Host Club,8.16,TV,26,2006
-47,Akira,8.16,Movie,1,1988
-49052,Ao Ashi,8.16,TV,24,2022
-962,Aria the Natural,8.16,TV,26,2006
-49596,Blue Lock,8.16,TV,24,2022
-1889,Higurashi no Naku Koro ni Kai,8.16,TV,24,2007
-58913,Hikaru ga Shinda Natsu,8.16,TV,12,2025
-48549,Dr. Stone: New World,8.15,TV,11,2023
-40852,Dr. Stone: Stone Wars,8.15,TV,11,2021
-25537,Fate/stay night Movie: Heaven's Feel - I. Presage Flower,8.15,Movie,1,2017
-44042,Holo no Graffiti,8.15,ONA,Unknown,2019
-1430,Lupin III: Cagliostro no Shiro,8.15,Movie,1,1979
-50709,Lycoris Recoil,8.15,TV,13,2022
-49521,Non Non Biyori Nonstop: Bukatsu wo Ganbatta,8.15,OVA,1,2022
-3701,Kaiba,8.14,TV,12,2008
-28675,Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen,8.14,Movie,1,2015
-30503,Noragami Aragoto,8.14,TV,13,2015
-721,Princess Tutu,8.14,TV,38,2002
-48736,Sono Bisque Doll wa Koi wo Suru,8.14,TV,12,2022
-38481,Toaru Kagaku no Railgun T,8.14,TV,25,2020
-34572,Black Clover,8.14,TV,170,2017
-3371,Ginga Eiyuu Densetsu Gaiden,8.14,OVA,24,1998
-54856,Horimiya: Piece,8.14,TV,13,2023
-28223,Death Parade,8.13,TV,12,2015
-50612,Dr. Stone: Ryuusui,8.13,TV Special,1,2022
-41361,Eiga Daisuki Pompo-san,8.13,Movie,1,2021
-39792,Eizouken ni wa Te wo Dasu na!,8.13,TV,12,2020
-49053,Given: Uragawa no Sonzai,8.13,OVA,1,2021
-37962,IDOLiSH7 Second Beat!,8.13,TV,15,2020
-731,Interstella5555: The 5tory of The 5ecret 5tar 5ystem,8.13,Movie,1,2003
-16662,Kaze Tachinu,8.13,Movie,1,2013
-39592,Kidou Senshi Gundam: The Origin - Zenya Akai Suisei,8.13,TV,13,2019
-9890,Major: Message,8.13,OVA,1,2010
-11597,Nisemonogatari,8.13,TV,11,2012
-4477,Nodame Cantabile: Paris-hen,8.13,TV,11,2008
-51335,Shen Yin Wangzuo,8.13,ONA,26,2022
-56738,Shinigami Bocchan to Kuro Maid 3rd Season,8.13,TV,12,2024
-37430,Tensei shitara Slime Datta Ken,8.13,TV,24,2018
-55911,The Fable,8.13,TV,25,2024
-31715,Working!!! Lord of the Takanashi,8.13,Special,1,2016
-1827,Seirei no Moribito,8.12,TV,26,2007
-28171,Shokugeki no Souma,8.12,TV,24,2015
-53888,Spy x Family Movie: Code: White,8.12,Movie,1,2023
-21469,Stand By Me Doraemon,8.12,Movie,1,2014
-25313,Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru,8.12,Special,1,2015
-50528,Golden Kamuy 4th Season,8.12,TV,13,2022
-36296,Hinamatsuri,8.12,TV,12,2018
-14713,Kamisama Hajimemashita,8.12,TV,13,2012
-1604,Katekyou Hitman Reborn!,8.12,TV,203,2006
-35857,Lupin III: Part 5,8.12,TV,24,2018
-59841,Ore dake Level Up na Ken: ReAwakening,8.12,Movie,1,2024
-15059,Initial D Fifth Stage,8.11,TV,14,2012
-20899,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8.11,TV,24,2014
-8129,Kuragehime,8.11,TV,11,2010
-10153,Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's,8.11,Movie,1,2012
-57524,Make Heroine ga Oosugiru!,8.11,TV,12,2024
-1364,Meitantei Conan Movie 05: Tengoku e no Countdown,8.11,Movie,1,2001
-6467,Meitantei Conan Movie 14: Tenkuu no Lost Ship,8.11,Movie,1,2010
-12859,One Piece Film: Z,8.11,Movie,1,2012
-15323,One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna,8.11,TV Special,1,2012
-51122,Ookami to Koushinryou: Merchant Meets the Wise Wolf,8.11,TV,25,2024
-40542,Saiki Kusuo no Ψ-nan: Ψ-shidou-hen,8.11,ONA,6,2019
-50416,Skip to Loafer,8.11,TV,12,2023
-29831,Tamayura: Sotsugyou Shashin Part 4 - Ashita,8.11,Movie,1,2016
-53411,Buddy Daddies,8.11,TV,12,2023
-18689,Diamond no Ace,8.11,TV,75,2013
-121,Fullmetal Alchemist,8.11,TV,51,2003
-239,Gankutsuou,8.11,TV,24,2004
-40421,Given Movie 1,8.11,Movie,1,2020
-30370,Akatsuki no Yona OVA,8.10,OVA,3,2015
-60420,Cang Yuan Tu 2nd Season,8.10,ONA,36,2024
-35608,Chuunibyou demo Koi ga Shitai! Movie: Take On Me,8.10,Movie,1,2018
-49709,Fumetsu no Anata e Season 2,8.10,TV,20,2022
-30364,Haikyuu!! Movie 2: Shousha to Haisha,8.10,Movie,1,2015
-2581,Kidou Senshi Gundam 00,8.10,TV,25,2007
-1566,Koukaku Kidoutai: Stand Alone Complex - Solid State Society,8.10,TV Special,1,2006
-50380,Paripi Koumei,8.10,TV,12,2022
-9130,Saint Seiya: The Lost Canvas - Meiou Shinwa 2,8.10,OVA,13,2011
-52347,"Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",8.10,TV,25,2023
-339,Serial Experiments Lain,8.09,TV,13,1998
-2236,Toki wo Kakeru Shoujo,8.09,Movie,1,2006
-52826,Tsurune: Tsunagari no Issha,8.09,TV,13,2023
-1382,Yuusha-Ou GaoGaiGar Final,8.09,OVA,8,2000
-3702,Detroit Metal City,8.09,OVA,12,2008
-6746,Durarara!!,8.09,TV,24,2010
-16918,Gin no Saji,8.09,TV,11,2013
-32122,Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue,8.09,Special,1,2015
-29755,Haikyuu!! Movie 1: Owari to Hajimari,8.09,Movie,1,2015
-46569,Jigokuraku,8.09,TV,13,2023
-6336,Kidou Senshi Gundam Unicorn,8.09,OVA,7,2010
-30831,Kono Subarashii Sekai ni Shukufuku wo!,8.09,TV,10,2016
-31051,Kuroko no Basket: Saikou no Present desu,8.09,Special,1,2015
-32902,Mahoutsukai no Yome: Hoshi Matsu Hito,8.09,OVA,3,2016
-302,Mirai Shounen Conan,8.09,TV,26,1978
-54650,Precure All Stars Movie F,8.09,Movie,1,2023
-48661,JoJo no Kimyou na Bouken Part 6: Stone Ocean,8.08,ONA,12,2021
-55701,Kimetsu no Yaiba: Hashira Geiko-hen,8.08,TV,8,2024
-31658,Kuroko no Basket Movie 4: Last Game,8.08,Movie,1,2017
-52293,New Panty & Stocking with Garterbelt,8.08,TV,13,2025
-4938,Tsubasa: Shunraiki,8.08,OVA,2,2009
-28025,Tsukimonogatari,8.08,TV Special,4,2014
-58689,Yuanshen: Jinzhong Ge,8.08,ONA,1,2024
-23283,Zankyou no Terror,8.08,TV,11,2014
-59306,Zhan Shen: Fanchen Shenyu,8.07,ONA,15,2024
-3901,Baccano! Specials,8.08,Special,3,2008
-54789,Boku no Hero Academia 7th Season,8.08,TV,21,2024
-3016,Ginga Eiyuu Densetsu: Arata naru Tatakai no Overture,8.08,Movie,1,1993
-2951,Gintama: Nanigoto mo Saisho ga Kanjin nanode Tashou Senobisuru Kurai ga Choudoyoi,8.08,Special,1,2005
-38081,Girls & Panzer: Saishuushou Part 2,8.08,Movie,1,2019
-12069,Hajime no Ippo: Boxer no Kobushi,8.08,Special,1,2003
-17739,Hidamari Sketch: Sae Hiro Sotsugyou-hen,8.08,OVA,2,2013
-40815,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season,8.08,TV,12,2020
-24833,Ansatsu Kyoushitsu,8.07,TV,22,2015
-36369,Ginga Eiyuu Densetsu: Die Neue These - Seiran 1,8.07,Movie,4,2019
-135,Hikaru no Go,8.07,TV,75,2001
-42429,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season,8.07,TV,10,2022
-18661,Kamisama Hajimemashita OVA,8.07,OVA,2,2013
-39198,Kanata no Astra,8.07,TV,12,2019
-3927,Kidou Senshi Gundam 00 Second Season,8.07,TV,25,2008
-50796,Kimi wa Houkago Insomnia,8.07,TV,13,2023
-48895,Overlord IV,8.07,TV,13,2022
-40080,Quanzhi Gaoshou: Dianfeng Rongyao,8.07,Movie,1,2019
-4722,Skip Beat!,8.07,TV,25,2008
-34076,Uchouten Kazoku 2,8.07,TV,12,2017
-51096,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season,8.07,TV,13,2022
-32282,Shokugeki no Souma: Ni no Sara,8.06,TV,13,2016
-59828,Shoushimin Series 2nd Season,8.06,TV,12,2025
-53887,Spy x Family Season 2,8.06,TV,12,2023
-44218,Tunshi Xingkong,8.06,ONA,26,2020
-66,Azumanga Daiou The Animation,8.06,TV,26,2002
-56653,BanG Dream! Ave Mujica,8.06,TV,13,2025
-1471,City Hunter 2,8.06,TV,63,1988
-3665,Ginga Eiyuu Densetsu Gaiden (1999),8.06,OVA,28,1999
-10643,Gintama: Dai Hanseikai,8.06,Special,1,2010
-56980,Karasu wa Aruji wo Erabanai,8.06,TV,20,2024
-31251,Kidou Senshi Gundam: Tekketsu no Orphans,8.06,TV,25,2015
-2449,Koukaku Kidoutai: Stand Alone Complex - The Laughing Man,8.06,OVA,1,2005
-22145,Kuroshitsuji: Book of Circus,8.06,TV,10,2014
-31149,Persona 3 the Movie 4: Winter of Rebirth,8.06,Movie,1,2016
-51367,JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2,8.05,ONA,12,2022
-1486,Kodomo no Omocha (TV),8.05,TV,102,1996
-237,Koukyoushihen Eureka Seven,8.05,TV,50,2005
-11771,Kuroko no Basket,8.05,TV,25,2012
-851,Kyou kara Ore wa!!,8.05,OVA,10,1993
-35062,Mahoutsukai no Yome,8.05,TV,24,2017
-1367,Meitantei Conan Movie 08: Ginyoku no Magician,8.05,Movie,1,2004
-21419,Meitantei Conan Movie 18: Ijigen no Sniper,8.05,Movie,1,2014
-49320,Meitantei Conan Movie 25: Halloween no Hanayome,8.05,Movie,1,2022
-56063,NieR:Automata Ver1.1a Part 2,8.05,TV,12,2024
-1257,Saint Seiya: Meiou Hades Juuni Kyuu-hen,8.05,OVA,13,2002
-13759,Sakura-sou no Pet na Kanojo,8.05,TV,24,2012
-4224,Toradora!,8.05,TV,25,2008
-24277,Yowamushi Pedal: Grande Road,8.05,TV,24,2014
-6547,Angel Beats!,8.05,TV,13,2010
-33486,Boku no Hero Academia 2nd Season,8.05,TV,25,2017
-27833,Durarara!!x2 Ketsu,8.05,TV,12,2016
-12189,Hyouka,8.05,TV,22,2012
-59675,Apocalypse Hotel,8.04,TV,12,2025
-2025,Darker than Black: Kuro no Keiyakusha,8.04,TV,25,2007
-38668,Dorohedoro,8.04,TV,12,2020
-227,FLCL,8.04,OVA,6,2000
-268,Golden Boy,8.04,OVA,6,1995
-8425,Gosick,8.04,TV,24,2011
-50587,Gridman Universe,8.04,Movie,1,2023
-23317,Kuroshitsuji: Book of Murder,8.04,OVA,2,2015
-781,Meitantei Conan Movie 03: Seikimatsu no Majutsushi,8.04,Movie,1,1999
-59953,Mushen Ji,8.04,ONA,Unknown,2024
-19815,No Game No Life,8.04,TV,12,2014
-21557,Omoide no Marnie,8.04,Movie,1,2014
-4155,One Piece Film: Strong World,8.04,Movie,1,2009
-1943,Paprika,8.04,Movie,1,2006
-59459,Silent Witch: Chinmoku no Majo no Kakushigoto,8.04,TV,13,2025
-40907,World Trigger 2nd Season,8.04,TV,12,2021
-1559,Shijou Saikyou no Deshi Kenichi,8.03,TV,50,2006
-25013,Akatsuki no Yona,8.03,TV,24,2014
-889,Black Lagoon,8.03,TV,12,2006
-51836,Douluo Dalu II: Jueshi Tangmen,8.03,ONA,156,2023
-27821,Fate/stay night: Unlimited Blade Works Prologue,8.03,TV Special,1,2014
-59062,Gachiakuta,8.03,TV,24,2025
-54791,Given Movie 2: Hiiragi Mix,8.03,Movie,1,2024
-59654,Jujutsu Kaisen: Kaigyoku/Gyokusetsu,8.03,Movie,1,2025
-18679,Kill la Kill,8.03,TV,24,2013
-2034,Lovely★Complex,8.03,TV,24,2007
-1363,Meitantei Conan Movie 04: Hitomi no Naka no Ansatsusha,8.03,Movie,1,2000
-1506,Meitantei Conan Movie 10: Tantei-tachi no Requiem,8.03,Movie,1,2006
-38993,Karakai Jouzu no Takagi-san 2,8.02,TV,12,2019
-41402,Mairimashita! Iruma-kun 2nd Season,8.02,TV,21,2021
-49430,Mignon,8.02,ONA,12,2023
-34822,Tsuki ga Kirei,8.02,TV,12,2017
-42640,Wan Sheng Jie 2,8.02,ONA,12,2020
-4918,xxxHOLiC Shunmuki,8.02,OVA,2,2009
-33161,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA,8.02,OVA,1,2016
-53410,Yuru Camp△ Season 3,8.02,TV,12,2024
-4901,Black Lagoon: Roberta's Blood Trail,8.02,OVA,5,2010
-2164,Dennou Coil,8.02,TV,26,2007
-72,Full Metal Panic? Fumoffu,8.02,TV,12,2003
-589,Ginga Nagareboshi Gin,8.02,TV,21,1986
-1974,Glass no Kamen (2005),8.02,TV,51,2005
-27989,Hibike! Euphonium,8.02,TV,13,2015
-39783,5-toubun no Hanayome ∬,8.01,TV,12,2021
-153,Juuni Kokuki,8.01,TV,45,2002
-3783,Kara no Kyoukai Movie 3: Tsuukaku Zanryuu,8.01,Movie,1,2008
-1096,Kidou Keisatsu Patlabor 2 the Movie,8.01,Movie,1,1993
-6045,Kimi ni Todoke,8.01,TV,25,2009
-34626,Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!,8.01,OVA,1,2017
-14513,Magi: The Labyrinth of Magic,8.01,TV,25,2012
-52107,Mononoke Movie: Karakasa,8.01,Movie,1,2024
-20,Naruto,8.01,TV,220,2002
-9204,Omae Umasou da na,8.01,Movie,1,2010
-44235,Pui Pui Molcar,8.01,TV,12,2021
-59145,Ranma ½ (2024),8.01,TV,12,2024
-49782,Shadows House 2nd Season,8.01,TV,12,2022
-535,Slayers Next,8.01,TV,26,1996
-5681,Summer Wars,8.01,Movie,1,2009
-44931,Tonikaku Kawaii: SNS,8.01,OVA,1,2021
-49587,Wan Sheng Jie 3,8.01,ONA,12,2022
-1914,Saiunkoku Monogatari 2nd Season,8.00,TV,39,2007
-42923,SK∞,8.00,TV,12,2021
-16049,Toaru Kagaku no Railgun S,8.00,TV,24,2013
-6211,Tokyo Magnitude 8.0,8.00,TV,11,2009
-14813,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8.00,TV,13,2013
-59226,Ao no Exorcist: Yosuga-hen,8.00,TV,12,2025
-27663,Baby Steps 2nd Season,8.00,TV,25,2015
-41781,BanG Dream! Movie: Episode of Roselia - II: Song I Am.,8.00,Movie,1,2021
-1482,D.Gray-man,8.00,TV,103,2006
-2759,Evangelion Movie 1: Jo,8.00,Movie,1,2007
-6421,Fullmetal Alchemist: Brotherhood Specials,8.00,Special,4,2009
-82,Kidou Senshi Gundam 0080: Pocket no Naka no Sensou,8.00,OVA,6,1989
-9963,Meitantei Conan Movie 15: Chinmoku no Quarter,8.00,Movie,1,2011
-61339,Jibaku Shounen Hanako-kun 2 Part 2,7.99,TV,12,2025
-7054,Kaichou wa Maid-sama!,7.99,TV,26,2010
-81,Kidou Senshi Gundam: Dai 08 MS Shoutai,7.99,OVA,12,1996
-50631,"Komi-san wa, Comyushou desu. 2nd Season",7.99,TV,12,2022
-6171,Saint Seiya: The Lost Canvas - Meiou Shinwa,7.99,OVA,13,2009
-5365,Tsumiki no Ie,7.99,Movie,1,2008
-40174,Zombieland Saga Revenge,7.99,TV,12,2021
-37870,BanG Dream! 3rd Season,7.99,TV,13,2020
-2167,Clannad,7.99,TV,23,2007
-2563,Aria the OVA: Arietta,7.98,OVA,1,2007
-48585,Black Clover: Mahou Tei no Ken,7.98,Movie,1,2023
-269,Bleach,7.98,TV,366,2004
-36456,Boku no Hero Academia 3rd Season,7.98,TV,25,2018
-42250,Bungou Stray Dogs Wan!,7.98,TV,12,2021
-223,Dragon Ball,7.98,TV,153,1986
-4789,ef: A Tale of Melodies.,7.98,TV,12,2008
-3167,Eve no Jikan,7.98,ONA,6,2008
-16,Hachimitsu to Clover,7.98,TV,24,2005
-387,Haibane Renmei,7.98,TV,13,2002
-2004,Hanada Shounen-shi,7.98,TV,25,2002
-16706,Kami nomi zo Shiru Sekai: Megami-hen,7.98,TV,12,2013
-14807,Kara no Kyoukai Movie: Mirai Fukuin,7.98,Movie,1,2013
-9656,Kimi ni Todoke 2nd Season,7.98,TV,12,2011
-35788,Shokugeki no Souma: San no Sara,7.98,TV,12,2017
-1065,Touch,7.98,TV,101,1985
-1023,Wolf's Rain OVA,7.98,OVA,4,2004
-35382,Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness,7.98,Special,1,2017
-846,School Rumble Ni Gakki,7.97,TV,26,2006
-23777,Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa,7.97,Movie,1,2015
-41611,Wan Sheng Jie,7.97,ONA,12,2020
-861,xxxHOLiC,7.97,TV,24,2006
-31173,Akagami no Shirayuki-hime 2nd Season,7.97,TV,12,2016
-34440,Code Geass: Hangyaku no Lelouch III - Oudou,7.97,Movie,1,2018
-23199,Durarara!!x2 Shou,7.97,TV,12,2015
-39468,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,7.97,TV,14,2019
-40716,Kakushigoto,7.97,TV,12,2020
-2448,Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven,7.97,OVA,1,2006
-4672,Koukaku Kidoutai 2.0,7.96,Movie,1,2008
-416,Kurenai no Buta,7.96,Movie,1,1992
-60726,My Melody & Kuromi,7.96,ONA,12,2025
-30015,ReLIFE,7.96,TV,13,2016
-59497,Rising Impact Season 2,7.96,ONA,14,2024
-401,Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen,7.96,OVA,2,2001
-543,Vampire Hunter D (2000),7.96,Movie,1,2000
-32615,Youjo Senki,7.96,TV,12,2017
-34376,Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 3 - Yakusoku,7.96,Movie,1,2017
-53499,Aikatsu! 10th Story: Mirai e no Starway (2023),7.96,Movie,1,2023
-58143,Aishang Ta de Liyou Extra,7.96,ONA,1,2024
-27831,Durarara!!x2 Ten,7.96,TV,12,2015
-2890,Gake no Ue no Ponyo,7.96,Movie,1,2008
-967,Hokuto no Ken,7.96,TV,109,1984
-36963,IDOLiSH7 Vibrato,7.96,ONA,8,2018
-54915,5-toubun no Hanayome∽,7.95,TV Special,2,2023
-48411,Aria the Benedizione,7.95,Movie,1,2021
-996,Bishoujo Senshi Sailor Moon: Sailor Stars,7.95,TV,34,1996
-7465,Eve no Jikan (Movie),7.95,Movie,1,2010
-33970,Girls & Panzer: Saishuushou Part 1,7.95,Movie,1,2017
-38422,High Score Girl: Extra Stage,7.95,OVA,3,2019
-9996,Hyouge Mono,7.95,TV,39,2011
-77,Mahou Shoujo Lyrical Nanoha A's,7.95,TV,13,2005
-40397,Maoujou de Oyasumi,7.95,TV,12,2020
-50593,"Natsu e no Tunnel, Sayonara no Deguchi",7.95,Movie,1,2022
-7720,Ookiku Furikabutte: Natsu no Taikai-hen,7.95,TV,13,2010
-42916,Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria,7.95,Movie,1,2021
-59939,Tunshi Xingkong Movie: Xueluo Dalu,7.95,ONA,1,2024
-25879,Working!!!,7.95,TV,13,2015
-50346,Yofukashi no Uta,7.95,TV,13,2022
-51180,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season,7.95,TV,13,2024
-36702,Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou,7.94,Movie,1,2018
-2154,Tekkon Kinkreet,7.94,Movie,1,2006
-4053,Tennis no Oujisama: Zenkoku Taikai-hen - Final,7.94,OVA,7,2008
-38349,Wotaku ni Koi wa Muzukashii OVA,7.94,OVA,3,2019
-41923,Yi Nian Yong Heng,7.94,ONA,52,2020
-4772,Aria the Origination: Sono Choppiri Himitsu no Basho ni...,7.94,Special,1,2008
-59077,Benghuai: Xing Qiong Tiedao - Gelamo de Yujin,7.94,ONA,1,2024
-37150,Douluo Dalu,7.94,ONA,26,2018
-38084,Fate/Grand Order: Zettai Majuu Sensen Babylonia,7.94,TV,21,2019
-51318,Hanma Baki: Son of Ogre 2nd Season,7.94,ONA,27,2023
-39570,High Score Girl II,7.94,TV,9,2019
-1530,Kanon (2006),7.94,TV,24,2006
-31973,Kidou Senshi Gundam Thunderbolt,7.94,ONA,4,2015
-33221,Kidou Senshi Gundam Thunderbolt: December Sky,7.94,Movie,1,2016
-2076,Kindaichi Shounen no Jikenbo,7.94,TV,148,1997
-5678,Kobato.,7.94,TV,24,2009
-38080,Kono Oto Tomare!,7.94,TV,13,2019
-7222,Macross F Movie 2: Sayonara no Tsubasa,7.94,Movie,1,2011
-5029,Major Movie: Yuujou no Winning Shot,7.94,Movie,1,2008
-16067,Nagi no Asu kara,7.94,TV,26,2013
-17549,Non Non Biyori,7.94,TV,12,2013
-20507,Noragami,7.94,TV,12,2014
-57616,Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season,7.93,TV,12,2025
-1089,Macross: Do You Remember Love?,7.93,Movie,1,1984
-52865,Romantic Killer,7.93,ONA,12,2022
-60285,Sakamoto Days Part 2,7.93,TV,11,2025
-12477,Sakasama no Patema,7.93,Movie,1,2013
-36949,Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,7.93,TV,12,2018
-2618,Takarajima,7.93,TV,26,1978
-58509,Zhu Xian 2nd Season,7.93,ONA,26,2024
-39565,Boku no Hero Academia the Movie 2: Heroes:Rising,7.93,Movie,1,2019
-122,Full Moon wo Sagashite,7.93,TV,52,2002
-11239,Hidamari Sketch x Honeycomb,7.93,TV,12,2012
-645,Hikaru no Go: Hokuto Hai e no Michi,7.93,Special,1,2004
-61595,I Byeol-e Pil-yohan,7.93,ONA,1,2025
-4059,"Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",7.92,Special,1,2008
-58883,Dead Dead Demons Dededede Destruction (ONA),7.92,ONA,17,2024
-2761,Densetsu Kyojin Ideon: Hatsudou-hen,7.92,Movie,1,1982
-50207,Fanren Xiu Xian Chuan 2nd Season,7.92,ONA,51,2021
-34100,Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai,7.92,Movie,1,2017
-38337,Gochuumon wa Usagi desu ka? Bloom,7.92,TV,12,2020
-56609,Kizumonogatari: Koyomi Vamp,7.92,Movie,1,2024
-41169,Love Live! Superstar!!,7.92,TV,12,2021
-10721,Mawaru Penguindrum,7.92,TV,24,2011
-15689,Nekomonogatari: Kuro,7.92,TV Special,4,2012
-46422,Niehime to Kemono no Ou,7.92,TV,24,2023
-10049,Nurarihyon no Mago: Sennen Makyou,7.92,TV,24,2011
-8740,One Piece Film: Strong World Episode 0,7.92,OVA,1,2010
-31174,Osomatsu-san,7.92,TV,25,2015
-5682,Phantom: Requiem for the Phantom,7.92,TV,26,2009
-35790,Tate no Yuusha no Nariagari,7.92,TV,25,2019
-658,Touhai Densetsu Akagi: Yami ni Maiorita Tensai,7.92,TV,26,2005
-11113,Usagi Drop Specials,7.92,Special,4,2011
-35968,Wotaku ni Koi wa Muzukashii,7.92,TV,11,2018
-793,xxxHOLiC Movie: Manatsu no Yoru no Yume,7.92,Movie,1,2005
-18179,Yowamushi Pedal,7.92,TV,38,2013
-48171,Summer Ghost,7.91,Movie,1,2021
-21647,Tamako Love Story,7.91,Movie,1,2014
-28,Yakitate!! Japan,7.91,TV,69,2004
-30279,Yuru Yuri San☆Hai!,7.91,TV,12,2015
-55310,Atarashii Joushi wa Do Tennen,7.91,TV,12,2023
-34944,Bungou Stray Dogs: Dead Apple,7.91,Movie,1,2018
-59001,Cheng He Titong,7.90,ONA,24,2024
-38409,Cike Wu Liuqi,7.91,ONA,10,2018
-1470,City Hunter,7.91,TV,51,1987
-2450,Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu,7.91,Movie,1,2001
-15,Eyeshield 21,7.91,TV,145,2005
-73,Full Metal Panic! The Second Raid,7.91,TV,13,2005
-21855,Hanamonogatari,7.91,TV Special,5,2014
-187,Initial D Third Stage,7.91,Movie,1,2001
-53924,Jibaku Shounen Hanako-kun 2,7.91,TV,12,2025
-59177,Kaijuu 8-gou 2nd Season,7.91,TV,11,2025
-11739,Kimi to Boku. 2,7.91,TV,13,2012
-33206,Kobayashi-san Chi no Maid Dragon,7.91,TV,13,2017
-16001,Kokoro Connect: Michi Random,7.91,Special,4,2012
-1695,Les Misérables: Shoujo Cosette,7.91,TV,52,2007
-24997,Love Live! The School Idol Movie,7.91,Movie,1,2015
-55742,Mahoutsukai no Yome Season 2 Part 2,7.91,TV,12,2023
-56785,Meitantei Conan Movie 27: 100-man Dollar no Michishirube,7.91,Movie,1,2024
-60108,One Piece: Gyojin Tou-hen,7.91,TV,21,2024
-37675,Overlord III,7.91,TV,13,2018
-27775,Plastic Memories,7.91,TV,13,2015
-37932,Quanzhi Gaoshou 2,7.91,ONA,12,2020
-59360,Rock wa Lady no Tashinami deshite,7.91,TV,13,2025
-427,Kaleido Star,7.90,TV,51,2003
-7711,Karigurashi no Arrietty,7.90,Movie,1,2010
-6774,Kuuchuu Buranko,7.90,TV,11,2009
-17265,Log Horizon,7.90,TV,25,2013
-6438,Meitantei Conan OVA 09: 10-nengo no Stranger,7.90,OVA,1,2009
-29803,Overlord,7.90,TV,13,2015
-61508,Shen Yin Wangzuo Movie: Yi Lai Ke Si Chuanqi,7.90,ONA,1,2025
-4106,Trigun: Badlands Rumble,7.90,Movie,1,2010
-48580,Vanitas no Karte,7.90,TV,12,2021
-32995,Yuri!!! on Ice,7.90,TV,12,2016
-52976,Berserk: Ougon Jidai-hen - Memorial Edition,7.90,TV,13,2022
-532,Bishoujo Senshi Sailor Moon S,7.90,TV,38,1994
-59898,City The Animation,7.90,TV,13,2025
-34437,Code Geass: Fukkatsu no Lelouch,7.90,Movie,1,2019
-7338,Darker than Black: Kuro no Keiyakusha Gaiden,7.90,Special,4,2010
-22961,Date A Live II: Kurumi Star Festival,7.90,OVA,1,2014
-57066,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen,7.90,TV,15,2024
-790,Ergo Proxy,7.90,TV,23,2006
-35222,Gakuen Babysitters,7.90,TV,12,2018
-7062,Hidamari Sketch x ☆☆☆,7.90,TV,12,2010
-54118,IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD,7.90,Movie,2,2023
-2829,Ie Naki Ko Remy,7.90,TV,23,1996
-2952,Final Fantasy VII: Advent Children Complete,7.89,OVA,1,2009
-3907,Ginga Sengoku Gunyuuden Rai,7.89,TV,52,1994
-9289,Hanasaku Iroha,7.89,TV,26,2011
-53199,Kidou Senshi Gundam: Suisei no Majo Season 2,7.89,TV,12,2023
-85,Kidou Senshi Zeta Gundam,7.89,TV,50,1985
-53287,Love Live! Superstar!! 3rd Season,7.89,TV,12,2024
-27947,Lupin III (2015),7.89,TV,24,2015
-28297,Ore Monogatari!!,7.89,TV,24,2015
-35848,Promare,7.89,Movie,1,2019
-18397,Shingeki no Kyojin OVA,7.89,OVA,3,2013
-12815,Shirokuma Cafe,7.89,TV,50,2012
-16395,SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi,7.89,OVA,1,2013
-20057,Space☆Dandy,7.89,TV,13,2014
-14075,Zetsuen no Tempest,7.89,TV,24,2012
-3228,Zoku Sayonara Zetsubou Sensei,7.89,TV,13,2008
-114,Sakigake!! Cromartie Koukou,7.88,TV,26,2003
-24,School Rumble,7.88,TV,26,2004
-31098,Ushio to Tora (TV) 2nd Season,7.88,TV,13,2016
-37786,Yagate Kimi ni Naru,7.88,TV,13,2018
-29893,Aria the Avvenire,7.88,Special,3,2015
-41462,BanG Dream! Film Live 2nd Stage,7.88,Movie,1,2021
-34438,Code Geass: Hangyaku no Lelouch I - Koudou,7.88,Movie,1,2017
-38436,Doupo Cangqiong 3rd Season,7.88,ONA,12,2019
-31339,Drifters,7.88,TV,12,2016
-36028,Golden Kamuy,7.88,TV,12,2018
-35075,Hoozuki no Reitetsu 2nd Season,7.88,TV,13,2017
-2828,Ie Naki Ko,7.88,TV,51,1977
-13331,Jormungand: Perfect Order,7.88,TV,12,2012
-12031,Kingdom,7.88,TV,38,2012
-1088,Macross,7.88,TV,36,1982
-3572,Macross F,7.88,TV,25,2008
-36563,Megalo Box,7.88,TV,13,2018
-780,Meitantei Conan Movie 02: 14-banme no Target,7.88,Movie,1,1998
-30952,New Initial D Movie: Legend 3 - Mugen,7.88,Movie,1,2016
-38201,Osomatsu-san Movie,7.88,Movie,1,2019
-249,InuYasha,7.87,TV,167,2000
-1594,Jigoku Shoujo Futakomori,7.87,TV,26,2006
-14719,JoJo no Kimyou na Bouken (TV),7.87,TV,26,2012
-52168,Kidou Senshi Gundam: Suisei no Majo - Prologue,7.87,Special,1,2022
-32547,Non Non Biyori Repeat: Hotaru ga Tanoshinda,7.87,OVA,1,2016
-31490,One Piece Film: Gold,7.87,Movie,1,2016
-2159,Ookiku Furikabutte,7.87,TV,25,2007
-322,Paradise Kiss,7.87,TV,12,2005
-957,Saiunkoku Monogatari,7.87,TV,39,2006
-11813,Shijou Saikyou no Deshi Kenichi OVA,7.87,OVA,11,2012
-995,Tennis no Oujisama: Zenkoku Taikai-hen,7.87,OVA,13,2006
-2752,Tennis no Oujisama: Zenkoku Taikai-hen - Semifinal,7.87,OVA,6,2007
-57183,Wu Dong Qian Kun 4th Season,7.87,ONA,12,2023
-58930,Yuanshen: Weixing Zhi Lu,7.87,ONA,1,2024
-55153,Yuzuki-san Chi no Yonkyoudai.,7.87,TV,12,2023
-41782,BanG Dream! Movie: Poppin' Dream!,7.87,Movie,1,2022
-12113,Berserk: Ougon Jidai-hen II - Doldrey Kouryaku,7.87,Movie,1,2012
-10012,Carnival Phantasm,7.87,OVA,12,2011
-59205,Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha,7.87,TV,12,2025
-14353,Death Billiards,7.87,Movie,1,2013
-2471,Doraemon (1979),7.87,TV,1787,1979
-26213,Free! Eternal Summer: Kindan no All Hard!,7.87,Special,1,2015
-934,Higurashi no Naku Koro ni,7.87,TV,26,2006
-38408,Boku no Hero Academia 4th Season,7.86,TV,25,2019
-51680,Cool Doji Danshi,7.86,TV,24,2022
-2924,ef: A Tale of Memories.,7.86,TV,12,2007
-3014,Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai,7.86,Movie,1,1988
-7645,Heartcatch Precure!,7.86,TV,49,2010
-35082,Hibike! Euphonium Movie 2: Todoketai Melody,7.86,Movie,1,2017
-5680,K-On!,7.86,TV,13,2009
-10080,Kami nomi zo Shiru Sekai II,7.86,TV,12,2011
-16782,Kotonoha no Niwa,7.86,Movie,1,2013
-55855,Kuroshitsuji: Kishuku Gakkou-hen,7.86,TV,11,2024
-50403,Liang Bu Yi 2nd Season,7.86,ONA,24,2022
-34021,Lupin the IIIrd: Chikemuri no Ishikawa Goemon,7.86,Movie,1,2017
-25517,Magic Kaito 1412,7.86,TV,24,2014
-4985,Mahou Shoujo Lyrical Nanoha: The Movie 1st,7.86,Movie,1,2010
-779,Meitantei Conan Movie 01: Tokei Jikake no Matenrou,7.86,Movie,1,1997
-38770,Meitantei Conan Movie 23: Konjou no Fist,7.86,Movie,1,2019
-795,Oniisama e...,7.86,TV,39,1991
-6007,Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu,7.86,OVA,1,2009
-33926,Quanzhi Gaoshou,7.86,ONA,12,2017
-58059,Tsue to Tsurugi no Wistoria,7.86,TV,12,2024
-49570,Wu Dong Qian Kun 3rd Season,7.86,ONA,12,2022
-37936,Wu Shan Wu Xing (2020),7.86,ONA,3,2020
-6377,Zan Sayonara Zetsubou Sensei,7.86,TV,13,2009
-2605,Sayonara Zetsubou Sensei,7.85,TV,12,2007
-23775,Shingeki no Kyojin Movie 1: Guren no Yumiya,7.85,Movie,1,2014
-3588,Soul Eater,7.85,TV,51,2008
-2158,Terra e... (TV),7.85,TV,24,2007
-42249,Tokyo Revengers,7.85,TV,24,2021
-41389,Tonikaku Kawaii,7.85,TV,12,2020
-949,Top wo Nerae! Gunbuster,7.85,OVA,6,1988
-54790,Undead Girl Murder Farce,7.85,TV,13,2023
-6586,Yume-iro Pâtissière,7.85,TV,50,2009
-23225,Yuru Yuri Nachuyachumi!,7.85,OVA,1,2015
-54846,Aishang Ta de Liyou,7.85,ONA,22,2023
-283,Akage no Anne,7.85,TV,50,1979
-30415,High☆Speed! Movie: Free! Starting Days,7.85,Movie,1,2015
-37029,Hoozuki no Reitetsu 2nd Season: Sono Ni,7.85,TV,13,2018
-9734,K-On!!: Keikaku!,7.85,Special,1,2011
-6862,K-On!: Live House!,7.85,Special,1,2010
-49828,Kidou Senshi Gundam: Suisei no Majo,7.85,TV,12,2022
-18429,Lupin III vs. Meitantei Conan: The Movie,7.85,Movie,1,2013
-54764,Madogiwa no Totto-chan,7.85,Movie,1,2023
-35798,Meitantei Conan Movie 22: Zero no Shikkounin,7.85,Movie,1,2018
-36215,One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken,7.85,TV Special,1,2017
-50739,Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken,7.85,TV,12,2023
-42745,Machikado Mazoku: 2-choume,7.84,TV,12,2022
-30885,Noragami Aragoto OVA,7.84,OVA,2,2015
-25161,One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai,7.84,TV Special,1,2014
-36796,Owarimonogatari 2nd Season Recaps,7.84,TV Special,2,2017
-26123,Seitokai Yakuindomo* OVA,7.84,OVA,10,2014
-8063,Sekaiichi Hatsukoi OVA,7.84,OVA,2,2011
-22,Tennis no Oujisama,7.84,TV,178,2001
-49889,Tsuki ga Michibiku Isekai Douchuu 2nd Season,7.84,TV,25,2024
-54829,Urusei Yatsura (2022) 2nd Season,7.84,TV,23,2024
-1921,Urusei Yatsura 2: Beautiful Dreamer,7.84,Movie,1,1984
-47405,Wanmei Shijie,7.84,ONA,234,2021
-60541,Wu Dong Qian Kun 5th Season,7.84,ONA,12,2025
-35507,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e,7.84,TV,12,2017
-49469,Beastars Final Season,7.84,ONA,12,2024
-9513,Beelzebub,7.84,TV,60,2011
-37435,Carole & Tuesday,7.84,TV,24,2019
-52505,Dark Gathering,7.84,TV,25,2023
-8408,Durarara!! Specials,7.84,Special,2,2010
-55993,Fanren Xiu Xian Chuan: Xinghai Feichi Xuzhang,7.84,ONA,4,2023
-40262,Haikyuu!! Riku vs. Kuu,7.84,OVA,2,2020
-24471,Hoozuki no Reitetsu OVA,7.84,OVA,4,2015
-15039,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie,7.83,Movie,1,2013
-31964,Boku no Hero Academia,7.83,TV,13,2016
-40956,Enen no Shouboutai: Ni no Shou,7.83,TV,24,2020
-48830,Free! Movie 5: The Final Stroke - Kouhen,7.83,Movie,1,2022
-54968,Giji Harem,7.83,TV,12,2024
-14175,Hanasaku Iroha Movie: Home Sweet Home,7.83,Movie,1,2013
-3604,Hidamari Sketch x 365,7.83,TV,13,2008
-36593,Hug tto! Precure,7.83,TV,49,2018
-429,Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari,7.83,OVA,1,2005
-56704,Kengan Ashura Season 2 Part 2,7.83,ONA,16,2024
-32380,Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!,7.83,OVA,1,2016
-32871,Kuroko no Basket Movie 3: Winter Cup - Tobira no Mukou,7.83,Movie,1,2016
-31741,Magi: Sinbad no Bouken (TV),7.83,TV,13,2016
-4087,Michiko to Hatchin,7.83,TV,22,2008
-569,Musekinin Kanchou Tylor,7.83,TV,26,1993
-1376,Ojamajo Doremi Na-i-sho,7.83,OVA,13,2004
-400,Seihou Bukyou Outlaw Star,7.83,TV,24,1998
-20371,Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai,7.83,Movie,1,2014
-36106,Shingeki no Kyojin: Lost Girls,7.83,OVA,3,2017
-48849,Sonny Boy,7.83,TV,12,2021
-6582,Tentai Senshi Sunred 2nd Season,7.83,TV,26,2009
-9941,Tiger & Bunny,7.83,TV,25,2011
-52093,Trigun Stampede,7.83,TV,12,2023
-6505,Tteotda Keunyeo!!,7.83,ONA,5,2003
-58517,Uma Musume: Pretty Derby - Road to the Top (Movie),7.83,Movie,1,2024
-53859,Wan Sheng Jie 4,7.83,ONA,12,2023
-890,Yuusha-Ou GaoGaiGar,7.83,TV,49,1997
-34504,Seitokai Yakuindomo Movie,7.82,Movie,1,2017
-42091,Shingeki no Kyojin: Chronicle,7.82,Movie,1,2020
-849,Suzumiya Haruhi no Yuuutsu,7.82,TV,14,2006
-54918,Tokyo Revengers: Tenjiku-hen,7.82,TV,13,2023
-17909,Uchouten Kazoku,7.82,TV,13,2013
-40615,Umibe no Étranger,7.82,Movie,1,2020
-48548,5-toubun no Hanayome Movie,7.82,Movie,1,2022
-32998,91 Days,7.82,TV,12,2016
-1485,Akachan to Boku,7.82,TV,35,1996
-51716,Bishoujo Senshi Sailor Moon Cosmos Movie,7.82,Movie,2,2023
-388,Capeta,7.82,TV,52,2005
-12893,Danshi Koukousei no Nichijou Specials,7.82,Special,6,2012
-39534,Jibaku Shounen Hanako-kun,7.82,TV,12,2020
-49784,Mairimashita! Iruma-kun 3rd Season,7.82,TV,21,2022
-28881,New Initial D Movie: Legend 2 - Tousou,7.82,Movie,1,2015
-50410,One Piece Film: Red,7.82,Movie,1,2022
-4280,Kara no Kyoukai Movie 4: Garan no Dou,7.81,Movie,1,2008
-37765,Kidou Senshi Gundam: Senkou no Hathaway,7.81,Movie,1,2021
-48926,"Komi-san wa, Comyushou desu.",7.81,TV,12,2021
-56175,Oomuro-ke: Dear Sisters,7.81,Movie,1,2024
-43439,Shadows House,7.81,TV,13,2021
-49200,Shiguang Dailiren Fanwai Pian: Biwu Zhaoqin,7.81,ONA,1,2021
-49363,SK∞ OVA: Extra Part,7.81,OVA,1,2025
-39575,Somali to Mori no Kamisama,7.81,TV,12,2020
-12445,Tasogare Otome x Amnesia,7.81,TV,12,2012
-10521,Working'!!,7.81,TV,13,2011
-12403,Yuru Yuri♪♪,7.81,TV,12,2012
-9465,Break Blade Movie 4: Sanka no Chi,7.81,Movie,1,2010
-31478,Bungou Stray Dogs,7.81,TV,12,2016
-966,Crayon Shin-chan,7.81,TV,Unknown,1992
-48702,Dance Dance Danseur,7.81,TV,11,2022
-2397,Digimon Adventure: Bokura no War Game!,7.81,Movie,1,2000
-985,Dragon Ball Z Special 2: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks,7.81,TV Special,1,1993
-23289,Gekkan Shoujo Nozaki-kun,7.81,TV,12,2014
-28669,Go! Princess Precure,7.81,TV,50,2015
-4872,Goku Sayonara Zetsubou Sensei,7.81,OVA,3,2008
-29093,Grisaia no Meikyuu: Caprice no Mayu 0,7.81,TV Special,1,2015
-267,Gungrave,7.81,TV,26,2003
-40372,Haikyuu!! (OVA),7.81,OVA,10,2020
-40046,Id:Invaded,7.81,TV,13,2020
-24921,Aoki Hagane no Arpeggio: Ars Nova Movie 2 - Cadenza,7.80,Movie,1,2015
-1472,City Hunter 3,7.80,TV,13,1989
-2035,Eikoku Koi Monogatari Emma: Molders-hen,7.80,TV,12,2007
-2623,Flanders no Inu (Movie),7.80,Movie,1,1997
-2321,Giant Robo the Animation: Chikyuu ga Seishi Suru Hi,7.80,OVA,7,1992
-31433,Ginga Eiyuu Densetsu: Die Neue These - Kaikou,7.80,TV,12,2018
-9563,Hidamari Sketch x ☆☆☆ Specials,7.80,TV Special,2,2010
-451,InuYasha Movie 3: Tenka Hadou no Ken,7.80,Movie,1,2003
-253,Jungle wa Itsumo Hare nochi Guu,7.80,TV,26,2001
-33489,Little Witch Academia (TV),7.80,TV,25,2017
-4472,Lucky☆Star: Original na Visual to Animation,7.80,OVA,1,2008
-40082,Lupin III: The First,7.80,Movie,1,2019
-7304,Meitantei Conan Movie 08: Ginyoku no Time Travel Recap,7.80,TV Special,1,2004
-57559,MF Ghost 2nd Season,7.80,TV,12,2024
-19613,New Initial D Movie: Legend 1 - Kakusei,7.80,Movie,1,2014
-54724,Nige Jouzu no Wakagimi,7.80,TV,12,2024
-33190,Planetarian: Hoshi no Hito,7.80,Movie,1,2016
-31592,Pokemon XY&Z,7.80,TV,47,2015
-11123,Sekaiichi Hatsukoi 2,7.80,TV,12,2011
-4163,Seto no Hanayome OVA,7.80,OVA,2,2008
-44196,Shanhe Jian Xin,7.80,ONA,16,2021
-1172,Slayers Try,7.80,TV,26,1997
-32093,Tanaka-kun wa Itsumo Kedaruge,7.80,TV,12,2016
-49733,Yuukoku no Moriarty OVA,7.80,OVA,2,2022
-38850,Star☆Twinkle Precure: Hoshi no Uta ni Omoi wo Komete,7.79,Movie,1,2019
-45055,Taishou Otome Otogibanashi,7.79,TV,12,2021
-29830,Tamayura: Sotsugyou Shashin Part 3 - Akogare,7.79,Movie,1,2015
-16870,The Last: Naruto the Movie,7.79,Movie,1,2014
-22319,Tokyo Ghoul,7.79,TV,12,2014
-95,Turn A Gundam,7.79,TV,50,1999
-51761,Uma Musume: Pretty Derby - Road to the Top,7.79,ONA,4,2023
-202,Wolf's Rain,7.79,TV,26,2003
-21185,Baby Steps,7.79,TV,25,2014
-39195,Beastars,7.79,TV,12,2019
-46352,Blue Period,7.79,TV,12,2021
-9724,Break Blade Movie 5: Shisen no Hate,7.79,Movie,1,2011
-33280,Gochuumon wa Usagi desu ka?? Dear My Sister,7.79,Movie,1,2017
-49738,Heike Monogatari,7.79,TV,11,2022
-12413,Jormungand,7.79,TV,12,2012
-49893,Kobayashi-san Chi no Maid Dragon S: Nippon no Omotenashi - Attend wa Dragon desu,7.79,Special,1,2022
-3545,Kochira Katsushikaku Kameari Kouenmae Hashutsujo,7.79,TV,373,1996
-28725,Kokoro ga Sakebitagatterunda.,7.79,Movie,1,2015
-16916,Kuroko no Basket: Tip Off,7.79,Special,1,2013
-14349,Little Witch Academia,7.79,Movie,1,2013
-23293,Lupin the IIIrd: Jigen Daisuke no Bohyou,7.79,Movie,1,2014
-22097,Magi: Sinbad no Bouken,7.79,OVA,5,2014
-34745,Mahoujin Guruguru (2017),7.79,TV,24,2017
-55813,Mashle: Shinkakusha Kouho Senbatsu Shiken-hen,7.79,TV,12,2024
-1366,Meitantei Conan Movie 07: Meikyuu no Crossroad,7.79,Movie,1,2003
-875,Mind Game,7.79,Movie,1,2004
-50360,Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu,7.79,Special,1,2022
-55745,Nitian Xie Shen,7.79,ONA,30,2023
-8038,Nodame Cantabile: Finale - Mine to Kiyora no Saikai,7.79,Special,1,2010
-468,Innocence,7.78,Movie,1,2004
-570,Jin-Rou,7.78,Movie,1,2000
-254,Jungle wa Itsumo Hare nochi Guu Deluxe,7.78,OVA,6,2002
-97,Last Exile,7.78,TV,26,2003
-1729,Maria-sama ga Miteru 3rd,7.78,OVA,5,2006
-1505,Meitantei Conan Movie 09: Suihei Senjou no Strategy,7.78,Movie,1,2005
-4447,Meitantei Conan Movie 12: Senritsu no Full Score,7.78,Movie,1,2008
-464,One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima,7.78,Movie,1,2005
-15771,Saint☆Oniisan (Movie),7.78,Movie,1,2013
-34375,Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 2 - Tamashii,7.78,Movie,1,2017
-40215,Aggressive Retsuko (ONA) 3rd Season,7.78,ONA,10,2020
-60334,Anne Shirley,7.78,TV,24,2025
-38990,Chuan Shu Zijiu Zhinan,7.78,ONA,10,2020
-6768,Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem,7.78,OVA,1,2009
-10029,Coquelicot-zaka kara,7.78,Movie,1,2011
-552,Digimon Adventure,7.78,TV,54,1999
-37033,Emiya-san Chi no Kyou no Gohan,7.78,ONA,13,2018
-35806,"Haikyuu!! vs. ""Akaten""",7.78,OVA,1,2016
-2762,Igano Kabamaru,7.78,TV,24,1983
-31733,Bishoujo Senshi Sailor Moon Crystal Season III,7.77,TV,13,2016
-6351,"Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",7.77,Special,1,2009
-55151,Da Zhu Zai (2023),7.77,ONA,52,2023
-6033,Dragon Ball Kai,7.77,TV,97,2009
-1824,Hadashi no Gen,7.77,Movie,1,1983
-60658,Hibi wa Sugiredo Meshi Umashi,7.77,TV,12,2025
-35678,Hibike! Euphonium Movie 3: Chikai no Finale,7.77,Movie,1,2019
-20431,Hoozuki no Reitetsu,7.77,TV,13,2014
-39938,Inu-Ou,7.77,Movie,1,2022
-34451,Kekkai Sensen & Beyond,7.77,TV,12,2017
-80,Kidou Senshi Gundam,7.77,TV,43,1979
-1425,Lupin III: Part II,7.77,TV,155,1977
-5310,Macross F Movie 1: Itsuwari no Utahime,7.77,Movie,1,2009
-8310,Magic Kaito,7.77,TV Special,12,2010
-39764,Meitantei Conan Movie 24: Hiiro no Dangan,7.77,Movie,1,2021
-40858,Psycho-Pass 3: First Inspector,7.77,ONA,3,2020
-210,Ranma ½,7.77,TV,161,1989
-57554,Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran,7.77,TV,23,2024
-1253,Saint Seiya: Meiou Hades Meikai-hen,7.77,OVA,12,2005
-397,Seikai no Senki II,7.77,TV,10,2001
-2273,Shin Kidou Senki Gundam Wing: Endless Waltz Tokubetsu-hen,7.77,Movie,1,1998
-44068,Tianbao Fuyao Lu 2nd Season,7.77,ONA,13,2021
-53126,Yamada-kun to Lv999 no Koi wo Suru,7.77,TV,13,2023
-58555,You Shou Yan 3rd Season,7.77,ONA,12,2024
-30902,Yuru Yuri Nachuyachumi!+,7.77,TV Special,2,2015
-30727,Saenai Heroine no Sodatekata ♭,7.76,TV,11,2017
-1254,Saint Seiya,7.76,TV,114,1986
-9088,Saiyuuki Gaiden,7.76,OVA,3,2011
-40814,Seitokai Yakuindomo Movie 2,7.76,Movie,1,2021
-5005,Tentai Senshi Sunred,7.76,TV,26,2008
-55651,Tonikaku Kawaii: Joshikou-hen,7.76,ONA,4,2023
-46431,"Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.",7.76,OVA,1,2023
-30123,Akagami no Shirayuki-hime,7.76,TV,12,2015
-40935,Beastars 2nd Season,7.76,TV,12,2021
-9252,Break Blade Movie 3: Kyoujin no Ato,7.76,Movie,1,2010
-21867,Edogawa Conan Shissou Jiken: Shijou Saiaku no Futsukakan,7.76,TV Special,1,2014
-1491,Ginga Tetsudou 999,7.76,TV,113,1978
-29787,Gochuumon wa Usagi desu ka??,7.76,TV,12,2015
-38333,Gochuumon wa Usagi desu ka?? Sing for You,7.76,OVA,1,2019
-11237,Hidamari Sketch x SP,7.76,TV Special,2,2011
-5231,Inazuma Eleven,7.76,TV,127,2008
-49220,Isekai Ojisan,7.76,TV,13,2022
-3782,Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen),7.76,Movie,1,2007
-32870,Kuroko no Basket Movie 2: Winter Cup - Namida no Saki e,7.76,Movie,1,2016
-41221,Liang Bu Yi,7.76,ONA,24,2021
-19111,Love Live! School Idol Project 2nd Season,7.76,TV,13,2014
-13203,Lupin the Third: Mine Fujiko to Iu Onna,7.76,TV,13,2012
-52955,Mahoutsukai no Yome Season 2,7.76,TV,12,2023
-57993,Oomuro-ke: Dear Friends,7.76,Movie,1,2024
-48896,Overlord Movie 3: Sei Oukoku-hen,7.76,Movie,1,2024
-1092,Kidou Senshi Gundam III: Meguriai Sora-hen,7.75,Movie,1,1982
-32869,Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari,7.75,Movie,1,2016
-1887,Lucky☆Star,7.75,TV,24,2007
-6115,Lupin III vs. Meitantei Conan,7.75,TV Special,1,2009
-8609,Meitantei Conan OVA 10: Kid in Trap Island,7.75,OVA,1,2010
-35073,Overlord II,7.75,TV,13,2018
-7588,Saraiya Goyou,7.75,TV,12,2010
-53129,Seishun Buta Yarou wa Odekake Sister no Yume wo Minai,7.75,Movie,1,2023
-10083,Shiki Specials,7.75,Special,2,2011
-1279,Taiyou no Ko Esteban,7.75,TV,39,1982
-26,Texhnolyze,7.75,TV,22,2003
-52741,Undead Unluck,7.75,TV,24,2023
-54839,Yoru no Kurage wa Oyogenai,7.75,TV,12,2024
-7044,Zan Sayonara Zetsubou Sensei Bangaichi,7.75,OVA,2,2009
-41674,Aria the Crepuscolo,7.75,Movie,1,2021
-530,Bishoujo Senshi Sailor Moon,7.75,TV,46,1992
-40429,Bishoujo Senshi Sailor Moon Eternal Movie 2,7.75,Movie,1,2021
-35320,Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma,7.75,OVA,1,2017
-28999,Charlotte,7.75,TV,13,2015
-1473,City Hunter '91,7.75,TV,13,1991
-47164,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen,7.75,TV,11,2022
-1281,Gakkou no Kaidan,7.75,TV,19,2000
-37959,Gakuen Babysitters Special,7.75,Special,1,2018
-21877,High Score Girl,7.75,TV,12,2018
-37873,BanG Dream! Garupa☆Pico,7.74,ONA,26,2018
-40854,BanG Dream! Garupa☆Pico: Oomori,7.74,ONA,26,2020
-8142,Colorful (Movie),7.74,Movie,1,2010
-41461,Date A Live IV,7.74,TV,12,2022
-35120,Devilman: Crybaby,7.74,ONA,10,2018
-38400,Free! Movie 4: The Final Stroke - Zenpen,7.74,Movie,1,2021
-35198,Free! Take Your Marks,7.74,Movie,1,2017
-2508,Genshiken 2,7.74,TV,12,2007
-1571,Ghost Hunt,7.74,TV,25,2006
-17895,Golden Time,7.74,TV,24,2013
-19319,Gundam Build Fighters,7.74,TV,25,2013
-54035,Huangjin Tingyuan: Dongri Li de Xinnian Yuanwang,7.74,ONA,2,2023
-3603,JoJo no Kimyou na Bouken: Phantom Blood,7.74,Movie,1,2007
-93,Kidou Senshi Gundam SEED,7.74,TV,50,2002
-33263,Kubikiri Cycle: Aoiro Savant to Zaregotozukai,7.74,OVA,8,2016
-49776,Kumichou Musume to Sewagakari,7.74,TV,12,2022
-60572,Kun Tun Tianxia Zhi Zhang Men Guilai,7.74,ONA,12,2025
-35658,Kuroko no Basket: Last Game NG-shuu,7.74,Special,1,2017
-19489,Little Witch Academia: Mahoujikake no Parade,7.74,Movie,1,2015
-39196,Mairimashita! Iruma-kun,7.74,TV,23,2019
-3750,Maria-sama ga Miteru 4th,7.74,TV,13,2009
-58492,Mono,7.74,TV,12,2025
-353,Ojamajo Doremi Dokkaan!,7.74,TV,51,2002
-8795,Panty & Stocking with Garterbelt,7.74,TV,13,2010
-20159,Pokemon: The Origin,7.74,TV Special,4,2013
-1007,Ranma ½ OVA,7.74,OVA,6,1993
-59791,Ruri no Houseki,7.74,TV,13,2025
-10119,Seitokai Yakuindomo OVA,7.74,OVA,8,2011
-20815,Sekaiichi Hatsukoi: Valentine-hen,7.74,Movie,1,2014
-56768,"Tadaima, Okaeri",7.74,TV,12,2024
-29829,Tamayura: Sotsugyou Shashin Part 2 - Hibiki,7.74,Movie,1,2015
-32673,Udon no Kuni no Kiniro Kemari,7.74,TV,12,2016
-51769,Xingchen Bian 5th Season,7.74,ONA,28,2022
-54285,Yao Shen Ji 7th Season,7.74,ONA,52,2023
-2143,Saiyuuki Reload: Burial,7.73,OVA,3,2007
-154,Shaman King,7.73,TV,64,2001
-91,Shin Kidou Senki Gundam Wing: Endless Waltz,7.73,OVA,3,1997
-39940,Shokugeki no Souma: Shin no Sara,7.73,TV,12,2019
-407,Tantei Gakuen Q,7.73,TV,45,2003
-52305,Tomo-chan wa Onnanoko!,7.73,TV,13,2023
-54900,Wind Breaker,7.73,TV,13,2024
-54112,Zom 100: Zombie ni Naru made ni Shitai 100 no Koto,7.73,TV,12,2023
-740,Bishoujo Senshi Sailor Moon R,7.73,TV,43,1993
-978,Change!! Getter Robo: Sekai Saigo no Hi,7.73,OVA,13,1998
-1818,Claymore,7.73,TV,26,2007
-8687,Doraemon (2005),7.73,TV,Unknown,2005
-41219,Fanren Xiu Xian Chuan,7.73,ONA,17,2020
-41497,Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon,7.73,Movie,1,2021
-18619,Girls & Panzer: Kore ga Hontou no Anzio-sen desu!,7.73,OVA,1,2014
-29095,Grisaia no Rakuen,7.73,TV,10,2015
-5630,Higashi no Eden,7.73,TV,11,2009
-4886,InuYasha: Kuroi Tessaiga,7.73,Special,1,2008
-1379,Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On.,7.73,Movie,1,2005
-1910,Master Keaton OVA,7.73,OVA,15,1999
-28479,Meitantei Conan Movie 19: Gouka no Himawari,7.73,Movie,1,2015
-59612,Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime,7.73,ONA,1,2024
-42670,Princess Connect! Re:Dive Season 2,7.73,TV,12,2022
-43691,Kageki Shoujo!!,7.72,TV,13,2021
-11887,Kokoro Connect,7.72,TV,13,2012
-10090,Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D,7.72,Movie,1,2011
-4080,Kyou kara Maou! 3rd Series,7.72,TV,39,2008
-18153,Kyoukai no Kanata,7.72,TV,12,2013
-25015,Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen,7.72,Movie,1,2015
-55748,Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen,7.72,Movie,1,2024
-59369,Lycoris Recoil: Friends Are Thieves of Time.,7.72,ONA,6,2025
-1462,Memories,7.72,Movie,3,1995
-709,Mujin Wakusei Survive,7.72,TV,52,2003
-7724,Shiki,7.72,TV,22,2010
-534,Slayers,7.72,TV,26,1995
-51533,Tonikaku Kawaii: Seifuku,7.72,Special,1,2022
-11001,Toshokan Sensou: Kakumei no Tsubasa,7.72,Movie,1,2012
-23249,Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune,7.72,Movie,1,2014
-37985,Aggressive Retsuko (ONA) 2nd Season,7.72,ONA,10,2019
-37924,Ani ni Tsukeru Kusuri wa Nai! 2,7.72,TV,24,2018
-49123,BanG Dream! Garupa☆Pico Fever!,7.72,ONA,26,2021
-531,Bishoujo Senshi Sailor Moon R: The Movie,7.72,Movie,1,1993
-1520,Black Jack,7.72,OVA,12,1993
-2994,Death Note: Rewrite,7.72,TV Special,2,2007
-38145,"Doukyonin wa Hiza, Tokidoki, Atama no Ue.",7.72,TV,12,2019
-22777,Dragon Ball Kai (2014),7.72,TV,61,2014
-40906,Dragon Quest: Dai no Daibouken (2020),7.72,TV,100,2020
-38671,Enen no Shouboutai,7.72,TV,24,2019
-39014,Free! Movie 3: Road to the World - Yume,7.72,Movie,1,2019
-6984,Hidamari Sketch x 365 Specials,7.72,Special,3,2009
-31483,"Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page",7.71,OVA,1,2016
-9074,Arakawa Under the Bridge x Bridge,7.71,TV,13,2010
-49283,Bakuten!! Movie,7.71,Movie,1,2022
-10218,Berserk: Ougon Jidai-hen I - Haou no Tamago,7.71,Movie,1,2012
-6024,Chi's Sweet Home: Atarashii Ouchi,7.71,TV,104,2009
-39178,Doupo Cangqiong 2nd Season Specials,7.71,ONA,3,2019
-44248,Fate/Grand Carnival,7.71,OVA,4,2020
+﻿anime id,naslov,ocena,tip,število epizod,leto izdaje,število članov
+52991,Sousou no Frieren,9.29,TV,28,2023,1202293
+5114,Fullmetal Alchemist: Brotherhood,9.10,TV,64,2009,3564751
+9253,Steins;Gate,9.07,TV,24,2011,2728922
+38524,Shingeki no Kyojin Season 3 Part 2,9.05,TV,10,2019,2486087
+39486,Gintama: The Final,9.05,Movie,1,2021,173489
+28977,Gintama°,9.05,TV,51,2015,674457
+11061,Hunter x Hunter (2011),9.03,TV,148,2011,3068840
+60022,One Piece Fan Letter,9.03,TV Special,1,2024,124289
+820,Ginga Eiyuu Densetsu,9.02,OVA,110,1988,349294
+9969,Gintama',9.02,TV,51,2011,596286
+15417,Gintama': Enchousen,9.02,TV,13,2012,348989
+41467,Bleach: Sennen Kessen-hen,8.99,TV,13,2022,655291
+34096,Gintama.,8.98,TV,12,2017,338885
+43608,Kaguya-sama wa Kokurasetai: Ultra Romantic,8.97,TV,13,2022,1052911
+42938,Fruits Basket: The Final,8.95,TV,13,2021,538445
+4181,Clannad: After Story,8.93,TV,24,2008,1255573
+918,Gintama,8.93,TV,201,2006,1126233
+28851,Koe no Katachi,8.93,Movie,1,2016,2516631
+58514,Kusuriya no Hitorigoto 2nd Season,8.91,TV,24,2025,384764
+2904,Code Geass: Hangyaku no Lelouch R2,8.91,TV,25,2008,1894604
+35180,3-gatsu no Lion 2nd Season,8.90,TV,22,2017,428115
+15335,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.90,Movie,1,2013,256611
+19,Monster,8.89,TV,74,2004,1258697
+37491,Gintama. Shirogane no Tamashii-hen - Kouhan-sen,8.88,TV,14,2018,218548
+60489,Takopii no Genzai,8.88,ONA,6,2025,196881
+51535,Shingeki no Kyojin: The Final Season - Kanketsu-hen,8.86,TV Special,2,2023,795865
+54492,Kusuriya no Hitorigoto,8.86,TV,24,2023,708317
+35247,Owarimonogatari 2nd Season,8.86,TV Special,7,2017,426058
+37987,Violet Evergarden Movie,8.84,Movie,1,2020,691014
+59571,Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack,8.83,Movie,1,2024,58795
+32281,Kimi no Na wa.,8.83,Movie,1,2016,2933111
+40682,Kingdom 3rd Season,8.83,TV,26,2020,123451
+49387,Vinland Saga Season 2,8.82,TV,24,2023,776779
+36838,Gintama. Shirogane no Tamashii-hen,8.81,TV,12,2018,231074
+263,Hajime no Ippo,8.78,TV,75,2000,662315
+59192,Kimetsu no Yaiba Movie: Mugen Jou-hen,8.78,Movie,3,2025,182958
+31758,Kizumonogatari III: Reiketsu-hen,8.78,Movie,1,2017,497252
+37510,Mob Psycho 100 II,8.78,TV,13,2019,1664537
+40028,Shingeki no Kyojin: The Final Season,8.78,TV,16,2020,2192341
+199,Sen to Chihiro no Kamikakushi,8.77,Movie,1,2001,1972165
+48583,Shingeki no Kyojin: The Final Season Part 2,8.77,TV,12,2022,1472340
+37521,Vinland Saga,8.77,TV,24,2019,1717239
+32935,Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8.77,TV,10,2016,1289843
+2921,Ashita no Joe 2,8.76,TV,47,1980,63151
+17074,Monogatari Series: Second Season,8.76,TV,26,2013,704450
+47917,Bocchi the Rock!,8.75,TV,12,2022,723035
+1,Cowboy Bebop,8.75,TV,26,1998,1993919
+55690,Boku no Kokoro no Yabai Yatsu 2nd Season,8.73,TV,13,2024,276995
+51009,Jujutsu Kaisen 2nd Season,8.73,TV,23,2023,1241452
+52198,Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai,8.73,Movie,1,2022,341977
+50160,Kingdom 4th Season,8.73,TV,26,2022,81332
+21,One Piece,8.73,TV,Unknown,1999,2570968
+53223,Kingdom 5th Season,8.72,TV,13,2024,53160
+24701,Mushishi Zoku Shou 2nd Season,8.72,TV,10,2014,285418
+44074,Shiguang Dailiren,8.72,ONA,11,2021,449386
+45649,The First Slam Dunk,8.72,Movie,1,2022,68831
+48569,86 Part 2,8.72,TV,12,2021,597707
+39894,Hibike! Euphonium 3,8.72,TV,13,2024,90134
+59845,Kaoru Hana wa Rin to Saku,8.71,TV,13,2025,245947
+47778,Kimetsu no Yaiba: Yuukaku-hen,8.71,TV,11,2021,1638664
+50172,Mob Psycho 100 III,8.71,TV,12,2022,803783
+53998,Bleach: Sennen Kessen-hen - Ketsubetsu-tan,8.70,TV,13,2023,373450
+52215,Chi. Chikyuu no Undou ni Tsuite,8.70,TV,25,2024,232769
+1575,Code Geass: Hangyaku no Lelouch,8.70,TV,25,2006,2394103
+33095,Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,8.70,TV,12,2017,198202
+44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,8.69,OVA,4,1999,288351
+33352,Violet Evergarden,8.69,TV,13,2018,1926307
+40434,Mo Dao Zu Shi: Wanjie Pian,8.68,ONA,12,2021,92560
+21939,Mushishi Zoku Shou,8.68,TV,10,2014,319340
+245,Great Teacher Onizuka,8.68,TV,43,1999,890149
+56784,Bleach: Sennen Kessen-hen - Soukoku-tan,8.67,TV,14,2024,252930
+59986,Grand Blue Season 2,8.67,TV,12,2025,133704
+5258,Hajime no Ippo: New Challenger,8.67,TV,26,2009,314239
+431,Howl no Ugoku Shiro,8.67,Movie,1,2004,1441487
+164,Mononoke Hime,8.67,Movie,1,1997,1340504
+57864,Monogatari Series: Off & Monster Season,8.66,ONA,14,2024,93382
+58567,Ore dake Level Up na Ken Season 2: Arise from the Shadow,8.66,TV,13,2025,654453
+457,Mushishi,8.65,TV,26,2005,881512
+49413,Shiguang Dailiren II,8.65,ONA,12,2023,155788
+50399,Tian Guan Cifu Er,8.65,ONA,12,2023,59345
+23273,Shigatsu wa Kimi no Uso,8.64,TV,22,2014,2352742
+35760,Shingeki no Kyojin Season 3,8.64,TV,12,2018,2564382
+2001,Tengen Toppa Gurren Lagann,8.64,TV,27,2007,1713458
+46102,Odd Taxi,8.64,TV,13,2021,486550
+33050,Fate/stay night Movie: Heaven's Feel - III. Spring Song,8.64,Movie,1,2020,388532
+58125,Look Back,8.63,Movie,1,2024,189555
+34599,Made in Abyss,8.63,TV,13,2017,1498293
+45576,Mushoku Tensei: Isekai Ittara Honki Dasu Part 2,8.63,TV,12,2021,1062560
+11665,Natsume Yuujinchou Shi,8.63,TV,13,2012,261058
+40591,Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen,8.62,TV,12,2020,1448070
+22135,Ping Pong the Animation,8.62,TV,11,2014,424950
+57647,Uma Musume: Pretty Derby - Shin Jidai no Tobira,8.62,Movie,1,2024,29156
+54898,Bungou Stray Dogs 5th Season,8.62,TV,11,2023,237649
+1535,Death Note,8.62,TV,37,2006,4157606
+49818,Guimi Zhi Zhu: Xiaochou Pian,8.62,ONA,13,2025,121369
+28891,Haikyuu!! Second Season,8.62,TV,25,2015,1524450
+42310,Cyberpunk: Edgerunners,8.61,ONA,10,2022,950603
+52742,Haikyuu!! Movie: Gomisuteba no Kessen,8.61,Movie,1,2024,198631
+19647,Hajime no Ippo: Rising,8.61,TV,25,2013,287260
+36862,Made in Abyss Movie 3: Fukaki Tamashii no Reimei,8.61,Movie,1,2020,514826
+41084,Made in Abyss: Retsujitsu no Ougonkyou,8.61,TV,12,2022,512126
+34591,Natsume Yuujinchou Roku,8.61,TV,11,2017,201121
+33,Kenpuu Denki Berserk,8.60,TV,25,1997,732225
+52701,Dungeon Meshi,8.60,TV,24,2024,514698
+4565,Tengen Toppa Gurren Lagann Movie 2: Lagann-hen,8.60,Movie,1,2009,231651
+38329,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,8.59,Movie,1,2019,784368
+7311,Suzumiya Haruhi no Shoushitsu,8.59,Movie,1,2010,636765
+3786,Shin Evangelion Movie:||,8.58,Movie,1,2021,408376
+37991,JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8.58,TV,39,2018,1116149
+28957,Mushishi Zoku Shou: Suzu no Shizuku,8.58,Movie,1,2015,137642
+877,Nana,8.57,TV,47,2006,744648
+55823,Natsume Yuujinchou Shichi,8.57,TV,12,2024,52557
+31757,Kizumonogatari II: Nekketsu-hen,8.56,Movie,1,2016,474937
+32983,Natsume Yuujinchou Go,8.56,TV,11,2016,201019
+10379,Natsume Yuujinchou San,8.56,TV,13,2011,267582
+12355,Ookami Kodomo no Ame to Yuki,8.56,Movie,1,2012,850998
+16498,Shingeki no Kyojin,8.56,TV,25,2013,4216348
+32,"Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",8.56,Movie,1,1997,1002729
+52034,[Oshi no Ko],8.56,TV,11,2023,976475
+49701,Doupo Cangqiong: San Nian Zhi Yue,8.56,ONA,13,2021,10795
+40776,Haikyuu!! To the Top Part 2,8.56,TV,12,2020,894454
+40456,Kimetsu no Yaiba Movie: Mugen Ressha-hen,8.55,Movie,1,2020,1696477
+36098,Kimi no Suizou wo Tabetai,8.55,Movie,1,2018,1066953
+437,Perfect Blue,8.55,Movie,1,1998,781111
+28735,Shouwa Genroku Rakugo Shinjuu,8.55,TV,13,2016,307339
+170,Slam Dunk,8.55,TV,101,1993,327493
+59636,Uma Musume: Cinderella Gray,8.55,TV,13,2025,54210
+7785,Yojouhan Shinwa Taikei,8.55,TV,11,2010,480665
+55791,[Oshi no Ko] 2nd Season,8.55,TV,13,2024,462547
+30484,Steins;Gate 0,8.54,TV,23,2018,928052
+60543,Dandadan 2nd Season,8.54,TV,12,2025,351867
+11741,Fate/Zero 2nd Season,8.54,TV,12,2012,1170288
+40748,Jujutsu Kaisen,8.54,TV,24,2020,2863881
+25777,Shingeki no Kyojin Season 2,8.53,TV,12,2017,2918419
+5300,Zoku Natsume Yuujinchou,8.53,TV,13,2009,261958
+40417,Fruits Basket 2nd Season,8.53,TV,25,2020,563262
+578,Hotaru no Haka,8.53,Movie,1,1988,736529
+12365,Bakuman. 3rd Season,8.52,TV,25,2012,343228
+7472,Gintama Movie 1: Shinyaku Benizakura-hen,8.52,Movie,1,2010,173564
+53273,JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3,8.52,ONA,14,2022,264261
+21329,Mushishi: Hihamukage,8.52,TV Special,1,2014,149512
+205,Samurai Champloo,8.52,TV,26,2004,1314505
+40664,Shoujo☆Kageki Revue Starlight Movie,8.51,Movie,1,2021,24457
+35843,Gintama. Porori-hen,8.51,TV,13,2017,216230
+4282,Kara no Kyoukai Movie 5: Mujun Rasen,8.51,Movie,1,2008,249150
+801,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,8.51,TV,26,2004,237480
+60544,Nezha Zhi Mo Tong Nao Hai,8.51,Movie,1,2025,5826
+31933,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8.50,TV,39,2016,1215317
+35839,Sora yori mo Tooi Basho,8.50,TV,13,2018,539900
+38474,Yuru Camp△ Season 2,8.50,TV,13,2021,246192
+44070,Tian Guan Cifu Special,8.49,ONA,1,2021,57962
+11981,Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari,8.49,Movie,1,2013,407148
+32182,Mob Psycho 100,8.49,TV,12,2016,2239732
+40834,Ousama Ranking,8.49,TV,23,2021,723429
+30276,One Punch Man,8.48,TV,12,2015,3420527
+12431,Uchuu Kyoudai,8.48,TV,99,2012,206476
+37779,Yakusoku no Neverland,8.48,TV,12,2019,2095099
+47194,Summertime Render,8.47,TV,25,2022,637022
+38450,Mo Dao Zu Shi: Xian Yun Pian,8.47,ONA,8,2019,115332
+10165,Nichijou,8.47,TV,26,2011,956754
+30654,Ansatsu Kyoushitsu 2nd Season,8.47,TV,25,2016,1525743
+3297,Aria the Origination,8.47,TV,13,2008,138249
+57334,Dandadan,8.47,TV,12,2024,814977
+33049,Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly,8.47,Movie,1,2019,421495
+44087,Gintama: The Semi-Final,8.46,Special,2,2021,88321
+60988,Tian Guan Cifu Short Film,8.46,ONA,Unknown,2025,8741
+392,Yuu☆Yuu☆Hakusho,8.46,TV,112,1992,734041
+56538,Kimi ni Todoke 3rd Season,8.46,ONA,5,2024,98550
+37208,Mo Dao Zu Shi,8.46,ONA,15,2018,248719
+6114,Rainbow: Nisha Rokubou no Shichinin,8.46,TV,26,2010,416517
+31181,Owarimonogatari,8.45,TV,12,2015,500811
+35737,Pluto,8.45,ONA,8,2023,226168
+36649,Banana Fish,8.45,TV,24,2018,932449
+37379,Chihayafuru 3,8.45,TV,24,2019,152711
+58222,Given Movie 3: Umi e,8.45,Movie,1,2024,23053
+50265,Spy x Family,8.45,TV,12,2022,1783377
+11577,Steins;Gate Movie: Fuka Ryouiki no Déjà vu,8.45,Movie,1,2013,627004
+53447,Tu Bian Yingxiong X,8.45,ONA,24,2025,157905
+26055,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen,8.44,TV,24,2015,1199815
+54857,Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season,8.44,TV,16,2024,434224
+44511,Chainsaw Man,8.44,TV,12,2022,1799422
+51039,Doupo Cangqiong: Nian Fan,8.44,ONA,209,2022,11049
+37105,Grand Blue,8.44,TV,12,2018,863484
+40059,Golden Kamuy 3rd Season,8.43,TV,12,2020,189397
+20583,Haikyuu!!,8.43,TV,25,2014,2108603
+136,Hunter x Hunter,8.43,TV,62,1999,630241
+36999,Zoku Owarimonogatari,8.43,TV,6,2019,245358
+38000,Kimetsu no Yaiba,8.43,TV,26,2019,3305765
+49722,Karakai Jouzu no Takagi-san Movie,8.42,Movie,1,2022,89464
+38889,Kono Oto Tomare! Part 2,8.42,TV,13,2019,195827
+467,Koukaku Kidoutai: Stand Alone Complex,8.42,TV,26,2002,415711
+24687,Mushishi Zoku Shou: Odoro no Michi,8.42,TV Special,1,2014,108506
+42203,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2,8.42,TV,12,2021,1014724
+50330,Bungou Stray Dogs 4th Season,8.42,TV,13,2023,340211
+21899,Gintama: Yorinuki Gintama-san on Theater 2D,8.42,Movie,2,2012,47818
+39741,Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou,8.42,Movie,1,2019,463548
+45556,Wu Liuqi: Xuanwu Guo Pian,8.42,ONA,10,2021,79191
+36885,Saenai Heroine no Sodatekata Fine,8.41,Movie,1,2019,199185
+33255,Saiki Kusuo no Ψ-nan,8.41,TV,120,2016,1203614
+34612,Saiki Kusuo no Ψ-nan 2,8.41,TV,24,2018,695723
+25781,Shingeki no Kyojin: Kuinaki Sentaku,8.41,OVA,2,2014,549959
+40730,Tian Guan Cifu,8.41,ONA,11,2020,168435
+38040,Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu,8.41,Movie,1,2019,855040
+2246,Mononoke,8.41,TV,12,2007,356239
+55888,Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2,8.41,TV,12,2024,515950
+36538,Natsume Yuujinchou Movie: Utsusemi ni Musubu,8.41,Movie,1,2018,81301
+48561,Jujutsu Kaisen 0 Movie,8.40,Movie,1,2021,1149743
+37999,Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8.40,TV,12,2019,1871534
+30709,Kamisama Hajimemashita: Kako-hen,8.40,OVA,4,2015,179731
+36275,Natsume Yuujinchou Roku Specials,8.40,Special,2,2017,52496
+5028,Major S5,8.39,TV,25,2009,74795
+4921,Ramayana: The Legend of Prince Rama,8.39,Movie,1,1993,14315
+35851,Sayonara no Asa ni Yakusoku no Hana wo Kazarou,8.39,Movie,1,2018,474754
+50183,Blue Giant,8.39,Movie,1,2023,42865
+35557,Houseki no Kuni,8.39,TV,12,2017,501110
+5,Cowboy Bebop: Tengoku no Tobira,8.38,Movie,1,2001,401093
+32366,Gintama°: Aizome Kaori-hen,8.38,OVA,2,2016,91036
+40787,Josee to Tora to Sakana-tachi,8.38,Movie,1,2020,496915
+37965,Kaze ga Tsuyoku Fuiteiru,8.38,TV,23,2018,325171
+37515,Made in Abyss Movie 2: Hourou Suru Tasogare,8.38,Movie,1,2019,156621
+9756,Mahou Shoujo Madoka★Magica,8.38,TV,12,2011,1368703
+56523,Tunshi Xingkong 3rd Season,8.38,ONA,33,2022,4311
+53672,Violet Evergarden: Recollections,8.38,Special,1,2021,41857
+46095,Vivy: Fluorite Eye's Song,8.38,TV,13,2021,587010
+55809,Xian Ni,8.38,ONA,128,2023,8301
+38475,Yuru Camp△ Movie,8.38,Movie,1,2022,90920
+31646,3-gatsu no Lion,8.37,TV,22,2016,716501
+22789,Barakamon,8.37,TV,12,2014,698453
+14397,Chihayafuru 2,8.37,TV,25,2013,248233
+5941,Cross Game,8.37,TV,50,2009,130657
+49310,Fruits Basket: Prelude,8.37,Movie,1,2022,124296
+55102,Girls Band Cry,8.37,TV,13,2024,120681
+38883,Haikyuu!! To the Top,8.37,TV,13,2020,1017648
+5205,Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go),8.37,Movie,1,2009,215430
+49721,Karakai Jouzu no Takagi-san 3,8.37,TV,12,2022,205345
+11979,Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari,8.37,Movie,1,2012,215206
+55318,Medalist,8.37,TV,13,2025,70078
+185,Initial D First Stage,8.36,TV,26,1998,422360
+9617,K-On! Movie,8.36,Movie,1,2011,347393
+9260,Kizumonogatari I: Tekketsu-hen,8.36,Movie,1,2016,564442
+30,Shinseiki Evangelion,8.36,TV,26,1995,1954854
+53065,Sono Bisque Doll wa Koi wo Suru Season 2,8.36,TV,12,2025,326937
+6945,Gintama: Shiroyasha Koutan,8.36,Special,1,2008,74059
+39167,Girls & Panzer: Saishuushou Part 4,8.36,Movie,1,2023,23641
+2251,Baccano!,8.35,TV,13,2007,943352
+50250,Chiikawa,8.35,TV,Unknown,2022,11528
+37822,Douluo Dalu 2nd Season,8.35,ONA,237,2018,23216
+572,Kaze no Tani no Nausicaä,8.35,Movie,1,1984,402984
+49926,Kimetsu no Yaiba: Mugen Ressha-hen,8.35,TV,7,2021,905042
+49458,Kono Subarashii Sekai ni Shukufuku wo! 3,8.35,TV,11,2024,509686
+53540,Meitantei Conan Movie 26: Kurogane no Submarine,8.35,Movie,1,2023,17258
+39535,Mushoku Tensei: Isekai Ittara Honki Dasu,8.35,TV,11,2021,1497165
+39808,Non Non Biyori Nonstop,8.35,TV,12,2021,135353
+39551,Tensei shitara Slime Datta Ken 2nd Season,8.35,TV,12,2021,1066786
+56524,Tunshi Xingkong 4th Season,8.35,ONA,123,2023,4991
+338,Versailles no Bara,8.35,TV,40,1979,109968
+37095,"Violet Evergarden: Kitto ""Ai"" wo Shiru Hi ga Kuru no Darou",8.35,Special,1,2018,359445
+39547,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan,8.35,TV,12,2020,792990
+2402,Ashita no Joe,8.34,TV,79,1970,105632
+41025,Fumetsu no Anata e,8.34,TV,20,2021,951323
+777,Hellsing Ultimate,8.34,OVA,10,2006,990519
+31988,Hibike! Euphonium 2,8.34,TV,13,2016,250389
+46654,IDOLiSH7 Third Beat! Part 2,8.34,TV,17,2022,17265
+41457,86,8.33,TV,11,2021,909239
+10030,Bakuman. 2nd Season,8.33,TV,25,2011,366983
+55357,Bocchi the Rock! Movie,8.33,Movie,2,2024,67187
+50407,Wu Shan Wu Xing: Xichuan Huan Zi Lin,8.33,ONA,4,2023,17819
+20651,Natsume Yuujinchou: Itsuka Yuki no Hi ni,8.33,OVA,1,2014,85550
+13601,Psycho-Pass,8.33,TV,22,2012,1713741
+39587,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season,8.33,TV,13,2020,1226985
+10937,Kidou Senshi Gundam: The Origin,8.32,OVA,6,2015,81876
+22535,Kiseijuu: Sei no Kakuritsu,8.32,TV,24,2014,1987602
+5040,One Outs,8.32,TV,25,2008,251446
+5081,Bakemonogatari,8.32,TV,15,2009,1461673
+28701,Fate/stay night: Unlimited Blade Works 2nd Season,8.32,TV,13,2015,899192
+42886,Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu,8.32,Movie,12,2022,25129
+10162,Usagi Drop,8.32,TV,11,2011,517105
+2559,Romeo no Aoi Sora,8.31,TV,33,1995,54619
+54870,Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai,8.31,Movie,1,2023,150138
+56752,Shiguang Dailiren: Yingdu Pian,8.31,ONA,6,2024,57094
+49571,Tunshi Xingkong 2nd Season,8.31,ONA,26,2021,8224
+12029,Uchuu Senkan Yamato 2199,8.31,OVA,26,2012,123104
+7655,Major S6,8.31,TV,25,2010,66339
+34534,Natsume Yuujinchou Go Specials,8.31,Special,2,2017,51155
+1210,NHK ni Youkoso!,8.31,TV,24,2006,804395
+55644,Dr. Stone: New World Part 2,8.31,TV,11,2023,381131
+51805,Ginga Eiyuu Densetsu: Die Neue These - Sakubou,8.31,Movie,12,2022,17758
+137,Hunter x Hunter: Original Video Animation,8.31,OVA,8,2002,134544
+31043,Boku dake ga Inai Machi,8.30,TV,12,2016,2227788
+30230,Diamond no Ace: Second Season,8.30,TV,51,2015,147278
+10534,Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi,8.30,Movie,1,2011,20822
+3784,Evangelion Movie 2: Ha,8.30,Movie,1,2009,576773
+51440,Sasaki to Miyano Movie: Sotsugyou-hen,8.30,Movie,1,2023,55272
+41487,Tensei shitara Slime Datta Ken 2nd Season Part 2,8.30,TV,12,2021,866976
+17389,Kingdom 2nd Season,8.30,TV,39,2013,141494
+40211,Luo Xiao Hei Zhan Ji (Movie),8.30,Movie,1,2019,32407
+4081,Natsume Yuujinchou,8.30,TV,13,2008,574956
+5341,Ookami to Koushinryou II,8.30,TV,12,2009,513714
+22507,Initial D Final Stage,8.29,TV,4,2014,160224
+6594,Katanagatari,8.29,TV,12,2010,584195
+5420,Kemono no Souja Erin,8.29,TV,50,2009,92246
+24415,Kuroko no Basket 3rd Season,8.29,TV,25,2015,810156
+1365,Meitantei Conan Movie 06: Baker Street no Bourei,8.29,Movie,1,2002,83799
+6675,Redline,8.29,Movie,1,2009,410673
+9989,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8.29,TV,11,2011,1676000
+57,Beck,8.29,TV,26,2004,364679
+39533,Given,8.29,TV,11,2019,616887
+12531,Sakamichi no Apollon,8.29,TV,12,2012,408330
+10863,Steins;Gate: Oukoubakko no Poriomania,8.29,Special,1,2012,463009
+58390,Yofukashi no Uta Season 2,8.29,TV,12,2025,167300
+43325,Yuukoku no Moriarty Part 2,8.29,TV,13,2021,280644
+45,Rurouni Kenshin: Meiji Kenkaku Romantan,8.28,TV,94,1996,516696
+2150,Tanoshii Muumin Ikka,8.28,TV,78,1990,31958
+759,Tokyo Godfathers,8.28,Movie,1,2003,317853
+54595,Kage no Jitsuryokusha ni Naritakute! 2nd Season,8.28,TV,12,2023,485537
+486,Kino no Tabi: The Beautiful World,8.28,TV,13,2003,343755
+11917,Major: World Series,8.28,OVA,2,2011,39630
+1735,Naruto: Shippuuden,8.28,TV,500,2007,2659089
+36371,Ginga Eiyuu Densetsu: Die Neue These - Seiran 3,8.28,Movie,4,2019,29468
+38731,Diamond no Ace: Act II,8.27,TV,52,2019,98565
+30346,Doukyuusei,8.27,Movie,1,2016,288100
+10087,Fate/Zero,8.27,TV,13,2011,1570201
+19363,Gin no Saji 2nd Season,8.27,TV,11,2014,152832
+9735,Gintama: Shinyaku Benizakura-hen,8.27,Special,1,2010,46716
+10408,Hotarubi no Mori e,8.27,Movie,1,2011,861721
+58572,"Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",8.27,TV,25,2024,225303
+25835,Shirobako,8.27,TV,24,2014,464100
+38826,Tenki no Ko,8.27,Movie,1,2019,1088876
+34798,Yuru Camp△,8.27,TV,12,2018,527999
+52588,Kaijuu 8-gou,8.27,TV,12,2024,643495
+43,Koukaku Kidoutai,8.27,Movie,1,1995,681130
+37520,Dororo,8.26,TV,24,2019,1329384
+44412,Doupo Cangqiong 4th Season,8.26,ONA,24,2021,9736
+38691,Dr. Stone,8.26,TV,24,2019,1884096
+3002,Gyakkyou Burai Kaiji: Ultimate Survivor,8.26,TV,26,2007,380258
+35111,Haikyuu!! Movie 4: Concept no Tatakai,8.26,Movie,1,2017,100125
+57433,Seishun Buta Yarou wa Santa Claus no Yume wo Minai,8.26,TV,13,2025,150334
+23327,Space☆Dandy 2nd Season,8.26,TV,13,2014,178727
+32188,Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero,8.26,TV Special,1,2015,280947
+50594,Suzume no Tojimari,8.26,Movie,1,2022,460888
+513,Tenkuu no Shiro Laputa,8.26,Movie,1,1986,522678
+2685,Tsubasa: Tokyo Revelations,8.26,OVA,3,2007,100231
+13125,Shinsekai yori,8.25,TV,25,2012,809091
+2418,Stranger: Mukou Hadan,8.25,Movie,1,2007,348273
+523,Tonari no Totoro,8.25,Movie,1,1988,1131872
+31812,Kuroshitsuji Movie: Book of the Atlantic,8.25,Movie,1,2017,219501
+1698,Nodame Cantabile,8.25,TV,23,2007,327304
+53111,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen,8.25,TV,11,2023,275538
+57067,Fanren Xiu Xian Chuan: Xinghai Feichi,8.25,ONA,48,2023,3169
+264,Hajime no Ippo: Champion Road,8.25,TV Special,1,2003,151891
+265,Hajime no Ippo: Mashiba vs. Kimura,8.25,OVA,1,2003,123007
+139,Hunter x Hunter: Greed Island Final,8.25,OVA,14,2004,153890
+57592,Dr. Stone: Science Future,8.24,TV,12,2025,247451
+37989,Golden Kamuy 2nd Season,8.24,TV,12,2018,226624
+10271,Gyakkyou Burai Kaiji: Hakairoku-hen,8.24,TV,26,2011,208143
+1033,Sennen Joyuu,8.24,Movie,1,2002,203287
+44940,World Trigger 3rd Season,8.24,TV,14,2021,134483
+48316,Kage no Jitsuryokusha ni Naritakute!,8.24,TV,20,2022,800723
+32937,Kono Subarashii Sekai ni Shukufuku wo! 2,8.24,TV,10,2017,1611160
+34036,Meitantei Conan: Episode One - Chiisaku Natta Meitantei,8.24,TV Special,1,2016,33779
+36990,Non Non Biyori Movie: Vacation,8.24,Movie,1,2018,84360
+329,Planetes,8.24,TV,26,2003,271918
+31240,Re:Zero kara Hajimeru Isekai Seikatsu,8.24,TV,25,2016,2372407
+25681,Kamisama Hajimemashita◎,8.23,TV,12,2015,450923
+33051,Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season,8.23,TV,25,2016,155906
+512,Majo no Takkyuubin,8.23,Movie,1,1989,638825
+52299,Ore dake Level Up na Ken,8.23,TV,12,2024,1018884
+28805,Bakemono no Ko,8.23,Movie,1,2015,446158
+54959,BanG Dream! It's MyGO!!!!!,8.23,TV,13,2023,36963
+11843,Danshi Koukousei no Nichijou,8.23,TV,12,2012,867220
+45577,IDOLiSH7 Third Beat!,8.23,TV,13,2021,26111
+37450,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8.23,TV,13,2018,1886295
+52684,Shen Yin Wangzuo 2nd Season,8.23,ONA,182,2022,6868
+35838,Shoujo Shuumatsu Ryokou,8.23,TV,12,2017,382683
+42941,Uma Musume: Pretty Derby Season 2,8.23,TV,13,2021,81197
+54029,Wu Liuqi: Anying Suming,8.23,ONA,10,2023,35169
+37055,Youjo Senki Movie,8.23,Movie,1,2019,313251
+440,Shoujo Kakumei Utena,8.22,TV,39,1997,238661
+6,Trigun,8.22,TV,26,1998,809651
+40784,Wu Liuqi: Zui Qiang Fa Xing Shi,8.22,ONA,10,2019,92131
+39247,Kobayashi-san Chi no Maid Dragon S,8.22,TV,12,2021,595741
+15227,Kono Sekai no Katasumi ni,8.22,Movie,1,2016,203053
+35677,Liz to Aoi Tori,8.22,Movie,1,2018,156661
+11977,Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari,8.22,Movie,1,2012,211688
+585,Mimi wo Sumaseba,8.22,Movie,1,1995,394078
+5690,Nodame Cantabile Finale,8.22,TV,11,2010,132019
+49918,Boku no Hero Academia 6th Season,8.22,TV,25,2022,758499
+52578,Boku no Kokoro no Yabai Yatsu,8.22,TV,12,2023,402450
+12115,Berserk: Ougon Jidai-hen III - Kourin,8.21,Movie,1,2013,240865
+372,Cardcaptor Sakura Movie 2: Fuuin Sareta Card,8.21,Movie,1,2000,121483
+61322,Dr. Stone: Science Future Part 2,8.21,TV,12,2025,131449
+38680,Fruits Basket 1st Season,8.21,TV,25,2019,912483
+38249,Saiki Kusuo no Ψ-nan: Kanketsu-hen,8.21,TV Special,1,2018,239809
+50602,Spy x Family Part 2,8.21,TV,13,2022,1064969
+53393,Tengoku Daimakyou,8.21,TV,13,2023,587927
+16664,Kaguya-hime no Monogatari,8.21,Movie,1,2013,252022
+1842,Major S3,8.21,TV,26,2007,73388
+51179,Mushoku Tensei II: Isekai Ittara Honki Dasu,8.21,TV,12,2023,699160
+2966,Ookami to Koushinryou,8.21,TV,13,2008,856159
+35466,ReLIFE: Kanketsu-hen,8.21,Special,4,2018,431610
+6811,InuYasha: Kanketsu-hen,8.20,TV,26,2009,299460
+16894,Kuroko no Basket 2nd Season,8.20,TV,25,2013,905417
+18115,Magi: The Kingdom of Magic,8.20,TV,25,2013,881700
+627,Major S1,8.20,TV,26,2004,106299
+5460,Meitantei Conan Movie 13: Shikkoku no Chaser,8.20,Movie,1,2009,63787
+37078,Quanzhi Gaoshou Specials,8.20,ONA,3,2018,111477
+38003,Bungou Stray Dogs 3rd Season,8.20,TV,12,2019,688142
+36946,Dragon Ball Super: Broly,8.20,Movie,1,2018,448471
+813,Dragon Ball Z,8.20,TV,291,1989,1293610
+40052,Great Pretender,8.20,TV,23,2020,722969
+35110,Haikyuu!! Movie 3: Sainou to Sense,8.20,Movie,1,2017,103437
+9863,SKET Dance,8.20,TV,77,2011,234664
+59150,Wu Liuqi: Jiyi Suipian,8.20,ONA,10,2024,13465
+3091,xxxHOLiC◆Kei,8.20,TV,13,2008,152053
+23847,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8.20,TV,13,2015,1130881
+55866,Yubisaki to Renren,8.20,TV,12,2024,311526
+44055,Sasaki to Miyano,8.19,TV,12,2022,224027
+32843,Senki Zesshou Symphogear XV,8.19,TV,13,2019,43016
+40853,Stand By Me Doraemon 2,8.19,Movie,1,2020,40280
+49114,Vanitas no Karte Part 2,8.19,TV,12,2022,329886
+186,Initial D Second Stage,8.19,TV,13,1999,253637
+1453,Maison Ikkoku,8.19,TV,96,1986,80386
+40435,Mo Dao Zu Shi Q,8.19,ONA,30,2020,27435
+59408,Mononoke Movie: Dai-2 Shou - Hinezumi,8.19,Movie,1,2025,15109
+57181,Ao no Hako,8.19,TV,25,2024,278509
+37171,Asobi Asobase,8.19,TV,12,2018,518868
+18617,Girls & Panzer Movie,8.19,Movie,1,2015,126880
+42897,Horimiya,8.19,TV,13,2021,1551653
+34636,Ballroom e Youkoso,8.18,TV,24,2017,355173
+232,Cardcaptor Sakura,8.18,TV,70,1998,474299
+10800,Chihayafuru,8.18,TV,25,2011,485989
+22297,Fate/stay night: Unlimited Blade Works,8.18,TV,12,2014,1143607
+53127,Fate/strange Fake: Whispers of Dawn,8.18,TV Special,1,2023,97294
+36370,Ginga Eiyuu Densetsu: Die Neue These - Seiran 2,8.18,Movie,4,2019,40244
+1142,Hachimitsu to Clover II,8.18,TV,12,2006,123154
+138,Hunter x Hunter: Greed Island,8.18,OVA,8,2003,178452
+6864,xxxHOLiC Rou,8.18,OVA,2,2010,84785
+49574,Yi Nian Yong Heng: Chuan Cheng Pian,8.18,ONA,54,2022,8655
+49590,Yojouhan Time Machine Blues,8.18,ONA,6,2022,61547
+7791,K-On!!,8.18,TV,26,2010,733858
+51019,Kimetsu no Yaiba: Katanakaji no Sato-hen,8.18,TV,11,2023,1020989
+37514,Made in Abyss Movie 1: Tabidachi no Yoake,8.18,Movie,1,2019,156365
+3226,Major S4,8.18,TV,26,2008,68769
+235,Meitantei Conan,8.18,TV,Unknown,1996,369618
+32005,Meitantei Conan Movie 20: Junkoku no Nightmare,8.18,Movie,1,2016,45881
+40729,Nomad: Megalo Box 2,8.18,TV,13,2021,225584
+23623,Non Non Biyori Repeat,8.18,TV,12,2015,210230
+38234,One Piece Movie 14: Stampede,8.18,Movie,1,2019,212810
+19123,One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari,8.18,TV Special,1,2013,79411
+18,Initial D Fourth Stage,8.17,TV,24,2004,206968
+33323,"Kamisama Hajimemashita: Kamisama, Shiawase ni Naru",8.17,OVA,1,2016,71146
+59833,Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage,8.17,OVA,2,2025,67025
+59228,Kuroshitsuji: Midori no Majo-hen,8.17,TV,13,2025,60314
+18195,Little Busters! Refrain,8.17,TV,13,2013,174252
+558,Major S2,8.17,TV,26,2005,75510
+42894,Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha,8.17,Movie,1,2021,52278
+33674,No Game No Life: Zero,8.17,Movie,1,2017,928617
+7674,Bakuman.,8.17,TV,25,2010,646585
+1519,Black Lagoon: The Second Barrage,8.17,TV,12,2006,561168
+32867,Bungou Stray Dogs 2nd Season,8.17,TV,12,2016,929183
+55655,Cang Yuan Tu,8.17,ONA,26,2023,4515
+38088,Digimon Adventure: Last Evolution Kizuna,8.17,Movie,1,2020,61052
+60557,Fanren Xiu Xian Chuan: Waihai Fengyun,8.17,ONA,52,2025,1811
+39166,Girls & Panzer: Saishuushou Part 3,8.17,Movie,1,2021,44976
+4107,Tengen Toppa Gurren Lagann Movie 1: Gurren-hen,8.17,Movie,1,2008,187620
+34537,Yoru wa Mijikashi Arukeyo Otome,8.17,Movie,1,2017,136980
+40911,Yuukoku no Moriarty,8.17,TV,11,2020,487686
+56215,Yi Nian Yong Heng 3rd Season,8.16,ONA,59,2024,3339
+49909,Kotarou wa Hitorigurashi,8.16,ONA,10,2022,193384
+853,Ouran Koukou Host Club,8.16,TV,26,2006,1198170
+47,Akira,8.16,Movie,1,1988,925154
+49052,Ao Ashi,8.16,TV,24,2022,243944
+962,Aria the Natural,8.16,TV,26,2006,83975
+49596,Blue Lock,8.16,TV,24,2022,836004
+1889,Higurashi no Naku Koro ni Kai,8.16,TV,24,2007,511570
+58913,Hikaru ga Shinda Natsu,8.16,TV,12,2025,183708
+48549,Dr. Stone: New World,8.15,TV,11,2023,558322
+40852,Dr. Stone: Stone Wars,8.15,TV,11,2021,1154022
+25537,Fate/stay night Movie: Heaven's Feel - I. Presage Flower,8.15,Movie,1,2017,499806
+44042,Holo no Graffiti,8.15,ONA,Unknown,2019,58220
+1430,Lupin III: Cagliostro no Shiro,8.15,Movie,1,1979,135766
+50709,Lycoris Recoil,8.15,TV,13,2022,566083
+49521,Non Non Biyori Nonstop: Bukatsu wo Ganbatta,8.15,OVA,1,2022,37297
+3701,Kaiba,8.14,TV,12,2008,174783
+28675,Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen,8.14,Movie,1,2015,287426
+30503,Noragami Aragoto,8.14,TV,13,2015,1529951
+721,Princess Tutu,8.14,TV,38,2002,180237
+48736,Sono Bisque Doll wa Koi wo Suru,8.14,TV,12,2022,1229273
+38481,Toaru Kagaku no Railgun T,8.14,TV,25,2020,259994
+34572,Black Clover,8.14,TV,170,2017,1824286
+3371,Ginga Eiyuu Densetsu Gaiden,8.14,OVA,24,1998,26330
+54856,Horimiya: Piece,8.14,TV,13,2023,419915
+28223,Death Parade,8.13,TV,12,2015,1874152
+50612,Dr. Stone: Ryuusui,8.13,TV Special,1,2022,355629
+41361,Eiga Daisuki Pompo-san,8.13,Movie,1,2021,61949
+39792,Eizouken ni wa Te wo Dasu na!,8.13,TV,12,2020,359541
+49053,Given: Uragawa no Sonzai,8.13,OVA,1,2021,98363
+37962,IDOLiSH7 Second Beat!,8.13,TV,15,2020,35395
+731,Interstella5555: The 5tory of The 5ecret 5tar 5ystem,8.13,Movie,1,2003,79680
+16662,Kaze Tachinu,8.13,Movie,1,2013,371498
+39592,Kidou Senshi Gundam: The Origin - Zenya Akai Suisei,8.13,TV,13,2019,27086
+9890,Major: Message,8.13,OVA,1,2010,43860
+11597,Nisemonogatari,8.13,TV,11,2012,761232
+4477,Nodame Cantabile: Paris-hen,8.13,TV,11,2008,129023
+51335,Shen Yin Wangzuo,8.13,ONA,26,2022,9884
+56738,Shinigami Bocchan to Kuro Maid 3rd Season,8.13,TV,12,2024,64630
+37430,Tensei shitara Slime Datta Ken,8.13,TV,24,2018,1580848
+55911,The Fable,8.13,TV,25,2024,93653
+31715,Working!!! Lord of the Takanashi,8.13,Special,1,2016,106971
+1827,Seirei no Moribito,8.12,TV,26,2007,230425
+28171,Shokugeki no Souma,8.12,TV,24,2015,1716835
+53888,Spy x Family Movie: Code: White,8.12,Movie,1,2023,213624
+21469,Stand By Me Doraemon,8.12,Movie,1,2014,61285
+25313,Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru,8.12,Special,1,2015,44630
+50528,Golden Kamuy 4th Season,8.12,TV,13,2022,112542
+36296,Hinamatsuri,8.12,TV,12,2018,542926
+14713,Kamisama Hajimemashita,8.12,TV,13,2012,704098
+1604,Katekyou Hitman Reborn!,8.12,TV,203,2006,578232
+35857,Lupin III: Part 5,8.12,TV,24,2018,47965
+59841,Ore dake Level Up na Ken: ReAwakening,8.12,Movie,1,2024,46119
+15059,Initial D Fifth Stage,8.11,TV,14,2012,165967
+20899,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8.11,TV,24,2014,1314125
+8129,Kuragehime,8.11,TV,11,2010,257306
+10153,Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's,8.11,Movie,1,2012,26463
+57524,Make Heroine ga Oosugiru!,8.11,TV,12,2024,293224
+1364,Meitantei Conan Movie 05: Tengoku e no Countdown,8.11,Movie,1,2001,68778
+6467,Meitantei Conan Movie 14: Tenkuu no Lost Ship,8.11,Movie,1,2010,61343
+12859,One Piece Film: Z,8.11,Movie,1,2012,306223
+15323,One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna,8.11,TV Special,1,2012,75207
+51122,Ookami to Koushinryou: Merchant Meets the Wise Wolf,8.11,TV,25,2024,244482
+40542,Saiki Kusuo no Ψ-nan: Ψ-shidou-hen,8.11,ONA,6,2019,241094
+50416,Skip to Loafer,8.11,TV,12,2023,322136
+29831,Tamayura: Sotsugyou Shashin Part 4 - Ashita,8.11,Movie,1,2016,13549
+53411,Buddy Daddies,8.11,TV,12,2023,331325
+18689,Diamond no Ace,8.11,TV,75,2013,260097
+121,Fullmetal Alchemist,8.11,TV,51,2003,1529436
+239,Gankutsuou,8.11,TV,24,2004,264160
+40421,Given Movie 1,8.11,Movie,1,2020,255859
+30370,Akatsuki no Yona OVA,8.10,OVA,3,2015,143313
+60420,Cang Yuan Tu 2nd Season,8.10,ONA,36,2024,1680
+35608,Chuunibyou demo Koi ga Shitai! Movie: Take On Me,8.10,Movie,1,2018,292708
+49709,Fumetsu no Anata e Season 2,8.10,TV,20,2022,315572
+30364,Haikyuu!! Movie 2: Shousha to Haisha,8.10,Movie,1,2015,107239
+2581,Kidou Senshi Gundam 00,8.10,TV,25,2007,230438
+1566,Koukaku Kidoutai: Stand Alone Complex - Solid State Society,8.10,TV Special,1,2006,105979
+50380,Paripi Koumei,8.10,TV,12,2022,321839
+9130,Saint Seiya: The Lost Canvas - Meiou Shinwa 2,8.10,OVA,13,2011,79616
+52347,"Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",8.10,TV,25,2023,414899
+339,Serial Experiments Lain,8.09,TV,13,1998,858930
+2236,Toki wo Kakeru Shoujo,8.09,Movie,1,2006,823698
+52826,Tsurune: Tsunagari no Issha,8.09,TV,13,2023,65577
+1382,Yuusha-Ou GaoGaiGar Final,8.09,OVA,8,2000,12630
+3702,Detroit Metal City,8.09,OVA,12,2008,221089
+6746,Durarara!!,8.09,TV,24,2010,1466273
+16918,Gin no Saji,8.09,TV,11,2013,307948
+32122,Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue,8.09,Special,1,2015,36730
+29755,Haikyuu!! Movie 1: Owari to Hajimari,8.09,Movie,1,2015,118496
+46569,Jigokuraku,8.09,TV,13,2023,850408
+6336,Kidou Senshi Gundam Unicorn,8.09,OVA,7,2010,104909
+30831,Kono Subarashii Sekai ni Shukufuku wo!,8.09,TV,10,2016,2091090
+31051,Kuroko no Basket: Saikou no Present desu,8.09,Special,1,2015,115162
+32902,Mahoutsukai no Yome: Hoshi Matsu Hito,8.09,OVA,3,2016,294400
+302,Mirai Shounen Conan,8.09,TV,26,1978,56097
+54650,Precure All Stars Movie F,8.09,Movie,1,2023,4272
+48661,JoJo no Kimyou na Bouken Part 6: Stone Ocean,8.08,ONA,12,2021,571221
+55701,Kimetsu no Yaiba: Hashira Geiko-hen,8.08,TV,8,2024,666428
+31658,Kuroko no Basket Movie 4: Last Game,8.08,Movie,1,2017,335080
+52293,New Panty & Stocking with Garterbelt,8.08,TV,13,2025,65037
+4938,Tsubasa: Shunraiki,8.08,OVA,2,2009,64690
+28025,Tsukimonogatari,8.08,TV Special,4,2014,436368
+58689,Yuanshen: Jinzhong Ge,8.08,ONA,1,2024,6405
+23283,Zankyou no Terror,8.08,TV,11,2014,1245076
+3901,Baccano! Specials,8.08,Special,3,2008,184756
+54789,Boku no Hero Academia 7th Season,8.08,TV,21,2024,404223
+3016,Ginga Eiyuu Densetsu: Arata naru Tatakai no Overture,8.08,Movie,1,1993,38714
+2951,Gintama: Nanigoto mo Saisho ga Kanjin nanode Tashou Senobisuru Kurai ga Choudoyoi,8.08,Special,1,2005,59962
+38081,Girls & Panzer: Saishuushou Part 2,8.08,Movie,1,2019,42922
+12069,Hajime no Ippo: Boxer no Kobushi,8.08,Special,1,2003,61738
+17739,Hidamari Sketch: Sae Hiro Sotsugyou-hen,8.08,OVA,2,2013,16429
+40815,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season,8.08,TV,12,2020,240732
+24833,Ansatsu Kyoushitsu,8.07,TV,22,2015,2150208
+36369,Ginga Eiyuu Densetsu: Die Neue These - Seiran 1,8.07,Movie,4,2019,32806
+135,Hikaru no Go,8.07,TV,75,2001,146852
+42429,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season,8.07,TV,10,2022,182624
+18661,Kamisama Hajimemashita OVA,8.07,OVA,2,2013,144271
+39198,Kanata no Astra,8.07,TV,12,2019,332550
+3927,Kidou Senshi Gundam 00 Second Season,8.07,TV,25,2008,158727
+50796,Kimi wa Houkago Insomnia,8.07,TV,13,2023,257401
+48895,Overlord IV,8.07,TV,13,2022,605312
+40080,Quanzhi Gaoshou: Dianfeng Rongyao,8.07,Movie,1,2019,55518
+4722,Skip Beat!,8.07,TV,25,2008,281831
+34076,Uchouten Kazoku 2,8.07,TV,12,2017,68256
+51096,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season,8.07,TV,13,2022,749361
+59306,Zhan Shen: Fanchen Shenyu,8.07,ONA,15,2024,4455
+32282,Shokugeki no Souma: Ni no Sara,8.06,TV,13,2016,1186085
+59828,Shoushimin Series 2nd Season,8.06,TV,12,2025,46406
+53887,Spy x Family Season 2,8.06,TV,12,2023,613140
+44218,Tunshi Xingkong,8.06,ONA,26,2020,11422
+66,Azumanga Daiou The Animation,8.06,TV,26,2002,406217
+56653,BanG Dream! Ave Mujica,8.06,TV,13,2025,29628
+1471,City Hunter 2,8.06,TV,63,1988,30674
+3665,Ginga Eiyuu Densetsu Gaiden (1999),8.06,OVA,28,1999,22136
+10643,Gintama: Dai Hanseikai,8.06,Special,1,2010,41162
+56980,Karasu wa Aruji wo Erabanai,8.06,TV,20,2024,55196
+31251,Kidou Senshi Gundam: Tekketsu no Orphans,8.06,TV,25,2015,263843
+2449,Koukaku Kidoutai: Stand Alone Complex - The Laughing Man,8.06,OVA,1,2005,43658
+22145,Kuroshitsuji: Book of Circus,8.06,TV,10,2014,434031
+31149,Persona 3 the Movie 4: Winter of Rebirth,8.06,Movie,1,2016,82555
+51367,JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2,8.05,ONA,12,2022,317831
+1486,Kodomo no Omocha (TV),8.05,TV,102,1996,75625
+237,Koukyoushihen Eureka Seven,8.05,TV,50,2005,452286
+11771,Kuroko no Basket,8.05,TV,25,2012,1278258
+851,Kyou kara Ore wa!!,8.05,OVA,10,1993,38552
+35062,Mahoutsukai no Yome,8.05,TV,24,2017,991785
+1367,Meitantei Conan Movie 08: Ginyoku no Magician,8.05,Movie,1,2004,61365
+21419,Meitantei Conan Movie 18: Ijigen no Sniper,8.05,Movie,1,2014,47844
+49320,Meitantei Conan Movie 25: Halloween no Hanayome,8.05,Movie,1,2022,19514
+56063,NieR:Automata Ver1.1a Part 2,8.05,TV,12,2024,102075
+1257,Saint Seiya: Meiou Hades Juuni Kyuu-hen,8.05,OVA,13,2002,61909
+13759,Sakura-sou no Pet na Kanojo,8.05,TV,24,2012,1300416
+4224,Toradora!,8.05,TV,25,2008,2312621
+24277,Yowamushi Pedal: Grande Road,8.05,TV,24,2014,148025
+6547,Angel Beats!,8.05,TV,13,2010,2159879
+33486,Boku no Hero Academia 2nd Season,8.05,TV,25,2017,2657808
+27833,Durarara!!x2 Ketsu,8.05,TV,12,2016,396273
+12189,Hyouka,8.05,TV,22,2012,1447466
+59675,Apocalypse Hotel,8.04,TV,12,2025,52714
+2025,Darker than Black: Kuro no Keiyakusha,8.04,TV,25,2007,988415
+38668,Dorohedoro,8.04,TV,12,2020,606254
+227,FLCL,8.04,OVA,6,2000,873289
+268,Golden Boy,8.04,OVA,6,1995,441856
+8425,Gosick,8.04,TV,24,2011,587300
+50587,Gridman Universe,8.04,Movie,1,2023,37934
+23317,Kuroshitsuji: Book of Murder,8.04,OVA,2,2015,266681
+781,Meitantei Conan Movie 03: Seikimatsu no Majutsushi,8.04,Movie,1,1999,70903
+59953,Mushen Ji,8.04,ONA,Unknown,2024,14059
+19815,No Game No Life,8.04,TV,12,2014,2508180
+21557,Omoide no Marnie,8.04,Movie,1,2014,324510
+4155,One Piece Film: Strong World,8.04,Movie,1,2009,272191
+1943,Paprika,8.04,Movie,1,2006,587129
+59459,Silent Witch: Chinmoku no Majo no Kakushigoto,8.04,TV,13,2025,107332
+40907,World Trigger 2nd Season,8.04,TV,12,2021,169184
+1559,Shijou Saikyou no Deshi Kenichi,8.03,TV,50,2006,317786
+25013,Akatsuki no Yona,8.03,TV,24,2014,911085
+889,Black Lagoon,8.03,TV,12,2006,1077490
+51836,Douluo Dalu II: Jueshi Tangmen,8.03,ONA,156,2023,6183
+27821,Fate/stay night: Unlimited Blade Works Prologue,8.03,TV Special,1,2014,339394
+59062,Gachiakuta,8.03,TV,24,2025,239102
+54791,Given Movie 2: Hiiragi Mix,8.03,Movie,1,2024,42779
+59654,Jujutsu Kaisen: Kaigyoku/Gyokusetsu,8.03,Movie,1,2025,45687
+18679,Kill la Kill,8.03,TV,24,2013,1808544
+2034,Lovely★Complex,8.03,TV,24,2007,631136
+1363,Meitantei Conan Movie 04: Hitomi no Naka no Ansatsusha,8.03,Movie,1,2000,67536
+1506,Meitantei Conan Movie 10: Tantei-tachi no Requiem,8.03,Movie,1,2006,61061
+38993,Karakai Jouzu no Takagi-san 2,8.02,TV,12,2019,353501
+41402,Mairimashita! Iruma-kun 2nd Season,8.02,TV,21,2021,356911
+49430,Mignon,8.02,ONA,12,2023,32370
+34822,Tsuki ga Kirei,8.02,TV,12,2017,580500
+42640,Wan Sheng Jie 2,8.02,ONA,12,2020,15114
+4918,xxxHOLiC Shunmuki,8.02,OVA,2,2009,74582
+33161,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA,8.02,OVA,1,2016,267061
+53410,Yuru Camp△ Season 3,8.02,TV,12,2024,96676
+4901,Black Lagoon: Roberta's Blood Trail,8.02,OVA,5,2010,321114
+2164,Dennou Coil,8.02,TV,26,2007,155711
+72,Full Metal Panic? Fumoffu,8.02,TV,12,2003,306806
+589,Ginga Nagareboshi Gin,8.02,TV,21,1986,29467
+1974,Glass no Kamen (2005),8.02,TV,51,2005,44038
+27989,Hibike! Euphonium,8.02,TV,13,2015,497615
+39783,5-toubun no Hanayome ∬,8.01,TV,12,2021,782038
+153,Juuni Kokuki,8.01,TV,45,2002,166815
+3783,Kara no Kyoukai Movie 3: Tsuukaku Zanryuu,8.01,Movie,1,2008,238434
+1096,Kidou Keisatsu Patlabor 2 the Movie,8.01,Movie,1,1993,43982
+6045,Kimi ni Todoke,8.01,TV,25,2009,1035425
+34626,Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!,8.01,OVA,1,2017,397840
+14513,Magi: The Labyrinth of Magic,8.01,TV,25,2012,1098145
+52107,Mononoke Movie: Karakasa,8.01,Movie,1,2024,43272
+20,Naruto,8.01,TV,220,2002,3026280
+9204,Omae Umasou da na,8.01,Movie,1,2010,22281
+44235,Pui Pui Molcar,8.01,TV,12,2021,18869
+59145,Ranma ½ (2024),8.01,TV,12,2024,141901
+49782,Shadows House 2nd Season,8.01,TV,12,2022,134754
+535,Slayers Next,8.01,TV,26,1996,74523
+5681,Summer Wars,8.01,Movie,1,2009,540880
+44931,Tonikaku Kawaii: SNS,8.01,OVA,1,2021,172423
+49587,Wan Sheng Jie 3,8.01,ONA,12,2022,10239
+1914,Saiunkoku Monogatari 2nd Season,8.00,TV,39,2007,44651
+42923,SK∞,8.00,TV,12,2021,610477
+16049,Toaru Kagaku no Railgun S,8.00,TV,24,2013,406946
+6211,Tokyo Magnitude 8.0,8.00,TV,11,2009,309430
+14813,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8.00,TV,13,2013,1525016
+59226,Ao no Exorcist: Yosuga-hen,8.00,TV,12,2025,72389
+27663,Baby Steps 2nd Season,8.00,TV,25,2015,95165
+41781,BanG Dream! Movie: Episode of Roselia - II: Song I Am.,8.00,Movie,1,2021,11845
+1482,D.Gray-man,8.00,TV,103,2006,719767
+2759,Evangelion Movie 1: Jo,8.00,Movie,1,2007,600559
+6421,Fullmetal Alchemist: Brotherhood Specials,8.00,Special,4,2009,166020
+61339,Jibaku Shounen Hanako-kun 2 Part 2,8.00,TV,12,2025,37117
+82,Kidou Senshi Gundam 0080: Pocket no Naka no Sensou,8.00,OVA,6,1989,67420
+9963,Meitantei Conan Movie 15: Chinmoku no Quarter,8.00,Movie,1,2011,52353
+7054,Kaichou wa Maid-sama!,7.99,TV,26,2010,1311090
+81,Kidou Senshi Gundam: Dai 08 MS Shoutai,7.99,OVA,12,1996,91251
+50631,"Komi-san wa, Comyushou desu. 2nd Season",7.99,TV,12,2022,535266
+6171,Saint Seiya: The Lost Canvas - Meiou Shinwa,7.99,OVA,13,2009,114182
+5365,Tsumiki no Ie,7.99,Movie,1,2008,100313
+40174,Zombieland Saga Revenge,7.99,TV,12,2021,231926
+37870,BanG Dream! 3rd Season,7.99,TV,13,2020,42223
+2167,Clannad,7.99,TV,23,2007,1477376
+2563,Aria the OVA: Arietta,7.98,OVA,1,2007,41158
+48585,Black Clover: Mahou Tei no Ken,7.98,Movie,1,2023,254112
+269,Bleach,7.98,TV,366,2004,2127407
+36456,Boku no Hero Academia 3rd Season,7.98,TV,25,2018,2312393
+42250,Bungou Stray Dogs Wan!,7.98,TV,12,2021,130492
+223,Dragon Ball,7.98,TV,153,1986,1108639
+4789,ef: A Tale of Melodies.,7.98,TV,12,2008,169237
+3167,Eve no Jikan,7.98,ONA,6,2008,193003
+16,Hachimitsu to Clover,7.98,TV,24,2005,280378
+387,Haibane Renmei,7.98,TV,13,2002,318146
+2004,Hanada Shounen-shi,7.98,TV,25,2002,18236
+16706,Kami nomi zo Shiru Sekai: Megami-hen,7.98,TV,12,2013,361611
+14807,Kara no Kyoukai Movie: Mirai Fukuin,7.98,Movie,1,2013,123211
+9656,Kimi ni Todoke 2nd Season,7.98,TV,12,2011,536080
+35788,Shokugeki no Souma: San no Sara,7.98,TV,12,2017,1021774
+1065,Touch,7.98,TV,101,1985,39201
+1023,Wolf's Rain OVA,7.98,OVA,4,2004,74813
+35382,Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness,7.98,Special,1,2017,89910
+846,School Rumble Ni Gakki,7.97,TV,26,2006,169425
+23777,Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa,7.97,Movie,1,2015,148346
+41611,Wan Sheng Jie,7.97,ONA,12,2020,31604
+861,xxxHOLiC,7.97,TV,24,2006,339231
+31173,Akagami no Shirayuki-hime 2nd Season,7.97,TV,12,2016,381604
+34440,Code Geass: Hangyaku no Lelouch III - Oudou,7.97,Movie,1,2018,101603
+23199,Durarara!!x2 Shou,7.97,TV,12,2015,505367
+39468,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,7.97,TV,14,2019,349901
+40716,Kakushigoto,7.97,TV,12,2020,347092
+2448,Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven,7.97,OVA,1,2006,32210
+4672,Koukaku Kidoutai 2.0,7.96,Movie,1,2008,92208
+416,Kurenai no Buta,7.96,Movie,1,1992,276157
+60726,My Melody & Kuromi,7.96,ONA,12,2025,4603
+30015,ReLIFE,7.96,TV,13,2016,1108143
+59497,Rising Impact Season 2,7.96,ONA,14,2024,13083
+401,Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen,7.96,OVA,2,2001,88464
+543,Vampire Hunter D (2000),7.96,Movie,1,2000,228953
+32615,Youjo Senki,7.96,TV,12,2017,1003411
+34376,Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 3 - Yakusoku,7.96,Movie,1,2017,16328
+53499,Aikatsu! 10th Story: Mirai e no Starway (2023),7.96,Movie,1,2023,2790
+58143,Aishang Ta de Liyou Extra,7.96,ONA,1,2024,8256
+27831,Durarara!!x2 Ten,7.96,TV,12,2015,413850
+2890,Gake no Ue no Ponyo,7.96,Movie,1,2008,630822
+967,Hokuto no Ken,7.96,TV,109,1984,139517
+36963,IDOLiSH7 Vibrato,7.96,ONA,8,2018,17561
+54915,5-toubun no Hanayome∽,7.95,TV Special,2,2023,87955
+48411,Aria the Benedizione,7.95,Movie,1,2021,10874
+996,Bishoujo Senshi Sailor Moon: Sailor Stars,7.95,TV,34,1996,120149
+7465,Eve no Jikan (Movie),7.95,Movie,1,2010,129225
+33970,Girls & Panzer: Saishuushou Part 1,7.95,Movie,1,2017,55557
+38422,High Score Girl: Extra Stage,7.95,OVA,3,2019,79949
+9996,Hyouge Mono,7.95,TV,39,2011,30950
+77,Mahou Shoujo Lyrical Nanoha A's,7.95,TV,13,2005,68401
+40397,Maoujou de Oyasumi,7.95,TV,12,2020,238487
+50593,"Natsu e no Tunnel, Sayonara no Deguchi",7.95,Movie,1,2022,221802
+7720,Ookiku Furikabutte: Natsu no Taikai-hen,7.95,TV,13,2010,46988
+42916,Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria,7.95,Movie,1,2021,278047
+59939,Tunshi Xingkong Movie: Xueluo Dalu,7.95,ONA,1,2024,1674
+25879,Working!!!,7.95,TV,13,2015,259679
+50346,Yofukashi no Uta,7.95,TV,13,2022,711578
+51180,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season,7.95,TV,13,2024,483486
+36702,Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou,7.94,Movie,1,2018,80698
+2154,Tekkon Kinkreet,7.94,Movie,1,2006,120423
+4053,Tennis no Oujisama: Zenkoku Taikai-hen - Final,7.94,OVA,7,2008,38658
+38349,Wotaku ni Koi wa Muzukashii OVA,7.94,OVA,3,2019,226406
+41923,Yi Nian Yong Heng,7.94,ONA,52,2020,21578
+4772,Aria the Origination: Sono Choppiri Himitsu no Basho ni...,7.94,Special,1,2008,23224
+59077,Benghuai: Xing Qiong Tiedao - Gelamo de Yujin,7.94,ONA,1,2024,2907
+37150,Douluo Dalu,7.94,ONA,26,2018,32950
+38084,Fate/Grand Order: Zettai Majuu Sensen Babylonia,7.94,TV,21,2019,303420
+51318,Hanma Baki: Son of Ogre 2nd Season,7.94,ONA,27,2023,106272
+39570,High Score Girl II,7.94,TV,9,2019,147293
+1530,Kanon (2006),7.94,TV,24,2006,284603
+31973,Kidou Senshi Gundam Thunderbolt,7.94,ONA,4,2015,62432
+33221,Kidou Senshi Gundam Thunderbolt: December Sky,7.94,Movie,1,2016,27645
+2076,Kindaichi Shounen no Jikenbo,7.94,TV,148,1997,35334
+5678,Kobato.,7.94,TV,24,2009,174447
+38080,Kono Oto Tomare!,7.94,TV,13,2019,338375
+7222,Macross F Movie 2: Sayonara no Tsubasa,7.94,Movie,1,2011,29436
+5029,Major Movie: Yuujou no Winning Shot,7.94,Movie,1,2008,22150
+16067,Nagi no Asu kara,7.94,TV,26,2013,627208
+17549,Non Non Biyori,7.94,TV,12,2013,447024
+20507,Noragami,7.94,TV,12,2014,2269040
+57616,Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season,7.93,TV,12,2025,150496
+1089,Macross: Do You Remember Love?,7.93,Movie,1,1984,52547
+52865,Romantic Killer,7.93,ONA,12,2022,269910
+60285,Sakamoto Days Part 2,7.93,TV,11,2025,156931
+12477,Sakasama no Patema,7.93,Movie,1,2013,311940
+36949,Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,7.93,TV,12,2018,759012
+2618,Takarajima,7.93,TV,26,1978,24076
+58509,Zhu Xian 2nd Season,7.93,ONA,26,2024,2905
+39565,Boku no Hero Academia the Movie 2: Heroes:Rising,7.93,Movie,1,2019,610811
+122,Full Moon wo Sagashite,7.93,TV,52,2002,115816
+11239,Hidamari Sketch x Honeycomb,7.93,TV,12,2012,27126
+645,Hikaru no Go: Hokuto Hai e no Michi,7.93,Special,1,2004,25548
+61595,I Byeol-e Pil-yohan,7.93,ONA,1,2025,11936
+4059,"Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",7.92,Special,1,2008,315159
+58883,Dead Dead Demons Dededede Destruction (ONA),7.92,ONA,17,2024,60785
+2761,Densetsu Kyojin Ideon: Hatsudou-hen,7.92,Movie,1,1982,12683
+50207,Fanren Xiu Xian Chuan 2nd Season,7.92,ONA,51,2021,4558
+34100,Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai,7.92,Movie,1,2017,102799
+38337,Gochuumon wa Usagi desu ka? Bloom,7.92,TV,12,2020,70592
+56609,Kizumonogatari: Koyomi Vamp,7.92,Movie,1,2024,20382
+41169,Love Live! Superstar!!,7.92,TV,12,2021,76758
+10721,Mawaru Penguindrum,7.92,TV,24,2011,313127
+15689,Nekomonogatari: Kuro,7.92,TV Special,4,2012,578557
+46422,Niehime to Kemono no Ou,7.92,TV,24,2023,94542
+10049,Nurarihyon no Mago: Sennen Makyou,7.92,TV,24,2011,170779
+8740,One Piece Film: Strong World Episode 0,7.92,OVA,1,2010,90920
+31174,Osomatsu-san,7.92,TV,25,2015,179386
+5682,Phantom: Requiem for the Phantom,7.92,TV,26,2009,350044
+35790,Tate no Yuusha no Nariagari,7.92,TV,25,2019,1712283
+658,Touhai Densetsu Akagi: Yami ni Maiorita Tensai,7.92,TV,26,2005,111252
+11113,Usagi Drop Specials,7.92,Special,4,2011,74168
+35968,Wotaku ni Koi wa Muzukashii,7.92,TV,11,2018,1066699
+793,xxxHOLiC Movie: Manatsu no Yoru no Yume,7.92,Movie,1,2005,69875
+18179,Yowamushi Pedal,7.92,TV,38,2013,243638
+48171,Summer Ghost,7.91,Movie,1,2021,138105
+21647,Tamako Love Story,7.91,Movie,1,2014,415488
+28,Yakitate!! Japan,7.91,TV,69,2004,103494
+30279,Yuru Yuri San☆Hai!,7.91,TV,12,2015,131278
+55310,Atarashii Joushi wa Do Tennen,7.91,TV,12,2023,67958
+34944,Bungou Stray Dogs: Dead Apple,7.91,Movie,1,2018,305093
+38409,Cike Wu Liuqi,7.91,ONA,10,2018,130135
+1470,City Hunter,7.91,TV,51,1987,88975
+2450,Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu,7.91,Movie,1,2001,12994
+15,Eyeshield 21,7.91,TV,145,2005,192740
+73,Full Metal Panic! The Second Raid,7.91,TV,13,2005,269580
+21855,Hanamonogatari,7.91,TV Special,5,2014,446344
+187,Initial D Third Stage,7.91,Movie,1,2001,199747
+53924,Jibaku Shounen Hanako-kun 2,7.91,TV,12,2025,86912
+59177,Kaijuu 8-gou 2nd Season,7.91,TV,11,2025,239062
+11739,Kimi to Boku. 2,7.91,TV,13,2012,93375
+33206,Kobayashi-san Chi no Maid Dragon,7.91,TV,13,2017,1299404
+16001,Kokoro Connect: Michi Random,7.91,Special,4,2012,270196
+1695,Les Misérables: Shoujo Cosette,7.91,TV,52,2007,33475
+24997,Love Live! The School Idol Movie,7.91,Movie,1,2015,136946
+55742,Mahoutsukai no Yome Season 2 Part 2,7.91,TV,12,2023,114628
+56785,Meitantei Conan Movie 27: 100-man Dollar no Michishirube,7.91,Movie,1,2024,12383
+60108,One Piece: Gyojin Tou-hen,7.91,TV,21,2024,37165
+37675,Overlord III,7.91,TV,13,2018,981899
+27775,Plastic Memories,7.91,TV,13,2015,1003323
+37932,Quanzhi Gaoshou 2,7.91,ONA,12,2020,127483
+59360,Rock wa Lady no Tashinami deshite,7.91,TV,13,2025,66173
+427,Kaleido Star,7.90,TV,51,2003,90954
+7711,Karigurashi no Arrietty,7.90,Movie,1,2010,381319
+6774,Kuuchuu Buranko,7.90,TV,11,2009,99715
+17265,Log Horizon,7.90,TV,25,2013,1163968
+6438,Meitantei Conan OVA 09: 10-nengo no Stranger,7.90,OVA,1,2009,22265
+29803,Overlord,7.90,TV,13,2015,1707933
+61508,Shen Yin Wangzuo Movie: Yi Lai Ke Si Chuanqi,7.90,ONA,1,2025,1088
+4106,Trigun: Badlands Rumble,7.90,Movie,1,2010,150525
+48580,Vanitas no Karte,7.90,TV,12,2021,600493
+32995,Yuri!!! on Ice,7.90,TV,12,2016,931942
+52976,Berserk: Ougon Jidai-hen - Memorial Edition,7.90,TV,13,2022,50630
+532,Bishoujo Senshi Sailor Moon S,7.90,TV,38,1994,155482
+59001,Cheng He Titong,7.90,ONA,24,2024,15246
+59898,City The Animation,7.90,TV,13,2025,57584
+34437,Code Geass: Fukkatsu no Lelouch,7.90,Movie,1,2019,335555
+7338,Darker than Black: Kuro no Keiyakusha Gaiden,7.90,Special,4,2010,265978
+22961,Date A Live II: Kurumi Star Festival,7.90,OVA,1,2014,197046
+57066,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen,7.90,TV,15,2024,194764
+790,Ergo Proxy,7.90,TV,23,2006,693650
+35222,Gakuen Babysitters,7.90,TV,12,2018,367767
+7062,Hidamari Sketch x ☆☆☆,7.90,TV,12,2010,30258
+54118,IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD,7.90,Movie,2,2023,4212
+2829,Ie Naki Ko Remy,7.90,TV,23,1996,23417
+2952,Final Fantasy VII: Advent Children Complete,7.89,OVA,1,2009,137106
+3907,Ginga Sengoku Gunyuuden Rai,7.89,TV,52,1994,17566
+9289,Hanasaku Iroha,7.89,TV,26,2011,343167
+53199,Kidou Senshi Gundam: Suisei no Majo Season 2,7.89,TV,12,2023,104188
+85,Kidou Senshi Zeta Gundam,7.89,TV,50,1985,84082
+53287,Love Live! Superstar!! 3rd Season,7.89,TV,12,2024,20560
+27947,Lupin III (2015),7.89,TV,24,2015,76314
+28297,Ore Monogatari!!,7.89,TV,24,2015,717676
+35848,Promare,7.89,Movie,1,2019,296670
+18397,Shingeki no Kyojin OVA,7.89,OVA,3,2013,494001
+12815,Shirokuma Cafe,7.89,TV,50,2012,100655
+16395,SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi,7.89,OVA,1,2013,23354
+20057,Space☆Dandy,7.89,TV,13,2014,381063
+14075,Zetsuen no Tempest,7.89,TV,24,2012,619091
+3228,Zoku Sayonara Zetsubou Sensei,7.89,TV,13,2008,138214
+114,Sakigake!! Cromartie Koukou,7.88,TV,26,2003,150530
+24,School Rumble,7.88,TV,26,2004,340257
+31098,Ushio to Tora (TV) 2nd Season,7.88,TV,13,2016,138755
+37786,Yagate Kimi ni Naru,7.88,TV,13,2018,370893
+29893,Aria the Avvenire,7.88,Special,3,2015,30778
+41462,BanG Dream! Film Live 2nd Stage,7.88,Movie,1,2021,9316
+34438,Code Geass: Hangyaku no Lelouch I - Koudou,7.88,Movie,1,2017,110526
+38436,Doupo Cangqiong 3rd Season,7.88,ONA,12,2019,11015
+31339,Drifters,7.88,TV,12,2016,603415
+36028,Golden Kamuy,7.88,TV,12,2018,432969
+35075,Hoozuki no Reitetsu 2nd Season,7.88,TV,13,2017,50470
+2828,Ie Naki Ko,7.88,TV,51,1977,18972
+13331,Jormungand: Perfect Order,7.88,TV,12,2012,204545
+12031,Kingdom,7.88,TV,38,2012,244567
+1088,Macross,7.88,TV,36,1982,119618
+3572,Macross F,7.88,TV,25,2008,153123
+36563,Megalo Box,7.88,TV,13,2018,535452
+780,Meitantei Conan Movie 02: 14-banme no Target,7.88,Movie,1,1998,68550
+30952,New Initial D Movie: Legend 3 - Mugen,7.88,Movie,1,2016,31279
+38201,Osomatsu-san Movie,7.88,Movie,1,2019,16788
+249,InuYasha,7.87,TV,167,2000,841124
+1594,Jigoku Shoujo Futakomori,7.87,TV,26,2006,169089
+14719,JoJo no Kimyou na Bouken (TV),7.87,TV,26,2012,1786739
+52168,Kidou Senshi Gundam: Suisei no Majo - Prologue,7.87,Special,1,2022,53438
+32547,Non Non Biyori Repeat: Hotaru ga Tanoshinda,7.87,OVA,1,2016,52724
+31490,One Piece Film: Gold,7.87,Movie,1,2016,242107
+2159,Ookiku Furikabutte,7.87,TV,25,2007,105135
+322,Paradise Kiss,7.87,TV,12,2005,250128
+957,Saiunkoku Monogatari,7.87,TV,39,2006,102873
+11813,Shijou Saikyou no Deshi Kenichi OVA,7.87,OVA,11,2012,61233
+995,Tennis no Oujisama: Zenkoku Taikai-hen,7.87,OVA,13,2006,48913
+2752,Tennis no Oujisama: Zenkoku Taikai-hen - Semifinal,7.87,OVA,6,2007,40032
+57183,Wu Dong Qian Kun 4th Season,7.87,ONA,12,2023,2601
+58930,Yuanshen: Weixing Zhi Lu,7.87,ONA,1,2024,3749
+55153,Yuzuki-san Chi no Yonkyoudai.,7.87,TV,12,2023,69282
+41782,BanG Dream! Movie: Poppin' Dream!,7.87,Movie,1,2022,12352
+12113,Berserk: Ougon Jidai-hen II - Doldrey Kouryaku,7.87,Movie,1,2012,227739
+10012,Carnival Phantasm,7.87,OVA,12,2011,206897
+59205,Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha,7.87,TV,12,2025,94749
+14353,Death Billiards,7.87,Movie,1,2013,248908
+2471,Doraemon (1979),7.87,TV,1787,1979,69787
+26213,Free! Eternal Summer: Kindan no All Hard!,7.87,Special,1,2015,97728
+934,Higurashi no Naku Koro ni,7.87,TV,26,2006,841131
+38408,Boku no Hero Academia 4th Season,7.86,TV,25,2019,1842882
+51680,Cool Doji Danshi,7.86,TV,24,2022,108304
+2924,ef: A Tale of Memories.,7.86,TV,12,2007,265500
+3014,Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai,7.86,Movie,1,1988,43560
+7645,Heartcatch Precure!,7.86,TV,49,2010,36038
+35082,Hibike! Euphonium Movie 2: Todoketai Melody,7.86,Movie,1,2017,35233
+5680,K-On!,7.86,TV,13,2009,1102474
+10080,Kami nomi zo Shiru Sekai II,7.86,TV,12,2011,404312
+16782,Kotonoha no Niwa,7.86,Movie,1,2013,911257
+55855,Kuroshitsuji: Kishuku Gakkou-hen,7.86,TV,11,2024,101883
+50403,Liang Bu Yi 2nd Season,7.86,ONA,24,2022,6571
+34021,Lupin the IIIrd: Chikemuri no Ishikawa Goemon,7.86,Movie,1,2017,44389
+25517,Magic Kaito 1412,7.86,TV,24,2014,133074
+4985,Mahou Shoujo Lyrical Nanoha: The Movie 1st,7.86,Movie,1,2010,32992
+779,Meitantei Conan Movie 01: Tokei Jikake no Matenrou,7.86,Movie,1,1997,77119
+38770,Meitantei Conan Movie 23: Konjou no Fist,7.86,Movie,1,2019,33059
+795,Oniisama e...,7.86,TV,39,1991,53437
+6007,Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu,7.86,OVA,1,2009,179067
+33926,Quanzhi Gaoshou,7.86,ONA,12,2017,387352
+58059,Tsue to Tsurugi no Wistoria,7.86,TV,12,2024,317665
+49570,Wu Dong Qian Kun 3rd Season,7.86,ONA,12,2022,5168
+37936,Wu Shan Wu Xing (2020),7.86,ONA,3,2020,70633
+6377,Zan Sayonara Zetsubou Sensei,7.86,TV,13,2009,112120
+2605,Sayonara Zetsubou Sensei,7.85,TV,12,2007,359972
+23775,Shingeki no Kyojin Movie 1: Guren no Yumiya,7.85,Movie,1,2014,139776
+3588,Soul Eater,7.85,TV,51,2008,1718920
+2158,Terra e... (TV),7.85,TV,24,2007,65648
+42249,Tokyo Revengers,7.85,TV,24,2021,1360659
+41389,Tonikaku Kawaii,7.85,TV,12,2020,808230
+949,Top wo Nerae! Gunbuster,7.85,OVA,6,1988,139566
+54790,Undead Girl Murder Farce,7.85,TV,13,2023,175431
+6586,Yume-iro Pâtissière,7.85,TV,50,2009,89115
+23225,Yuru Yuri Nachuyachumi!,7.85,OVA,1,2015,77766
+54846,Aishang Ta de Liyou,7.85,ONA,22,2023,45975
+283,Akage no Anne,7.85,TV,50,1979,50768
+30415,High☆Speed! Movie: Free! Starting Days,7.85,Movie,1,2015,98011
+37029,Hoozuki no Reitetsu 2nd Season: Sono Ni,7.85,TV,13,2018,31541
+9734,K-On!!: Keikaku!,7.85,Special,1,2011,132698
+6862,K-On!: Live House!,7.85,Special,1,2010,168964
+49828,Kidou Senshi Gundam: Suisei no Majo,7.85,TV,12,2022,178358
+18429,Lupin III vs. Meitantei Conan: The Movie,7.85,Movie,1,2013,36035
+54764,Madogiwa no Totto-chan,7.85,Movie,1,2023,4853
+35798,Meitantei Conan Movie 22: Zero no Shikkounin,7.85,Movie,1,2018,34676
+36215,One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken,7.85,TV Special,1,2017,46507
+50739,Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken,7.85,TV,12,2023,394808
+42745,Machikado Mazoku: 2-choume,7.84,TV,12,2022,75078
+30885,Noragami Aragoto OVA,7.84,OVA,2,2015,268839
+25161,One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai,7.84,TV Special,1,2014,100804
+36796,Owarimonogatari 2nd Season Recaps,7.84,TV Special,2,2017,27993
+26123,Seitokai Yakuindomo* OVA,7.84,OVA,10,2014,84636
+8063,Sekaiichi Hatsukoi OVA,7.84,OVA,2,2011,73709
+22,Tennis no Oujisama,7.84,TV,178,2001,194246
+49889,Tsuki ga Michibiku Isekai Douchuu 2nd Season,7.84,TV,25,2024,305813
+54829,Urusei Yatsura (2022) 2nd Season,7.84,TV,23,2024,54497
+1921,Urusei Yatsura 2: Beautiful Dreamer,7.84,Movie,1,1984,23841
+47405,Wanmei Shijie,7.84,ONA,234,2021,13096
+60541,Wu Dong Qian Kun 5th Season,7.84,ONA,12,2025,1874
+35507,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e,7.84,TV,12,2017,1402481
+49469,Beastars Final Season,7.84,ONA,12,2024,97145
+9513,Beelzebub,7.84,TV,60,2011,621554
+37435,Carole & Tuesday,7.84,TV,24,2019,345245
+52505,Dark Gathering,7.84,TV,25,2023,173199
+8408,Durarara!! Specials,7.84,Special,2,2010,172372
+55993,Fanren Xiu Xian Chuan: Xinghai Feichi Xuzhang,7.84,ONA,4,2023,14159
+40262,Haikyuu!! Riku vs. Kuu,7.84,OVA,2,2020,333441
+24471,Hoozuki no Reitetsu OVA,7.84,OVA,4,2015,19085
+15039,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie,7.83,Movie,1,2013,308566
+31964,Boku no Hero Academia,7.83,TV,13,2016,3203692
+40956,Enen no Shouboutai: Ni no Shou,7.83,TV,24,2020,876418
+48830,Free! Movie 5: The Final Stroke - Kouhen,7.83,Movie,1,2022,46355

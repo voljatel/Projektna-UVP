@@ -1,4 +1,4 @@
-﻿anime_id,studio
+﻿anime id,studio
 52991,Madhouse
 5114,Bones
 9253,White Fox
@@ -174,7 +174,6 @@
 3297,HAL Film Maker
 57334,Science SARU
 33049,ufotable
-37379,Madhouse
 44087,Bandai Namco Pictures
 60988,add some
 392,Studio Pierrot
@@ -184,6 +183,7 @@
 31181,Shaft
 35737,Studio M2
 36649,MAPPA
+37379,Madhouse
 58222,Lerche
 50265,Wit Studio
 50265,CloverWorks
@@ -295,7 +295,6 @@
 5081,Shaft
 28701,ufotable
 42886,Production I.G
-51805,Production I.G
 10162,Production I.G
 2559,Nippon Animation
 54870,CloverWorks
@@ -307,6 +306,7 @@
 34534,Shuka
 1210,Gonzo
 55644,TMS Entertainment
+51805,Production I.G
 137,Nippon Animation
 31043,A-1 Pictures
 30230,Production I.G
@@ -333,12 +333,12 @@
 12531,Tezuka Productions
 12531,MAPPA
 10863,White Fox
+58390,LIDENFILMS
 43325,Production I.G
 45,Gallop
 45,Studio Deen
 2150,Telescreen
 759,Madhouse
-58390,LIDENFILMS
 54595,Nexus
 486,A.C.G.T.
 11917,SynergySP
@@ -361,6 +361,7 @@
 44412,Motion Magic
 38691,TMS Entertainment
 3002,Madhouse
+35111,Production I.G
 57433,CloverWorks
 23327,Bones
 32188,White Fox
@@ -375,7 +376,6 @@
 53111,J.C.Staff
 57067,Original Force
 57067,Wonder Cat Animation
-35111,Production I.G
 264,Madhouse
 265,Madhouse
 139,Nippon Animation
@@ -614,7 +614,6 @@
 28025,Shaft
 58689,add some
 23283,MAPPA
-59306,Shenman Entertainment
 3901,Brain's Base
 54789,Bones
 3016,Kitty Film Mitaka Studio
@@ -636,6 +635,7 @@
 4722,HAL Film Maker
 34076,P.A. Works
 51096,Lerche
+59306,Shenman Entertainment
 32282,J.C.Staff
 59828,Lapin Track
 53887,Wit Studio
@@ -743,9 +743,9 @@
 1482,TMS Entertainment
 2759,Khara
 6421,Bones
+61339,Lerche
 82,Sunrise
 9963,TMS Entertainment
-61339,Lerche
 7054,J.C.Staff
 81,Sunrise
 50631,OLM
@@ -880,7 +880,6 @@
 30279,TYO Animations
 55310,A-1 Pictures
 34944,Bones
-59001,Shengying Animation
 38409,Sharefun Studio
 38409,AHA Entertainment
 1470,Sunrise
@@ -915,6 +914,7 @@
 32995,MAPPA
 52976,Studio 4°C
 532,Toei Animation
+59001,Shengying Animation
 59898,Kyoto Animation
 34437,Sunrise
 7338,Bones
@@ -1063,333 +1063,3 @@
 31964,Bones
 40956,David Production
 48830,Kyoto Animation
-54968,Nomad
-14175,P.A. Works
-3604,Shaft
-36593,Toei Animation
-429,Gonzo
-56704,Larx Entertainment
-32380,Studio Deen
-32871,Production I.G
-31741,Lay-duce
-4087,Manglobe
-569,Tatsunoko Production
-1376,Toei Animation
-400,Sunrise
-20371,Studio Deen
-36106,Wit Studio
-48849,Madhouse
-6582,AIC ASTA
-9941,Sunrise
-52093,Orange
-6505,add some
-58517,CygamesPictures
-53859,Fenz
-53859,HMCH
-890,Sunrise
-34504,GoHands
-42091,Wit Studio
-849,Kyoto Animation
-54918,LIDENFILMS
-17909,P.A. Works
-40615,Studio Hibari
-48548,Bibury Animation Studios
-32998,Shuka
-1485,Studio Pierrot
-51716,Toei Animation
-51716,Studio Deen
-388,Studio Comet
-12893,Sunrise
-39534,Lerche
-49784,Bandai Namco Pictures
-28881,SANZIGEN
-28881,LIDENFILMS
-50410,Toei Animation
-4280,ufotable
-37765,Sunrise
-48926,OLM
-56175,Passione
-56175,Studio Lings
-43439,CloverWorks
-49200,LAN Studio
-49363,Bones Film
-39575,Satelight
-39575,HORNETS
-12445,SILVER LINK.
-10521,A-1 Pictures
-12403,Doga Kobo
-9465,Production I.G
-9465,Xebec
-31478,Bones
-966,Shin-Ei Animation
-48702,MAPPA
-2397,Toei Animation
-985,Toei Animation
-23289,Doga Kobo
-28669,Toei Animation
-4872,Shaft
-29093,8bit
-267,Madhouse
-40372,Tomoyasu Murata Company
-40046,NAZ
-24921,SANZIGEN
-1472,Sunrise
-2035,Ajia-do
-2623,Nippon Animation
-2321,Phoenix Entertainment
-31433,Production I.G
-9563,Shaft
-451,Sunrise
-253,Shin-Ei Animation
-33489,Trigger
-4472,Kyoto Animation
-40082,TMS Entertainment
-40082,Marza Animation Planet
-7304,TMS Entertainment
-57559,Felix Film
-19613,SANZIGEN
-19613,LIDENFILMS
-54724,CloverWorks
-33190,David Production
-31592,OLM
-11123,Studio Deen
-4163,Gonzo
-4163,AIC
-44196,Motion Magic
-1172,E&G Films
-32093,SILVER LINK.
-49733,Production I.G
-38850,Toei Animation
-45055,SynergySP
-29830,TYO Animations
-16870,Studio Pierrot
-22319,Studio Pierrot
-95,Sunrise
-51761,CygamesPictures
-202,Bones
-21185,Studio Pierrot
-39195,Orange
-46352,Seven Arcs
-9724,Production I.G
-9724,Xebec
-33280,production doA
-49738,Science SARU
-12413,White Fox
-49893,Kyoto Animation
-3545,Gallop
-28725,A-1 Pictures
-16916,Production I.G
-14349,Trigger
-23293,Telecom Animation Film
-22097,Lay-duce
-34745,Production I.G
-55813,A-1 Pictures
-1366,TMS Entertainment
-875,Studio 4°C
-50360,Studio Bind
-55745,Foch Film
-8038,J.C.Staff
-468,Production I.G
-570,Production I.G
-254,Shin-Ei Animation
-97,Gonzo
-1729,Studio Deen
-1505,TMS Entertainment
-4447,TMS Entertainment
-464,Toei Animation
-15771,A-1 Pictures
-34375,Studio Gokumi
-40215,Fanworks
-60334,The Answer Studio
-38990,Djinn Power
-6768,Sunrise
-10029,Studio Ghibli
-552,Toei Animation
-37033,ufotable
-35806,Production I.G
-2762,Group TAC
-31733,Toei Animation
-6351,Kyoto Animation
-55151,Motion Magic
-6033,Toei Animation
-1824,Madhouse
-60658,P.A. Works
-35678,Kyoto Animation
-20431,Wit Studio
-39938,Science SARU
-34451,Bones
-80,Sunrise
-1425,Tokyo Movie Shinsha
-5310,Satelight
-5310,8bit
-8310,TMS Entertainment
-39764,TMS Entertainment
-40858,Production I.G
-210,Studio Deen
-57554,LIDENFILMS
-1253,Toei Animation
-397,Sunrise
-2273,Sunrise
-44068,Sparkly Key Animation Studio
-53126,Madhouse
-58555,Fenz
-30902,TYO Animations
-30727,A-1 Pictures
-1254,Toei Animation
-9088,Anpro
-40814,GoHands
-5005,AIC ASTA
-55651,Seven Arcs
-46431,feel.
-30123,Bones
-40935,Orange
-9252,Production I.G
-9252,Xebec
-21867,TMS Entertainment
-1491,Toei Animation
-29787,Kinema Citrus
-29787,White Fox
-38333,production doA
-11237,Shaft
-5231,OLM
-49220,Atelier Pontdarc
-3782,ufotable
-32870,Production I.G
-41221,Paper Plane Animation Studio
-19111,Sunrise
-13203,TMS Entertainment
-52955,Studio Kafka
-57993,Passione
-57993,Studio Lings
-48896,Madhouse
-1092,Sunrise
-32869,Production I.G
-1887,Kyoto Animation
-6115,TMS Entertainment
-8609,TMS Entertainment
-35073,Madhouse
-7588,Manglobe
-53129,CloverWorks
-10083,Daume
-1279,Studio Pierrot
-26,Madhouse
-52741,David Production
-54839,Doga Kobo
-7044,Shaft
-41674,J.C.Staff
-530,Toei Animation
-40429,Toei Animation
-40429,Studio Deen
-35320,Madhouse
-28999,P.A. Works
-1473,Sunrise
-47164,J.C.Staff
-1281,Studio Pierrot
-37959,Brain's Base
-21877,J.C.Staff
-37873,SANZIGEN
-37873,DMM.futureworks
-40854,SANZIGEN
-8142,Sunrise
-8142,Ascension
-41461,Geek Toys
-35120,Science SARU
-38400,Kyoto Animation
-35198,Kyoto Animation
-35198,Animation Do
-2508,Arms
-1571,J.C.Staff
-17895,J.C.Staff
-19319,Sunrise
-54035,HuaMei Animation
-3603,APPP
-93,Sunrise
-33263,Shaft
-49776,feel.
-49776,Gaina
-60572,Big Firebird Culture
-35658,Production I.G
-19489,Trigger
-39196,Bandai Namco Pictures
-3750,Studio Deen
-58492,Soigne
-353,Toei Animation
-8795,Gainax
-20159,Production I.G
-20159,Xebec
-20159,OLM
-1007,Studio Deen
-1007,Kitty Film Mitaka Studio
-59791,Studio Bind
-10119,GoHands
-20815,Studio Deen
-56768,Studio Deen
-29829,TYO Animations
-32673,LIDENFILMS
-51769,Foch Film
-54285,Ruo Hong Culture
-2143,Studio Pierrot
-2143,Arms
-154,Xebec
-91,Sunrise
-39940,J.C.Staff
-407,Studio Pierrot
-52305,Lay-duce
-54900,CloverWorks
-54112,BUG FILMS
-740,Toei Animation
-978,Brain's Base
-1818,Madhouse
-8687,Shin-Ei Animation
-41219,Original Force
-41219,Wonder Cat Animation
-41497,CloverWorks
-18619,Actas
-29095,8bit
-5630,Production I.G
-4886,Sunrise
-1379,A.C.G.T.
-1910,Madhouse
-28479,TMS Entertainment
-59612,Shaft
-42670,CygamesPictures
-43691,PINE JAM
-11887,SILVER LINK.
-10090,Production I.G
-4080,Studio Deen
-18153,Kyoto Animation
-25015,Kyoto Animation
-55748,Sunrise
-59369,A-1 Pictures
-1462,Madhouse
-1462,Studio 4°C
-709,Madhouse
-709,Telecom Animation Film
-7724,Daume
-534,E&G Films
-51533,Seven Arcs
-11001,Production I.G
-23249,Xebec
-37985,Fanworks
-37924,Fanworks
-37924,Imagineer
-49123,SANZIGEN
-49123,W-Toon Studio
-49123,DMM.futureworks
-531,Toei Animation
-1520,Tezuka Productions
-2994,Madhouse
-38145,Zero-G
-22777,Toei Animation
-40906,Toei Animation
-38671,David Production
-39014,Kyoto Animation
-39014,Animation Do
-6984,Shaft
-31483,Bones
-9074,Shaft
-49283,Zexcs
-10218,Studio 4°C
-6024,Madhouse
-39178,Motion Magic
-44248,Lerche

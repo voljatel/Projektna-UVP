@@ -9,10 +9,7 @@ anime_osnovno = []
 anime_studii = []
 anime_zvrsti = []
 
-for limit in range(0, 1300, 50): # 26 strani (0 do 1250) kar nam da 1300 animejev
-    # 1300 namesto 1000 zaradi opažene težave s pridobivanjem podatkov o zvrsteh,
-    # tiste animeje pri katerih vrne prazen seznam zvrsti bomo ignorirali
-    # tako bo skupaj pribljižno 1000 animejev
+for limit in range(0, 1000, 50): # 20 strani (0 do 950) kar nam da 1000 animejev
     print(f"pridobivam stran od mesta {limit + 1}...")
     url = f"https://myanimelist.net/topanime.php?limit={limit}"
     soup = url_v_soup(url)
@@ -27,7 +24,7 @@ for limit in range(0, 1300, 50): # 26 strani (0 do 1250) kar nam da 1300 animeje
         
         # Izlušči id
         anime_id = izlusci_id(anime["povezava"])
-        anime["anime_id"] = anime_id
+        anime["anime id"] = anime_id
 
         # Shranimo osnovne podatke
         anime_osnovno.append({
@@ -35,18 +32,19 @@ for limit in range(0, 1300, 50): # 26 strani (0 do 1250) kar nam da 1300 animeje
             "naslov": anime["naslov"],
             "ocena": anime["ocena"],
             "tip": anime["tip"],
-            "število epizod": anime["epizode"],
+            "število epizod": anime["število epizod"],
             "leto izdaje": anime["leto izdaje"],
+            "število članov": anime["število članov"],
         })
 
         # Shrani zvrsti
         if anime["zvrsti"]: # Samo če seznam ni prazen (popravek napake)
             for z in anime["zvrsti"]:
-                anime_zvrsti.append({"anime_id": anime_id, "zvrst": z})
+                anime_zvrsti.append({"anime id": anime_id, "zvrst": z})
 
         # Shrani studie
         for s in anime["studii"]:
-            anime_studii.append({"anime_id": anime_id, "studio": s})
+            anime_studii.append({"anime id": anime_id, "studio": s})
 
 
         time.sleep(1) # Majhna pavza da ne obremenjujemo strežnika
