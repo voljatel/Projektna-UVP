@@ -1,7 +1,7 @@
 # Projektna-UVP Analiza Top 1000 rated animejev iz MAL
 Avtor: Leon Perko
 ## Uvod
-Za projektno nalogo sem analiziral podatke s spletne strani ([My anime list (MAL)](https://myanimelist.net/)), ki je praktično IMDB ampak za anime (japonske animirane serije/filme). Podatki o top 1000 najbolje ocenjenih animejih so bili pobrani 28.8.2025
+Za projektno nalogo sem analiziral podatke s spletne strani ([My anime list (MAL)](https://myanimelist.net/)) (Če dobite error 403 samo zgoraj skopirajte link v nov zavihek), ki je praktično IMDB ampak za anime (japonske animirane serije/filme). Podatki o top 1000 najbolje ocenjenih animejih so bili pobrani 28.8.2025
 ## Navodila
 Za brezhibno uporabo mora imeti uporabnik naložene naslednje knjižnice:
 - pandas
