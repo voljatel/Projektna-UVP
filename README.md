@@ -2,6 +2,17 @@
 Avtor: Leon Perko
 ## Uvod
 Za projektno nalogo sem analiziral podatke s spletne strani ([My anime list (MAL)](https://myanimelist.net/)) (Če dobite error 403 samo zgoraj skopirajte link v nov zavihek), ki je praktično IMDB ampak za anime (japonske animirane serije/filme). Podatki o top 1000 najbolje ocenjenih animejih so bili pobrani 28.8.2025
+
+Nekaj vprašanj na katera poskusimo odgovoriti v tej nalogi:
+- Ali so animeji čedalje boljši/slabši?
+- Katere so najpohostejše zvrsti?
+- Ali obstaja povezava med priljubljenostjo in oceno?
+- Kaj pa med dolžino in priljubljenostjo?
+- Kateri so najbolj priljubljeni in kateri so najboljši anime studii?
+- Kateri tipi (TV, filmi, OVA, ONA...) so najbolj priljubljeni?
+- Kaj so si ljudje mislili o posameznih zvrsteh skozi čas?
+- Katere zvrsti imajo v povprečju najdaljše animeje?
+
 ## Navodila
 Za brezhibno uporabo mora imeti uporabnik naložene naslednje knjižnice:
 - pandas
