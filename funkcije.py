@@ -65,7 +65,7 @@ def izlusci_studie(soup):
     return studii
 
 def izlusci_tip(soup):
-    # Izlusci tipe (TV, Movie, OVA, ...)
+    # Izlusci tip (TV, Movie, OVA, ...)
     oznaka_tipa = soup.find("span", string="Type:")
     if oznaka_tipa:
         return oznaka_tipa.find_next("a").text.strip()
@@ -73,7 +73,7 @@ def izlusci_tip(soup):
         return None
 
 def izlusci_epizode(soup):
-    # izlušči število epizod 
+    # Izlušči število epizod 
     oznaka_ep = soup.find("span", string= "Episodes:")
     if oznaka_ep:
         return oznaka_ep.next_sibling.strip()
@@ -90,7 +90,7 @@ def izlusci_zvrsti(soup):
     return zvrsti
 
 def izlusci_leto(soup):
-    # Izlošči leto prve izdaje animeja
+    # Izlošči leto prve izdaje
     oznaka_premiere = soup.find("span", string="Aired:")
     if oznaka_premiere: 
         text = oznaka_premiere.next_sibling.strip()
@@ -108,7 +108,7 @@ def izlusci_stevilo(text):
     return int(re.sub(r"[^\d]", "", text)) # Odstrani vse razen številk
 
 def izlusci_clane(soup):
-    # Izlušči število članov (members) iz strani animeja
+    # Izlušči število članov (members)
     oznaka_clanov = soup.find("span", string="Members:")
     for oznaka_clanov in oznaka_clanov.parent:
         return izlusci_stevilo(oznaka_clanov.parent.text)
