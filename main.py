@@ -3,7 +3,7 @@ import time
 import pandas as pd
 
 # Glavna zanka 
-# Uporabimo funckije iz funkcije.py da zberemo vse potrebne podatke in jih nato shranimo v csv
+# Uporabimo funckije iz funkcije.py da zberemo vse potrebne podatke in jih nato shranimo v csv-je
 
 anime_osnovno = []
 anime_studii = []
@@ -38,7 +38,7 @@ for limit in range(0, 1000, 50): # 20 strani (0 do 950) kar nam da 1000 animejev
         })
 
         # Shrani zvrsti
-        if anime["zvrsti"]: # Samo če seznam ni prazen (popravek napake)
+        if anime["zvrsti"]: # Samo če seznam ni prazen
             for z in anime["zvrsti"]:
                 anime_zvrsti.append({"anime id": anime_id, "zvrst": z})
 
